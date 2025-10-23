@@ -1,0 +1,17 @@
+.card-detail{
+    margin-top: 50px;
+    max-width: 500px;
+}
+
+/* Asegurá que el contenedor ocupe todo el ancho y permita centrar su contenido */
+main.card-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centra horizontalmente los elementos hijos */
+  justify-content: flex-start; /* opcional, si querés que empiece desde arriba */
+  width: 100%;
+  max-width: 600px; /* ancho máximo para no estirar demasiado en pantallas grandes */
+  margin: 2rem auto; /* margen superior/inferior y auto horizontal para centrar */
+  box-sizing: border-box;
+  padding: 1rem;
+}

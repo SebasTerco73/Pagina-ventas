@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "name": "Reposera de aluminio MOOR",
+    "listPrice": 27000,
+    "price": 37000,
+    "category": "hogar",
+    "description": "8 posiciones - Estructura de aluminio - Plegable - Hasta 160kg aprox - Resistente y práctica",
+    "imageUrl": "/images/reposera.jfif"
+  },
+  {
+    "id": "2",
+    "name": "Pochoclera - DINAX",
+    "listPrice": 34900,
+    "price": 50000,
+    "category": "cocina",
+    "description": "Interruptor ON/OFF - Listo en 3 minutos - Cocción por aire caliente - Con carrito - Electronica",
+    "imageUrl": "/images/pochocleraDinax.jfif"
+  },
+  {
+    "id": "3",
+    "name": "Proyector Portatil Dinax",
+    "listPrice": 65000,
+    "price": 75000,
+    "category": "tecnología",
+    "description": "4K Ultra HD - Brillo 200 ANSI ideal para usar de dia y de noche - Conexión HDMI + USB - Control remoto y cable listos para usar - Sonido estéreo integrado con tecnología Wireless BT 5.0",
+    "imageUrl": "/images/proyectorDinax.jfif"
+  },
+  {
+    "id": "4",
+    "name": "Tv Stick Android tv",
+    "listPrice": 32999,
+    "price": 45000,
+    "category": "tecnología",
+    "description": "Último sistema de Android TV - Asistente de Google tv, Transmite tus programas de tv favoritos, descarga aplicaciones y juegos de Google Play",
+    "imageUrl": "/images/tvStick.jfif"
+  },
+  {
+    "id": "5",
+    "name": "Tv Box Dinax ON-TV",
+    "listPrice": 25500,
+    "price": 36000,
+    "category": "tecnología",
+    "description": "4k - 8GB RAM - 128GB ROM - Rendimiento fluido y amplio almacenamiento - Conectividad WI-FI - Multiples puertos USB y HDMI - No incluye MAGIS",
+    "imageUrl": "/images/tvBoxDinax.jfif"
+  },
+  {
+    "id": "6",
+    "name": "Set de 105 herramientas OMAHA",
+    "listPrice": 36500,
+    "price": 47000,
+    "category": "herramientas",
+    "description": "Sin detalle",
+    "imageUrl": "/images/setHerramientasOMAHA.jfif"
+  },
+  {
+    "id": "7",
+    "name": "Wafflera electrica DINAX",
+    "listPrice": 28900,
+    "price": 39000,
+    "category": "cocina",
+    "description": "4 placas antiadherentes de doble capa - indicadora de encendido",
+    "imageUrl": "/images/waffleraElectricaDinax.jfif"
+  },
+  {
+    "id": "8",
+    "name": "Depiladora  VELVET",
+    "listPrice": 24900,
+    "price": 35000,
+    "category": "tecnología",
+    "description": "Autonomia 45 minutos - USB - Unifica un mismo clable, practico para viajes - mas ecologico - 2 Velocidades",
+    "imageUrl": "/images/depiladoraVelvet.jfif"
+  },
+  {
+    "id": "9",
+    "name": "Rizador de pelo DINAX",
+    "listPrice": 17000,
+    "price": 27000,
+    "category": "tecnología",
+    "description": "Rizado automatico - Regulación de temperatura - Apagado automatico - Calentamiento rápido en 10 segundos",
+    "imageUrl": "/images/rizadorDePeloDinax.jfif"
+  },
+  {
+    "id": "10",
+    "name": "Tostadora Electrica LILIANA",
+    "listPrice": 23999,
+    "price": 35000,
+    "category": "cocina",
+    "description": "Potencia 750W - Facil de limpiar - Práctica y segura para preparar tostadas a gusto",
+    "imageUrl": "/images/tostadoraElectricaLiliana.jfif"
+  },
+  {
+    "id": "11",
+    "name": "Cafetera Atma Mickey",
+    "listPrice": 37999,
+    "price": 48000,
+    "category": "cocina",
+    "description": "Incluye taza modelo Mickey Mouse - Dimensiones: 236X250X152 mm - Filtro desmontable - Interruptor ON/OFF",
+    "imageUrl": "/images/cafeteraAtmaMickey.jfif"
+  },
+  {
+    "id": "12",
+    "name": "Cafetera Atma Stich",
+    "listPrice": 35900,
+    "price": 46000,
+    "category": "cocina",
+    "description": "Incluye taza modelo Stich - Potencia 550W - Cafetera de filtro y con porta filtros desmontable para facilitar la limpieza",
+    "imageUrl": "/images/cafeteraAtmaStich.jfif"
+  },
+  {
+    "id": "13",
+    "name": "Climatizador Evaporativo AIR COOLER FAN",
+    "listPrice": 35900,
+    "price": 26000,
+    "category": "hogar",
+    "description": "Funciona mediante la evaporación de agua, que se invierte en un depósito - Puede usarse con agua fría o cubitos de hielo para una mayor sensación de frescura - Además de enfriar, a menudo funciona como humidificador y purificador de aire - Varias velocidades de ventilación, luces LED y temporizador - Es ideal para uso personal en espacios pequeños como oficinas o dormitorios, y se alimenta a través de un cable USB",
+    "imageUrl": "/images/airCoolerFan.jfif"
+  },
+  {
+    "id": "14",
+    "name": "Amoladora Angular Lustoff",
+    "listPrice": 38500,
+    "price": 49000,
+    "category": "herramientas",
+    "description": "Tensión 220v - 50Hz - Potencia 850 W - Diámetro 115mm",
+    "imageUrl": "/images/amoladoraAngularLustoff.jfif"
+  },
+  {
+    "id": "15",
+    "name": "Reposeras plegables",
+    "listPrice": 26500,
+    "price": 37000,
+    "category": "hogar",
+    "description": "5 posiciones - Plegable - Soporta hasta 180kg",
+    "imageUrl": "/images/reposeraPlegable.jfif"
+  },
+  {
+    "id": "16",
+    "name": "Ventilador Turbo",
+    "listPrice": 28500,
+    "price": 42000,
+    "category": "hogar",
+    "description": "Magiclick - 5 aspas - Potencia 90W - Diseño 2 en 1, para pared y piso",
+    "imageUrl": "/images/ventiladorMagiClick.jfif"
+  },
+  {
+    "id": "17",
+    "name": "Ventilador StarTrack Metal",
+    "listPrice": 32600,
+    "price": 45000,
+    "category": "hogar",
+    "description": "Aspas Metal - 90W - Pie turbo,pared - Motor 100% cobre - 1.70 Mts altura - 3 niveles de potencia - Base Volante y modo oscilante ",
+    "imageUrl": "/images/ventiladorStarTrack.jfif"
+  },
+  {
+    "id": "18",
+    "name": "Ventilador StarTrack Plástico",
+    "listPrice": 29500,
+    "price": 42000,
+    "category": "hogar",
+    "description": "Aspas Plásticas - 90W - Pie turbo,pared - Motor 100% cobre - 1.70 Mts altura - 3 niveles de potencia - Base Volante y modo oscilante ",
+    "imageUrl": "/images/ventiladorStarTrack.jfif"
+  },
+  {
+    "id": "19",
+    "name": "Freidora de aire Maverick",
+    "listPrice": 36000,
+    "price": 47000,
+    "category": "cocina",
+    "description": "Airf2 1000w - 2L - Sin aceite - Te permite cocinar de manera rápida y eficiente, ahorrando tiempo y energía",
+    "imageUrl": "/images/freidoraMaverick.jfif"
+  },
+  {
+    "id": "20",
+    "name": "Anafe DINAX",
+    "listPrice": 30000,
+    "price": 40000,
+    "category": "cocina",
+    "description": "Vitricerámico - 5 modos de cocción - Bajo consumo de energía - Cocina rapida y saludable",
+    "imageUrl": "/images/anafeDinax.jfif"
+  },
+  {
+    "id": "21",
+    "name": "Tostadora DINAX",
+    "listPrice": 21800,
+    "price": 32000,
+    "category": "cocina",
+    "description": "Negra y blanca - Hasta 2 rebanadas de pan - 6 niveles de tostado ajustables - Bandeja recogemigas que facilita la limpieza",
+    "imageUrl": "/images/tostadoraDinax.jfif"
+  },
+  {
+    "id": "22",
+    "name": "Anafe Dinax Doble",
+    "listPrice": 24500,
+    "price": 35000,
+    "category": "cocina",
+    "description": "2 hornallas eléctricas - Potencia 2200W - Perillas regulables de temperatura en cada hornalla",
+    "imageUrl": "/images/anafeDinaxDoble.jfif"
+  },
+  {
+    "id": "23",
+    "name": "Desmalezadora KLD",
+    "listPrice": 95000,
+    "price": 110000,
+    "category": "herramientas",
+    "description": "Motor 2T • 2,2 HP • 7500 rpm • Tanque 1200 ml • Peso 5,9 kg Potente, liviana y lista para uso intensivo",
+    "imageUrl": "/images/desmalezadoraKld.jfif"
+  },
+  {
+    "id": "24",
+    "name": "Sandwichera DINAX",
+    "listPrice": 17900,
+    "price": 27000,
+    "category": "cocina",
+    "description": "Ideal para preparar sándwiches,  y tostados de fora rápida y sencilla. Placas antiadherentes, capacidad para 2 sándwiches, mango resistente al calor y cierre de seguridad.",
+    "imageUrl": "/images/sandwicheraDinax.jfif"
+  },
+  {
+    "id": "25",
+    "name": "Pochoclera Azana",
+    "listPrice": 17000,
+    "price": 25000,
+    "category": "cocina",
+    "description": "Facil de preparar - Cocción sin aceite - Interruptor on/off - Cocción con circulación de aire caliente",
+    "imageUrl": "/images/pochocleraAzana.jfif"
+  },
+  {
+    "id": "26",
+    "name": "Yogurtera Atma",
+    "listPrice": 43900,
+    "price": 54000,
+    "category": "cocina",
+    "description": "Digital - 7 frascos de vidrio de 200ml - Temporizador digital con apagado automatico",
+    "imageUrl": "/images/yogurteraAtma.jfif"
+  },
+  {
+    "id": "27",
+    "name": "Conservadora Soprano",
+    "listPrice": 34499,
+    "price": 45000,
+    "category": "cocina",
+    "description": "3 en 1 - 32L - Plastico resistente y duradero, fácil de limpiar - Adecuada para mantener la frescura de alimentos y bebidas durante 24hs - Ideal para playa, picnic y viajes familiares",
+    "imageUrl": "/images/conservadoraSoprano.jfif"
+  },
+  {
+    "id": "28",
+    "name": "Secador de calzados",
+    "listPrice": 21900,
+    "price": 35000,
+    "category": "tecnología",
+    "description": "Shoe Dryer - Dispositivo eléctrico diseñado para secar zapatos de forma rápida y eficiente, evitando daños causados por métodos tradicionales como la secadora o la exposición Al Sol",
+    "imageUrl": "/images/shoeDryer.jfif"
+  }
+]

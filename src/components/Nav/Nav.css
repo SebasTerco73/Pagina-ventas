@@ -1,0 +1,197 @@
+/* Nav.css - adaptado para tu Nav.jsx */
+
+/* ---------- NAV CONTAINER ---------- */
+nav {
+  background-color: #eceff1; /* gris claro */
+  color: #1e2a36; /* texto oscuro */
+  padding: 0.8rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Logo wrapper */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-right: 10px;
+}
+
+/* Logo image (nota: no uses la misma clase .logo para el img) */
+.logo-img {
+  height: 56px;
+  width: auto;
+  display: block;
+  user-select: none;
+}
+
+/* ---------- BOTÓN HAMBURGUESA (móvil) ---------- */
+.menu-toggle {
+  display: none;         /* oculto en escritorio */
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #1e2a36;
+  padding: 0.25rem;
+  margin-left: 10px;
+}
+
+/* ---------- LISTA DE CATEGORÍAS (nav ul) ---------- */
+.categorias {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+/* Ajuste para que el link sea el elemento clickeable */
+.categorias li a {
+  text-decoration: none;
+  color: #1e2a36;
+  font-weight: 500;
+  transition: color 0.25s ease, transform 0.15s ease;
+  display: inline-block;
+  padding: 0.25rem 0.15rem;
+}
+
+.categorias li a:hover {
+  color: #ffaa33; /* color de hover del ejemplo */
+  transform: scale(1.03);
+  text-decoration: underline;
+}
+
+
+/* ---------- BUSCADOR ---------- */
+.buscador {
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+.buscador input {
+  padding: 0.45rem 0.85rem;
+  border-radius: 6px;
+  border: 1px solid #d0d4d8;
+  font-size: 0.95rem;
+  min-width: 180px;
+  background-color: #333;
+  color: #bfbfbf;
+  outline: none;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);
+  transition: box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.buscador input::placeholder {
+  color: #bfbfbf;
+}
+
+.buscador input:focus {
+  outline: none;
+  border-color: #0077cc; 
+  box-shadow: 0 0 6px rgba(0, 119, 204, 0.3);
+}
+
+/* ---------- RESPONSIVE (mobile behavior) ---------- */
+@media (max-width: 835px) {
+  nav {
+    padding: 0.6rem 1rem;
+  }
+
+  /* Mostrar botón hamburguesa */
+  .menu-toggle {
+    display: block;
+  }
+
+  /* Ocultar inicialmente las categorías y buscador; se muestran cuando .abierto */
+  .categorias {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #2f2f2f;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    display: none;           /* oculto por defecto en móvil */
+    border-top: 1px solid rgba(255,255,255,0.04);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+  }
+
+  .categorias li a {
+    color: #f0f0f0; /* texto claro sobre fondo oscuro */
+  }
+
+  .categorias li a:hover {
+    color: #ffaa33; /* mantiene el hover naranja */
+  }
+
+  /* Clase para mostrar el menú (agregar 'abierto' desde React) */
+  .categorias.abierto {
+    display: flex;
+    animation: slideDown 180ms ease-out;
+  }
+
+  /* Buscador pasa debajo dentro del menú (si querés que quede fuera, ajustá) */
+  .buscador {
+    width: 100%;
+    padding: 0 1rem 0 1rem;
+    order: 2;
+    display: block;
+    justify-content: center;
+  }
+
+  .buscador input {
+    width: 100%;
+    min-width: 0;
+    max-width: 300px;
+  }
+}
+
+/* pequeña animación para que el desplegado se sienta mejor */
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------- ACCESIBILIDAD / FOCOS ---------- */
+.menu-toggle:focus,
+.buscador input:focus,
+.categorias li a:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(244,180,0,0.14);
+}
+
+@media (max-width: 570px) {
+  .buscador {
+    width: 100%;
+    padding: 0 1rem 0 0;
+    margin-left: 0;
+    order: 2;
+    display: block;
+    justify-content: center;
+  }
+
+  .logo {
+    margin-right: 0;
+  }
+
+  .menu-toggle {
+    margin-left: 5px;
+  }
+}
