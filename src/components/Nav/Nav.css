@@ -69,6 +69,12 @@ nav {
   text-decoration: underline;
 }
 
+.categorias li .activo {
+  font-weight: bold;
+  color: #ff6600;
+  border-bottom: 2px solid #ff6600;
+}
+
 
 /* ---------- BUSCADOR ---------- */
 .buscador {

@@ -55,7 +55,7 @@
   },
   {
     "id": "7",
-    "name": "Wafflera electrica DINAX",
+    "name": "Wafflera DINAX",
     "listPrice": 28900,
     "price": 39000,
     "category": "cocina",
@@ -82,7 +82,7 @@
   },
   {
     "id": "10",
-    "name": "Tostadora Electrica LILIANA",
+    "name": "Tostadora LILIANA",
     "listPrice": 23999,
     "price": 35000,
     "category": "cocina",
@@ -250,5 +250,59 @@
     "category": "tecnología",
     "description": "Shoe Dryer - Dispositivo eléctrico diseñado para secar zapatos de forma rápida y eficiente, evitando daños causados por métodos tradicionales como la secadora o la exposición Al Sol",
     "imageUrl": "/images/shoeDryer.jfif"
+  },
+  {
+    "id": "29",
+    "name": "Pava Liliana",
+    "listPrice": 27900,
+    "price": 38000,
+    "category": "cocina",
+    "description": "Liliana 85° - Matera - Rendimiento óptimo - Temperatura prefijada de 85°C ideal para preparar mate sin quemar las hojas - Potencia de 2000W",
+    "imageUrl": "/images/pavaMatera.jfif"
+  },
+  {
+    "id": "30",
+    "name": "Pava Liliana Selector",
+    "listPrice": 33600,
+    "price": 44000,
+    "category": "cocina",
+    "description": "Liliana - Matera - Selector de temperatura regulable - Corte automático al hervir - Doble visor del nivel de agua - Funcionalidad y diseño",
+    "imageUrl": "/images/pavaLilianaSelector.jfif"
+  },
+  {
+    "id": "31",
+    "name": "Pava Atma",
+    "listPrice": 28000,
+    "price": 38000,
+    "category": "cocina",
+    "description": "Filtro doble acción - Color Blanco/Negro - Eficiencia, diseño moderno, control de temperatura y durabilidad - On/Off - Conexion 360°",
+    "imageUrl": "/images/pavaAtma.jfif"
+  },
+   {
+    "id": "32",
+    "name": "Pava Philco",
+    "listPrice": 30900,
+    "price": 40000,
+    "category": "cocina",
+    "description": "Capacidad 1.7 Lts - Conexion 360° - Indicador del nivel de agua - On/Off",
+    "imageUrl": "/images/pavaPhilco.jfif"
+  },
+  {
+    "id": "33",
+    "name": "Pava Philco Selector",
+    "listPrice": 29900,
+    "price": 40000,
+    "category": "cocina",
+    "description": "Capacidad 1.7 Lts - Selector de temperatura y corte automático - Filtro extraíble de doble acción",
+    "imageUrl": "/images/pavaPhilcoSelector.jfif"
+  },
+  {
+    "id": "34",
+    "name": "Pava Liliana Blanca Selector",
+    "listPrice": 33600,
+    "price": 44000,
+    "category": "cocina",
+    "description": "Selector de temperatura regulable - Corte automático al hervir - Doble visor del nivel de agua - Funcionalidad y diseño",
+    "imageUrl": "/images/pavaLilianaBlanca.jfif"
   }
 ]

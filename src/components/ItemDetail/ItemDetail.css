@@ -1,5 +1,9 @@
 /* ---------- RESPONSIVE ---------- */
 
+.btn-volver{
+  margin-top: 20px;
+}
+
 /* Tablets horizontales (~≤992px) */
 @media (max-width: 992px) {
   .item-list-container {
