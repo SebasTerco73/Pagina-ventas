@@ -26,8 +26,13 @@ nav {
 .logo-img {
   height: 56px;
   width: auto;
-  display: block;
   user-select: none;
+  transition: transform 0.15s ease;
+  display: inline-block;
+}
+
+.logo-img:hover {
+  transform: scale(1.03);
 }
 
 /* ---------- BOTÓN HAMBURGUESA (móvil) ---------- */
