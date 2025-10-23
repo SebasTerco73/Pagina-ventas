@@ -10,11 +10,14 @@
   display: flex;
   justify-content: center;
   margin: 20px 0;
+  flex-shrink: 0; /* evita que se contraiga en móvil */
+  order: 0; /* aseguramos que esté arriba */
 }
 
 .buscador input {
   width: 100%;
   max-width: 400px;
+  min-width: 100px; /* opcional: evita que sea demasiado chico */
   padding: 10px 14px;
   border-radius: 6px;
   border: 1px solid #555;
@@ -61,4 +64,13 @@
 .paginacion button:disabled {
   opacity: 0.5;
   cursor: default;
+}
+
+@media (max-width: 480px) {
+  .buscador {
+    margin: 10px 0;
+  }
+  .buscador input {
+    max-width: 100%;
+  }
 }
