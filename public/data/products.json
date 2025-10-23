@@ -278,7 +278,7 @@
     "description": "Filtro doble acción - Color Blanco/Negro - Eficiencia, diseño moderno, control de temperatura y durabilidad - On/Off - Conexion 360°",
     "imageUrl": "/images/pavaAtma.jfif"
   },
-   {
+  {
     "id": "32",
     "name": "Pava Philco",
     "listPrice": 30900,
@@ -304,5 +304,59 @@
     "category": "cocina",
     "description": "Selector de temperatura regulable - Corte automático al hervir - Doble visor del nivel de agua - Funcionalidad y diseño",
     "imageUrl": "/images/pavaLilianaBlanca.jfif"
+  },
+  {
+    "id": "35",
+    "name": "Especiero 16 piezas",
+    "listPrice": 24500,
+    "price": 35000,
+    "category": "cocina",
+    "description": "16 frascos de vidrio con tapas metálicas - Gira 360° para acceder fácilmente - Base firme y diseño premium de acero inoxidable",
+    "imageUrl": "/images/especiero16.jfif"
+  },
+  {
+    "id": "36",
+    "name": "Especiero 7 piezas",
+    "listPrice": 16500,
+    "price": 25000,
+    "category": "cocina",
+    "description": "6 frascos de vidrio + base giratorio - Tapa metálica con dosificadores - Diseño moderno y resistente - Ideal para cocina o mesa",
+    "imageUrl": "/images/especiero7.jfif"
+  },
+  {
+    "id": "37",
+    "name": "Microondas Atma",
+    "listPrice": 133800,
+    "price": 154000,
+    "category": "cocina",
+    "description": "Rotativo - Black - 20L - Simple, práctico y eficiente - Potencia 700W - 5 niveles de potencia - Descongelado automático",
+    "imageUrl": "/images/microondasAtma.jfif"
+  },
+  {
+    "id": "38",
+    "name": "Especiero 18 piezas",
+    "listPrice": 22900,
+    "price": 33000,
+    "category": "cocina",
+    "description": "18 frascos - Base rotativa 360° - Diseño moderno y resistente, ideal para cocina o mostrador",
+    "imageUrl": "/images/especiero18.jfif"
+  },
+  {
+    "id": "39",
+    "name": "Set Utensillos Duaff",
+    "listPrice": 13500,
+    "price": 24000,
+    "category": "cocina",
+    "description": "12 piezas - Material de silicona - Mango de madera - Negro, Blanco, Rojo",
+    "imageUrl": "/images/utensillosDuaff.jfif"
+  },
+  {
+    "id": "40",
+    "name": "Set Utensillos Duaff",
+    "listPrice": 13500,
+    "price": 24000,
+    "category": "cocina",
+    "description": "12 piezas - Material de silicona - Mango de madera - Negro, Blanco, Rojo",
+    "imageUrl": "/images/utensillosDuaff.jfif"
   }
 ]
