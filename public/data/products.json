@@ -352,11 +352,272 @@
   },
   {
     "id": "40",
-    "name": "Set Utensillos Duaff",
-    "listPrice": 13500,
-    "price": 24000,
+    "name": "Escalera Konan",
+    "listPrice": 124000,
+    "price": 140000,
+    "category": "herramientas",
+    "description": "Aluminio Reforzadp - 4.7 M Altura - Soporta 150 KG - Su diseño permite utilizarla en diversas posiciones, adaptándose a diferentes necesidades de trabajo o uso doméstico.",
+    "imageUrl": "/images/escaleraKonan.jfif"
+  },
+  {
+    "id": "41",
+    "name": "Conservadora 24 Latas",
+    "listPrice": 26000,
+    "price": 36000,
     "category": "cocina",
-    "description": "12 piezas - Material de silicona - Mango de madera - Negro, Blanco, Rojo",
+    "description": "onservadora portátil para mantener tus bebidas frías durante varias horas, idea para camping, playa , viajes - Correa cómoda para transportarla fácilmente, con gancho reforzado.",
+    "imageUrl": "/images/latasConservadoras.jfif"
+  },
+  {
+    "id": "42",
+    "name": "Horno Microondas",
+    "listPrice": 142900,
+    "price": 160000,
+    "category": "tecnología",
+    "description": "Whirlpool - 20 L - Acero Inoxidable - Moderno y eficiente  que ofrece múltiples funciones como coccion, descongelado, entre otros. Adaptándose a distintas necesidades de cocina",
     "imageUrl": "/images/utensillosDuaff.jfif"
+  },
+  {
+    "id": "43",
+    "name": "Cepillo de dientes Electrico",
+    "listPrice": 10500,
+    "price": 22000,
+    "category": "tecnología",
+    "description": "Inteligente - Cargador - Durabilidad 3 meses x cabezal - Vibracion y 6 niveles de limpieza",
+    "imageUrl": "/images/cepilloDientes.jfif"
+  },
+  {
+    "id": "44",
+    "name": "Camara Dinax",
+    "listPrice": 16000,
+    "price": 27000,
+    "category": "tecnología",
+    "description": "Wifi - Visión Nocturna - Visión HD - Sensor movimiento - Tarjeta SD larga duracion",
+    "imageUrl": "/images/camaraDinax2.jfif"
+  },
+  {
+    "id": "45",
+    "name": "Planchita Gama",
+    "listPrice": 49999,
+    "price": 65000,
+    "category": "hogar",
+    "description": "Titan Keratin - Patines revestidos en Titanio + Keratina, ideales para lograr un alisado rápido, suave y con brillo intenso - Control digital de temperatura mediante pantalla LED - Protege la fibra capilar, reduce el frizz y deja el cabello más resistente y sedoso",
+    "imageUrl": "/images/planchitaGama.jfif"
+  },
+  {
+    "id": "46",
+    "name": "Ventilador Liliana",
+    "listPrice": 64999,
+    "price": 80000,
+    "category": "hogar",
+    "description": "20'' - 5 aspas - 90W de potencia - Cabezal oscilante - Altura regulable - 3 Velocidades",
+    "imageUrl": "/images/ventiladorLiliana.jfif"
+  },
+  {
+    "id": "47",
+    "name": "Camara Wifi Antenas",
+    "listPrice": 19200,
+    "price": 30000,
+    "category": "hogar",
+    "description": "Camara de seguridad vigilancia infrarrojo controle antena - protección inteligente 24/7 - Alcance de visión infrarroja hasta 10mts aprox - Diseño compacto y elegante , ideal para interiores - Triple antena WIFI para mayor estabilidad de conexión para transmision fluida - Recibí notificaciónes en tu celular o email ante detección de movimiento",
+    "imageUrl": "/images/camaraAntenas.jfif"
+  },
+  {
+    "id": "48",
+    "name": "Set Manicura & Pedicura",
+    "listPrice": 23000,
+    "price": 35000,
+    "category": "hogar",
+    "description": "Ideal para el cuidado completo de manos y pies - Incluye 5 accesorios: disco exfoliante, puntas gruesas y finas, y filtro para pulir - Con secador de uñas incorporado - Estuche práctico y portátil - Funciona con 2 pilas AA",
+    "imageUrl": "/images/setManicura.jfif"
+  },
+  {
+    "id": "49",
+    "name": "Freidora de aire Westinhouse",
+    "listPrice": 85900,
+    "price": 100000,
+    "category": "cocina",
+    "description": "8L - Superficie antihaderente - 220V - Pantalla táctil - Ideal para comidas maás sanas",
+    "imageUrl": "/images/freidoraWestinhouse.jfif"
+  },
+  {
+    "id": "50",
+    "name": "Mixer Liliana Rainbow",
+    "listPrice": 33900,
+    "price": 45000,
+    "category": "cocina",
+    "description": "Acero inox + Vaso - solución perfecta para preparar salsas, licuados, purés, dips, cremas y sopas de manera rápida y sencilla en tu hogar. Con su varilla licuadora y emulsionadora de acero inoxidable y su vaso medidor de 600 cm³, este mixer te permite mezclar y emulsionar con facilidad. Además, su diseño compacto y sus 2 velocidades",
+    "imageUrl": "/images/mixerLiliana.jfif"
+  },
+  {
+    "id": "51",
+    "name": "Estante de baño",
+    "listPrice": 20900,
+    "price": 32000,
+    "category": "hogar",
+    "description": "Este estante es la solución práctica y estética para organizar tus productos, accesorios y toallas. Optimizando el espacio",
+    "imageUrl": "/images/estanteBaño.jfif"
+  },
+  {
+    "id": "52",
+    "name": "Bicicleta Jordan R16 Nene/Nena",
+    "listPrice": 162900,
+    "price": 180000,
+    "category": "hogar",
+    "description": "Accessorios - Rueditas ",
+    "imageUrl": "/images/biciJordan.jfif"
+  },
+  {
+    "id": "53",
+    "name": "Freidora de aire Star Trak",
+    "listPrice": 53800,
+    "price": 68000,
+    "category": "cocina",
+    "description": "4.2L - Cocción saludable y rápida - Negro/Blanco -  La solución ideal para quienes buscan disfrutar de comidas deliciosas y saludable ",
+    "imageUrl": "/images/freidoraStarTrak.jfif"
+  },
+  {
+    "id": "54",
+    "name": "Vaso Termico Stanley",
+    "listPrice": 9800,
+    "price": 20000,
+    "category": "cocina",
+    "description": "Sensor de temperatura - Acero inoxidable - 500ML - Permite conocer la temperatura de tu bebida - Bebidas frías o calientes por 12 hs",
+    "imageUrl": "/images/vasoTermico.jfif"
+  },
+  {
+    "id": "55",
+    "name": "Carrito Playero Moor",
+    "listPrice": 44000,
+    "price": 60000,
+    "category": "hogar",
+    "description": "Plegable y liviano - abricado en aluminio, ideal para transportar conservadoras , sillas y otros accesorios en playas o camping ⛺. Además de ofrecer una funcionalidad de mesa portátil con porta vasos.",
+    "imageUrl": "/images/carritoMoor.jfif"
+  },
+  {
+    "id": "56",
+    "name": "Vaso Quencher",
+    "listPrice": 14900,
+    "price": 25000,
+    "category": "cocina",
+    "description": "1.2 L - Diseño La Bubu - Acero - Ideal para bebidas frías o calientes",
+    "imageUrl": "/images/vasoQuencher.jfif"
+  },
+  {
+    "id": "57",
+    "name": "Heladera Portatil para auto",
+    "listPrice": 42500,
+    "price": 55000,
+    "category": "hogar",
+    "description": "7.5L - ¡Ideal para viajes, picnics o la playa ! Enfría o calienta tus bebidas y comidas - Dual función: frío/calor - Capacidad: 7.5 litros - Conexión 12V (auto o camión) - Temperatura: hasta 25°C menos o 60°C más",
+    "imageUrl": "/images/heladeraPortatil.jfif"
+  },
+  {
+    "id": "58",
+    "name": "Gazebo Plegable",
+    "listPrice": 105900,
+    "price": 125000,
+    "category": "hogar",
+    "description": "Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
+    "imageUrl": "/images/gazeboPlegable.jfif"
+  },
+  {
+    "id": "59",
+    "name": "Gazebo Plegable",
+    "listPrice": 105900,
+    "price": 125000,
+    "category": "hogar",
+    "description": "Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
+    "imageUrl": "/images/gazeboPlegable.jfif"
+  },
+  {
+    "id": "60",
+    "name": "Microondas Philco",
+    "listPrice": 179800,
+    "price": 200000,
+    "category": "cocina",
+    "description": "23L - Display digital y reloj - 900W - 8 menús automáticos - Decongelado por tiempo y peso -  Potente, moderno y súper prástico",
+    "imageUrl": "/images/microondasPhilco.jfif"
+  },
+  {
+    "id": "61",
+    "name": "Lavarropas Automatico Codini",
+    "listPrice": 384900,
+    "price": 410000,
+    "category": "hogar",
+    "description": "6 KG - Potente, silencioso y de bajo consumo - Motor Inverter - 1000 RPM/Eco Wash",
+    "imageUrl": "/images/lavarropasCodini.jfif"
+  },
+  {
+    "id": "62",
+    "name": "Planchita Gama Aqua",
+    "listPrice": 45000,
+    "price": 58000,
+    "category": "hogar",
+    "description": "Tecnología exclusiva permite aplicar tratamientos capilares líquidos directamente sobre el cabello, potenciando la hidratación y el brillo Temperatura regulable hasta 230 °C - Patines flotantes que se adaptan perfectamente para un alisado parejo, suave y sin frizz",
+    "imageUrl": "/images/planchitaAqua.jfif"
+  },
+  {
+    "id": "63",
+    "name": "Planchita + Secador Chia",
+    "listPrice": 89999,
+    "price": 105000,
+    "category": "hogar",
+    "description": "Combo Gama Chia -  Infusión de aceite de chía: nutre y da brillo - Alisado suave + secado potente profesional",
+    "imageUrl": "/images/comboGama.jfif"
+  },
+  {
+    "id": "64",
+    "name": "Tensiómetro Digital",
+    "listPrice": 17500,
+    "price": 22500,
+    "category": "hogar",
+    "description": "Pantalla LCD grande para una lectura clara - Detección de arritmia e indicador OMS - Presión automática inteligente, rápida y precisa - Función de fecha y hora para mejor control - Apagado automático para ahorrar energía",
+    "imageUrl": "/images/tensiometroDigital.jfif"
+  },
+  {
+    "id": "65",
+    "name": "Termo + Mate + Bombilla",
+    "listPrice": 20000,
+    "price": 32000,
+    "category": "hogar",
+    "description": "Termo + Mate Premium + Bombilla - Juego de mate , ideal para llevarlo a todas partes! Contiene poco cebador y triple grabado ",
+    "imageUrl": "/images/comboMate.jfif"
+  },
+  {
+    "id": "66",
+    "name": "Termo + Mate + Bombilla",
+    "listPrice": 23500,
+    "price": 35000,
+    "category": "hogar",
+    "description": "COMBO GARRAFITA 1.2L TERMOLAR ACERO MAS MATE PREMIUM Y BOMBILLA",
+    "imageUrl": "/images/comboMateGarrafita.jfif"
+  },
+  {
+    "id": "67",
+    "name": "Mini Cepillo secador Gama",
+    "listPrice": 21900,
+    "price": 33000,
+    "category": "hogar",
+    "description": "CEPILLO ALISADOR QUE COMBINA TECNOLOGÍA CERÁMICA E IÓNICA PARA ALISAR TU CABELLO DE MANERA EFICIENTE. REDUCIENDO EL FRIZZ Y APORTANDO BRILLO",
+    "imageUrl": "/images/miniCepilloGama.jfif"
+  },
+  {
+    "id": "68",
+    "name": "Aire Acondicionado portátil Philco",
+    "listPrice": 470000,
+    "price": 500000,
+    "category": "hogar",
+    "description": "Capacidad 2650W - Frio/Calor - Refrigerante Ecológico - Filtros Lavables - No requiere drenaje - Control remoto multifunción",
+    "imageUrl": "/images/airePortatil.jfif"
+  },
+  {
+    "id": "69",
+    "name": "Mopa Centrifuga Azana",
+    "listPrice": 13000,
+    "price": 25000,
+    "category": "hogar",
+    "description": "Incluye Balde - Verde/Celeste - Diseño innovador y eficiente . Rotación de limpieza y secado para todo tipo de pisos",
+    "imageUrl": "/images/airePortatil.jfif"
   }
 ]
