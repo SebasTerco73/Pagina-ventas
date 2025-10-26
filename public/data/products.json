@@ -46,11 +46,11 @@
   },
   {
     "id": "6",
-    "name": "Set de 105 herramientas OMAHA",
+    "name": "Set herramientas OMAHA",
     "listPrice": 36500,
     "price": 47000,
     "category": "herramientas",
-    "description": "Sin detalle",
+    "description": "105 Piezas",
     "imageUrl": "/images/setHerramientasOMAHA.jfif"
   },
   {
@@ -619,5 +619,113 @@
     "category": "hogar",
     "description": "Incluye Balde - Verde/Celeste - Diseño innovador y eficiente . Rotación de limpieza y secado para todo tipo de pisos",
     "imageUrl": "/images/airePortatil.jfif"
+  },
+  {
+    "id": "70",
+    "name": "Horno Freidora de aire Dinax",
+    "listPrice": 96800,
+    "price": 107000,
+    "category": "cocina",
+    "description": "Capacidad 17 LTS - 1700 W - Sin humo / Sin aceite",
+    "imageUrl": "/images/hornoFreidora.jfif"
+  },
+  {
+    "id": "71",
+    "name": "Motorola E15",
+    "listPrice": 128700,
+    "price": 143000,
+    "category": "tecnología",
+    "description": "Memoria ; RAM 2 - Memoria interna : 64GB - CAMARA FRONTAL 8MP - CAMARA POSTERIOR 32MP - Es un Smarphone Android potenciado por un procesador Helio. Incluye lector de huellas.",
+    "imageUrl": "/images/motoE.jfif"
+  },
+  {
+    "id": "72",
+    "name": "Tostadora Atma",
+    "listPrice": 25600,
+    "price": 37000,
+    "category": "cocina",
+    "description": "Blanca - Tostadora funcional con capacidad para tostar 2 rebanadas - 7 niveles de tostado ajustable - Potencia 700W ",
+    "imageUrl": "/images/tostadoraAtma.jfif"
+  },
+  {
+    "id": "73",
+    "name": "Pava Electica Atma Essencial",
+    "listPrice": 27900,
+    "price": 40000,
+    "category": "cocina",
+    "description": "Interruptor de encendido y apagado - Interior de acero inoxidable -  Capacidad de 1.8 Litros",
+    "imageUrl": "/images/pavaAtmaEssencial.jfif"
+  },
+  {
+    "id": "74",
+    "name": "Celular Redmi Note 14",
+    "listPrice": 239800,
+    "price": 250000,
+    "category": "tecnología",
+    "description": "Memoria: 6 Ram - Memoria interna 128 GB",
+    "imageUrl": "/images/redmiNote.jfif"
+  },
+  {
+    "id": "75",
+    "name": "Celular Redmi 15C - 128/8 GB",
+    "listPrice": 219999,
+    "price": 240000,
+    "category": "tecnología",
+    "description": "Negro - 128/8GB - ",
+    "imageUrl": "/images/redmi15C.jfif"
+  },
+  {
+    "id": "76",
+    "name": "Celular Redmi 15C - 256/16 GB",
+    "listPrice": 248999,
+    "price": 275000,
+    "category": "tecnología",
+    "description": "Negro - 128/8GB",
+    "imageUrl": "/images/redmi15C.jfif"
+  },
+  {
+    "id": "77",
+    "name": "Heladera Philco 324L",
+    "listPrice": 499900,
+    "price": 580000,
+    "category": "cocina",
+    "description": " No Frost - sin escarcha - Clase A - bajo consumo - Fresh Zone para frutas y verduras",
+    "imageUrl": "/images/heladeraPhilco.jfif"
+  },
+  {
+    "id": "78",
+    "name": "Cocina Usman Industrial",
+    "listPrice": 290000,
+    "price": 348000,
+    "category": "cocina",
+    "description": "Elegí practicidad y estilo en tu cocina. Cuenta con 4 hornallas de gran potencia, parrillas resistentes y un horno amplio con puerta de vidrio templado para controlar la cocción. Su diseño en acero inoxidable y negro aporta modernidad y durabilidad, ideal para el uso diario",
+    "imageUrl": "/images/cocinaUsman.jfif"
+  },
+  {
+    "id": "79",
+    "name": "Cocina Mila de acero",
+    "listPrice": 195000,
+    "price": 234000,
+    "category": "cocina",
+    "description": "Cocina Mila es una opción moderna y versátil de 4 quemadores a GAS - Tablero de acero inoxidable, tapa de vidrio templado y diseño elegante - Alto 68cm, ancho 45cm. Aprox.",
+    "imageUrl": "/images/cocinaMila.jfif"
+  },
+  {
+    "id": "80",
+    "name": "Cepillo Secador Gama",
+    "listPrice": 26500,
+    "price": 38000,
+    "category": "hogar",
+    "description": "CEPILLO ELÉCTRICO DISEÑADO PARA ALISAR EL CABELLO DE MANERA RÁPIDA Y PROFESIONAL . COMBINANDO TECNOLOGÍA AVANZADA , CONTROL DIGITAL DE TEMPERATURA Y CARACTERÍSTICAS ANTI- FRIZZ.",
+    "imageUrl": "/images/cepilloGama.jfif"
+  },
+  {
+    "id": "81",
+    "name": "Mini mixer Liliana Slimy",
+    "listPrice": 29900,
+    "price": 40000,
+    "category": "cocina",
+    "description": "Incluye vaso - Blanca/Negra - 450 W - Las mixer son electrodomésticos reconocidos por si potencia, diseño y ergonómico. Con modelos ideales para preparar licuados, salsas , púres y más. Cuentan con 450W de potencia",
+    "imageUrl": "/images/miniMixer.jfif"
   }
 ]

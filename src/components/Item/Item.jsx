@@ -10,7 +10,10 @@ export const Item = ({name, price, description, imageUrl, children}) => {
                     <img 
                     src={imageUrl || imagenPorDefecto} 
                     alt={description || name} 
-                    onError={(e) => { e.target.src = imagenPorDefecto; }} 
+                    onError={(e) => {
+                         e.target.src = imagenPorDefecto;
+                         console.log(`Imagen no encontrada de ${name}`)
+                     }} 
                     className="item-img"  />
                     <h2 className="product-title">{name}</h2>
                     {children && <div className="item-actions">{children}</div>}
