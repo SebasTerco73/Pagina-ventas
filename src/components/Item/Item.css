@@ -39,6 +39,11 @@ article p {
   font-size: 1.25rem;
 }
 
+p { 
+  white-space: pre-line;
+}
+
+
 /* ---------- BOTÓN ---------- */
 article button {
   margin-top: 10px;
