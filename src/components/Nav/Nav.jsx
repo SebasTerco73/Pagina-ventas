@@ -57,9 +57,9 @@ export const Nav = () => {
           </Link>
         </li>
         <li>
-          <Link to={"/category/tecnología"} 
+          <Link to={"/category/tecnologia"} 
           onClick={handleLogoClick}
-          className={location.pathname === "/category/tecnología" ? "activo" : ""}>
+          className={decodeURIComponent(location.pathname) === "/category/tecnologia" ? "activo" : ""}>
             Tecnología
           </Link>
         </li>

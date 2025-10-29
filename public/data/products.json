@@ -22,8 +22,8 @@
     "name": "Proyector Portatil Dinax",
     "listPrice": 65000,
     "price": 75000,
-    "category": "tecnología",
-    "description": "4K Ultra HD - Brillo 200 ANSI ideal para usar de dia y de noche - Conexión HDMI + USB - Control remoto y cable listos para usar - Sonido estéreo integrado con tecnología Wireless BT 5.0",
+    "category": "tecnologia",
+    "description": "4K Ultra HD - Brillo 200 ANSI ideal para usar de dia y de noche - Conexión HDMI + USB - Control remoto y cable listos para usar - Sonido estéreo integrado con tecnologia Wireless BT 5.0",
     "imageUrl": "/images/proyectorDinax.jfif"
   },
   {
@@ -31,7 +31,7 @@
     "name": "Tv Stick Android tv",
     "listPrice": 32999,
     "price": 45000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Último sistema de Android TV - Asistente de Google tv, Transmite tus programas de tv favoritos, descarga aplicaciones y juegos de Google Play",
     "imageUrl": "/images/tvStick.jfif"
   },
@@ -40,7 +40,7 @@
     "name": "Tv Box Dinax ON-TV",
     "listPrice": 25500,
     "price": 36000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "4k - 8GB RAM - 128GB ROM - Rendimiento fluido y amplio almacenamiento - Conectividad WI-FI - Multiples puertos USB y HDMI - No incluye MAGIS",
     "imageUrl": "/images/tvBoxDinax.jfif"
   },
@@ -247,7 +247,7 @@
     "name": "Secador de calzados",
     "listPrice": 21900,
     "price": 35000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Shoe Dryer - Dispositivo eléctrico diseñado para secar zapatos de forma rápida y eficiente, evitando daños causados por métodos tradicionales como la secadora o la exposición Al Sol",
     "imageUrl": "/images/shoeDryer.jfif"
   },
@@ -391,7 +391,7 @@
     "name": "Camara Dinax",
     "listPrice": 16000,
     "price": 27000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Wifi - Visión Nocturna - Visión HD - Sensor movimiento - Tarjeta SD larga duracion",
     "imageUrl": "/images/camaraDinax2.jfif"
   },
@@ -418,7 +418,7 @@
     "name": "Camara Wifi Antenas",
     "listPrice": 19200,
     "price": 30000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Camara de seguridad vigilancia infrarrojo controle antena - protección inteligente 24/7 - Alcance de visión infrarroja hasta 10mts aprox - Diseño compacto y elegante , ideal para interiores - Triple antena WIFI para mayor estabilidad de conexión para transmision fluida - Recibí notificaciónes en tu celular o email ante detección de movimiento",
     "imageUrl": "/images/camaraAntenas.jfif"
   },
@@ -554,7 +554,7 @@
     "listPrice": 45000,
     "price": 58000,
     "category": "hogar",
-    "description": "Tecnología exclusiva permite aplicar tratamientos capilares líquidos directamente sobre el cabello, potenciando la hidratación y el brillo Temperatura regulable hasta 230 °C - Patines flotantes que se adaptan perfectamente para un alisado parejo, suave y sin frizz",
+    "description": "tecnologia exclusiva permite aplicar tratamientos capilares líquidos directamente sobre el cabello, potenciando la hidratación y el brillo Temperatura regulable hasta 230 °C - Patines flotantes que se adaptan perfectamente para un alisado parejo, suave y sin frizz",
     "imageUrl": "/images/planchitaAqua.jfif"
   },
   {
@@ -599,7 +599,7 @@
     "listPrice": 21900,
     "price": 33000,
     "category": "hogar",
-    "description": "CEPILLO ALISADOR QUE COMBINA TECNOLOGÍA CERÁMICA E IÓNICA PARA ALISAR TU CABELLO DE MANERA EFICIENTE. REDUCIENDO EL FRIZZ Y APORTANDO BRILLO",
+    "description": "CEPILLO ALISADOR QUE COMBINA tecnologia CERÁMICA E IÓNICA PARA ALISAR TU CABELLO DE MANERA EFICIENTE. REDUCIENDO EL FRIZZ Y APORTANDO BRILLO",
     "imageUrl": "/images/miniCepilloGama.jfif"
   },
   {
@@ -634,7 +634,7 @@
     "name": "Motorola E15",
     "listPrice": 128700,
     "price": 143000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Memoria ; RAM 2 - Memoria interna : 64GB - CAMARA FRONTAL 8MP - CAMARA POSTERIOR 32MP - Es un Smarphone Android potenciado por un procesador Helio. Incluye lector de huellas.",
     "imageUrl": "/images/motoE.jfif"
   },
@@ -661,7 +661,7 @@
     "name": "Celular Redmi Note 14",
     "listPrice": 239800,
     "price": 250000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Memoria: 6 Ram - Memoria interna 128 GB",
     "imageUrl": "/images/redmiNote.jfif"
   },
@@ -670,7 +670,7 @@
     "name": "Celular Redmi 15C - 128/8 GB",
     "listPrice": 219999,
     "price": 240000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Negro - 128/8GB - ",
     "imageUrl": "/images/redmi15C.jfif"
   },
@@ -679,7 +679,7 @@
     "name": "Celular Redmi 15C - 256/16 GB",
     "listPrice": 248999,
     "price": 275000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Negro - 128/8GB",
     "imageUrl": "/images/redmi15C.jfif"
   },
@@ -716,7 +716,7 @@
     "listPrice": 26500,
     "price": 38000,
     "category": "hogar",
-    "description": "CEPILLO ELÉCTRICO DISEÑADO PARA ALISAR EL CABELLO DE MANERA RÁPIDA Y PROFESIONAL . COMBINANDO TECNOLOGÍA AVANZADA , CONTROL DIGITAL DE TEMPERATURA Y CARACTERÍSTICAS ANTI- FRIZZ.",
+    "description": "CEPILLO ELÉCTRICO DISEÑADO PARA ALISAR EL CABELLO DE MANERA RÁPIDA Y PROFESIONAL . COMBINANDO TECNOLOGIA AVANZADA , CONTROL DIGITAL DE TEMPERATURA Y CARACTERÍSTICAS ANTI- FRIZZ.",
     "imageUrl": "/images/cepilloGama.jfif"
   },
   {
@@ -742,7 +742,7 @@
     "name": "Aspiradora Robot",
     "listPrice": 103900,
     "price": 125000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Inteligente de 3 modulos - Aspiradora robot , totalmente inalámbrica y recargable. Se desliza ágilmente por tus suelos , eliminando POLVO , PELOS Y SUCIEDAD",
     "imageUrl": "/images/aspiradoraRobot.jfif"
   },
@@ -985,7 +985,7 @@
     "name": "Parlante Torre Sing-e",
     "listPrice": 89900,
     "price": 110000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "8x2 - TORRE INALÁMBRICA A BLUETOOTH CON UN EXCELENTE CALIDAD SONIDO . IDEAL PARA LLEVARLO A CUÁLQUIER TIPO DE ENENTO\nMICRÓFONO 🎤\nCONTROL 🕹️\nUSB\nMemoria",
     "imageUrl": "/images/parlanteSing.jfif"
   },
@@ -1003,7 +1003,7 @@
     "name": "Parlante 8'' Dinax",
     "listPrice": 29000,
     "price": 43000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Parlante inalámbrico con conectividad a Bluetooth, micrófono 🎤, luces LED  y funciones como radio FM. Ideal para karaokes y eventos",
     "imageUrl": "/images/parlanteDinax.jfif"
   },
@@ -1012,7 +1012,7 @@
     "name": "Parlante 15'' Dinax",
     "listPrice": 114900,
     "price": 1300000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Batería litio 🔋\nControl remoto\nIncluye micrófono con cable\nPotencia de 1500W",
     "imageUrl": "/images/parlanteDinax15.jfif"
   },
@@ -1039,7 +1039,7 @@
     "name": "Parlante 12'' Dinax",
     "listPrice": 60900,
     "price": 75000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Potente y práctica para uso doméstico e industrial liviano\nCon motor de 1200W, presión máxima de 100 bar, garantiza limpieza profunda en autos, patios, veredas y más\nCompacta y fácil de transportar",
     "imageUrl": "/images/hidroLusqtoff.jfif"
   },
@@ -1048,7 +1048,7 @@
     "name": "Parlante 6'5 Dinax",
     "listPrice": 19900,
     "price": 0,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "Parlante portátil, con batería recargable 🪫 y conectividad Bluetooth . Ideal para transportarlo a todas partes y disfrutar de su excelente sonido",
     "imageUrl": "/images/parlanteDinax6.jfif"
   },
@@ -1156,7 +1156,7 @@
     "name": "Estereo desmontable Dinax",
     "listPrice": 25800,
     "price": 36000,
-    "category": "tecnología",
+    "category": "tecnologia",
     "description": "La entrada USB permite conectar tu pendrive o memoria USB. Instalación sencilla y rápida. Compatible con la mayoría de autos! Función radio FM . 🙌🏾🔥",
     "imageUrl": "/images/estereoDinax.jfif"
   },
