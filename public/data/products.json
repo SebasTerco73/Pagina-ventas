@@ -66,7 +66,7 @@
     "id": "8",
     "name": "Depiladora  VELVET",
     "listPrice": 24900,
-    "price": 35000,
+    "price": 36000,
     "category": "hogar",
     "description": "Autonomia 45 minutos - USB - Unifica un mismo clable, practico para viajes - mas ecologico - 2 Velocidades",
     "imageUrl": "/images/depiladoraVelvet.jfif"
@@ -732,7 +732,7 @@
     "id": "82",
     "name": "Batidora de mano Luma Bella",
     "listPrice": 12900,
-    "price": 0,
+    "price": 24000,
     "category": "cocina",
     "description": "7 velocidades - Potente motor de 180W, ideal para mezclar, amasar y batir con facilidad. Incluye varillas y ganchos de acero para todas tus recetas. Compacta, práctica y con diseño moderno. ¡Tu aliada perfecta en la cocina! 🥧🍞",
     "imageUrl": "/images/batidoraLumaBella.jfif"
@@ -741,7 +741,7 @@
     "id": "83",
     "name": "Aspiradora Robot",
     "listPrice": 103900,
-    "price": 0,
+    "price": 125000,
     "category": "tecnología",
     "description": "Inteligente de 3 modulos - Aspiradora robot , totalmente inalámbrica y recargable. Se desliza ágilmente por tus suelos , eliminando POLVO , PELOS Y SUCIEDAD",
     "imageUrl": "/images/aspiradoraRobot.jfif"
@@ -750,7 +750,7 @@
     "id": "84",
     "name": "Botella Plástica resistente",
     "listPrice": 4800,
-    "price": 0,
+    "price": 10000,
     "category": "cocina",
     "description": "Plástico resistente, perfectas para uso diario - 🧃 Pico vertedor + bombilla → prácticas y fáciles de usar - 🎨 Diseños coloridos y divertidos que encantan a los peques 🧒👧🌈",
     "imageUrl": "/images/botellaPlastica.jfif"
@@ -759,7 +759,7 @@
     "id": "85",
     "name": "Bicicleta Niño R12",
     "listPrice": 55900,
-    "price": 0,
+    "price": 67000,
     "category": "hogar",
     "description": "Canastito . Stickers frenos y rueditas ..exelente calidad",
     "imageUrl": "/images/biciNene.jfif"
@@ -768,7 +768,7 @@
     "id": "86",
     "name": "Bicicleta R29 Over Tech",
     "listPrice": 210000,
-    "price": 0,
+    "price": 252000,
     "category": "hogar",
     "description": "🔴 Negra con rojo\n 🟢 Negra con verde\n🟠 Negra con naranja\n🔵 Negra con azul\nLos colores se eligen en el momento ",
     "imageUrl": "/images/biciOver.jfif"
@@ -777,7 +777,7 @@
     "id": "87",
     "name": "Combo de desayuno OM",
     "listPrice": 67000,
-    "price": 0,
+    "price": 80000,
     "category": "cocina",
     "description": "Horno + Cafetera + Plancha\nCafetera eléctrica para tu café recién hecho\nHorno eléctrico ideal para calentar y tostar\nPlancha superior para cocinar huevos, salchichas o lo que más te guste",
     "imageUrl": "/images/setDesayuno.jfif"
@@ -786,7 +786,7 @@
     "id": "88",
     "name": "Balanza de cocina Atma",
     "listPrice": 12300,
-    "price": 0,
+    "price": 23000,
     "category": "cocina",
     "description": "Digital - 3KL - Con display digital y superficie de acero inoxidable, permite pesar con precisión tus ingredientes - Ideal para una cocina práctica y moderna.",
     "imageUrl": "/images/balanzaCocinaAtma.jfif"
@@ -795,7 +795,7 @@
     "id": "89",
     "name": "Mandolina 7 cortes",
     "listPrice": 12900,
-    "price": 0,
+    "price": 23000,
     "category": "cocina",
     "description": "Cuenta con 7 tipos de cortes diferentes para rebanar, rallar y picar fácilmente. Incluye cuchillas intercambiables, protector de manos y diseño práctico para limpiar y guardar. Ideal para verduras, frutas y más",
     "imageUrl": "/images/mandolina7.jfif"
@@ -804,7 +804,7 @@
     "id": "90",
     "name": "Mandolina Slice",
     "listPrice": 12500,
-    "price": 0,
+    "price": 22500,
     "category": "cocina",
     "description": "¡Rebaná, rallá y cortá como un chef! Con cuchillas ajustables súper seguras, accesorios incluidos y diseño compacto fácil de limpiar. Ideal para preparar verduras, frutas y mucho más en segundos. 🍅✨",
     "imageUrl": "/images/mandolinaSlice.jfif"
@@ -813,7 +813,7 @@
     "id": "91",
     "name": "Mixer Philco 4 en 1",
     "listPrice": 46500,
-    "price": 0,
+    "price": 60000,
     "category": "cocina",
     "description": "Mixer 4 en 1 potente y multifuncional\nIdeal para licuar, mezclar, emulsionar y picar\nPotencia 600W\nVarilla y cuchillas de acero inoxidable",
     "imageUrl": "/images/mixerPhilco.jfif"
@@ -822,7 +822,7 @@
     "id": "92",
     "name": "Licuadora Personal Atma",
     "listPrice": 41300,
-    "price": 0,
+    "price": 55000,
     "category": "cocina",
     "description": " Licuados frescos, ricos y Rápidos. CAPACIDAD 600 ml",
     "imageUrl": "/images/licuadoraAtma.jfif"
@@ -831,7 +831,7 @@
     "id": "93",
     "name": "Cafetera Espresso Dinax",
     "listPrice": 112990,
-    "price": 0,
+    "price": 136000,
     "category": "cocina",
     "description": "Con espumador -🔥 20 BAR de presión + 1200W de potencia\n🥛 Con espumador de leche para cappuccino, latte y más\n💎 Diseño elegante y compacto\n👌 Café con calidad de barista en tu casa ",
     "imageUrl": "/images/cafeteraEspresso.jfif"
@@ -840,7 +840,7 @@
     "id": "94",
     "name": "Cafetera Espresso Lusqtoff",
     "listPrice": 319700,
-    "price": 0,
+    "price": 384600,
     "category": "cocina",
     "description": " 20 BARES C/MOLINILLO CAFÉ  ACERO INOX ",
     "imageUrl": "/images/cafeteraLusqtoff.jfif"
@@ -849,7 +849,7 @@
     "id": "95",
     "name": "Cafetera Espresso Dinax 2",
     "listPrice": 64900,
-    "price": 0,
+    "price": 78000,
     "category": "cocina",
     "description": "⚡ 1000W de potencia\n🔥 3,5 BAR de presión\n⏱️ 4 tazas de espresso listas en 2-3 minutos\n🥛 Cappuccino o Latte en 3-4 minutos\n✨ Diseño compacto y práctico",
     "imageUrl": "/images/cafeteraDinax.jfif"
@@ -858,7 +858,7 @@
     "id": "96",
     "name": "Maletin OMAHA 421 Piezas",
     "listPrice": 157999,
-    "price": 0,
+    "price": 189500,
     "category": "herramientas",
     "description": "Maletín de herramientas Omaha, diseñando para ofrecer durabilidad y organización en el trabajo doméstico o profesional - DISEÑO METÁLICO Y CON RUEDAS para facilitar su traslado.",
     "imageUrl": "/images/maletinOmaha.jfif"
@@ -867,7 +867,7 @@
     "id": "97",
     "name": "Vaso Quencher 2",
     "listPrice": 15900,
-    "price": 0,
+    "price": 27000,
     "category": "cocina",
     "description": "1.2 Litros Diseño MARMOLADO - Acero - Ideal para bebidas frías o calientes ! LLEVALO A TODAS PARTES",
     "imageUrl": "/images/vasoQuencher2.jfif"
@@ -876,7 +876,7 @@
     "id": "98",
     "name": "Jarra Galon",
     "listPrice": 27900,
-    "price": 0,
+    "price": 38000,
     "category": "cocina",
     "description": "2 Lt - Acero inoxidable - Incluye mate - Mantiene bebidas frías/calientes por 24 hs - facil de limpiar ",
     "imageUrl": "/images/jarraGalon.jfif"
@@ -885,7 +885,7 @@
     "id": "99",
     "name": "Reposera Playera Fija Kato",
     "listPrice": 20000,
-    "price": 0,
+    "price": 33000,
     "category": "hogar",
     "description": "Comodidad y estilo para disfrutar el verano☀️ - Tela Oxford 600D súper resistente y estructura metálica con pintura electrostática - Liviana, práctica y fácil de trasladar 🏖",
     "imageUrl": "/images/reposeraKato.jfif"
@@ -894,7 +894,7 @@
     "id": "100",
     "name": "Aspiradora Eléctrica/Manual Dinax",
     "listPrice": 60000,
-    "price": 0,
+    "price": 72000,
     "category": "hogar",
     "description": "Funcion 2 en 1: usala como aspiradora vertical o de mano para llegar a todos los rincones - Ideal para el hogar, oficinas o autos - Motor sin escobillas, cepilo motorizado anti-enredos, bateria desmontable y con protección de bloqueo.",
     "imageUrl": "/images/aspiradora2en1.jfif"
@@ -903,7 +903,7 @@
     "id": "101",
     "name": "Set de ollas 13 Piezas",
     "listPrice": 27900,
-    "price": 0,
+    "price": 38000,
     "category": "cocina",
     "description": "Ollas de Acero inoxidable, resistente y duradero. Adecuado para todo tipo de cocinas! - Antihaderentes , fácil de limpiar - Ollas, Sartén y utensilios . EQUIPA TU COCINA 🍜🍛🥘",
     "imageUrl": "/images/setOllas13.jfif"
@@ -912,7 +912,7 @@
     "id": "102",
     "name": "Botella Tridemencional 3 en 1",
     "listPrice": 8499,
-    "price": 0,
+    "price": 19000,
     "category": "hogar",
     "description": "Botella de 2 litros , 900 ML y 300ml . Material plástico resistente y liviano con fácil transporte. incluyen STICKERS motivacionales para personalizar cada una - MANTENETE HIDRATADO 🧊",
     "imageUrl": "/images/botellaTri.jfif"
@@ -921,7 +921,7 @@
     "id": "103",
     "name": "Tostadora WhitenBlack",
     "listPrice": 18600,
-    "price": 0,
+    "price": 30000,
     "category": "cocina",
     "description": "2 rebanadas - Está tostadora es ideal porque te ofrece un diseño compacto de 6 niveles de tostado y una potencia de 700 W . IDEAL PARA PREPARAR TUS TOSTADAS DORADITAS",
     "imageUrl": "/images/tostadoraWhite.jfif"
@@ -930,7 +930,7 @@
     "id": "104",
     "name": "Termito Capibara",
     "listPrice": 8500,
-    "price": 0,
+    "price": 19000,
     "category": "cocina",
     "description": "600 ML - De acero inoxidable, Ideal para mantener tus bebidas frías o calientes",
     "imageUrl": "/images/termoCapibara.jfif"
@@ -939,7 +939,7 @@
     "id": "105",
     "name": "Botellita Aluminio Stich",
     "listPrice": 10499,
-    "price": 0,
+    "price": 21000,
     "category": "hogar",
     "description": "Mágica de Stich - 500 Ml - SÚPER PRACTICAS PARA LLEVARLA A TODAS PARTES",
     "imageUrl": "/images/botellaStich.jfif"
@@ -948,7 +948,7 @@
     "id": "106",
     "name": "Tostadora Sokany",
     "listPrice": 26500,
-    "price": 0,
+    "price": 38000,
     "category": "cocina",
     "description": "Acero - Potencia 700W",
     "imageUrl": "/images/tostadoraSokany.jfif"
@@ -957,7 +957,7 @@
     "id": "107",
     "name": "Vasos de vidrio x6",
     "listPrice": 4800,
-    "price": 0,
+    "price": 14800,
     "category": "cocina",
     "description": "VASO DE VIDRIO 🥛🫗 IDEAL PARA EL DIA A DIA YA SEA PARA AGUA, REFRESCO O JUGOS 🍹\n🔽CRISTAL DE CUARZO\n🔽 APTO PARA LAVAVAJILLAS\n🔽 VIDRIO TRANSLÚCIDO PERFECTO 💯\n🔽 FINURA EN LABIOS SUPERIOR 1MM 🫗_ ",
     "imageUrl": "/images/vasoVidrio.jfif"
@@ -966,7 +966,7 @@
     "id": "108",
     "name": "Tazas Lucky Porcelana Electrica",
     "listPrice": 12000,
-    "price": 0,
+    "price": 23000,
     "category": "cocina",
     "description": "ELECTRICA CON CALENTADOR!  APROVECHA Y MANTENE TUS BEBIDAS CALENTITAS.",
     "imageUrl": "/images/tazaLucky.jfif"
@@ -975,9 +975,198 @@
     "id": "109",
     "name": "Taza Cafe con Mezclador",
     "listPrice": 8500,
-    "price": 0,
+    "price": 19000,
     "category": "cocina",
     "description": "Mezclador a pila - Estas tazas están diseñadas para mezclar bebidas como café, té, chocolate caliente o batidos de proteínas de forma automática con solo presionar un botón, eliminando la necesidad de una cuchara.",
     "imageUrl": "/images/tazaMezclador.jfif"
+  },
+  {
+    "id": "110",
+    "name": "Parlante Torre Sing-e",
+    "listPrice": 89900,
+    "price": 110000,
+    "category": "tecnología",
+    "description": "8x2 - TORRE INALÁMBRICA A BLUETOOTH CON UN EXCELENTE CALIDAD SONIDO . IDEAL PARA LLEVARLO A CUÁLQUIER TIPO DE ENENTO\nMICRÓFONO 🎤\nCONTROL 🕹️\nUSB\nMemoria",
+    "imageUrl": "/images/parlanteSing.jfif"
+  },
+  {
+    "id": "111",
+    "name": "Tostadora Spiderman",
+    "listPrice": 31900,
+    "price": 42000,
+    "category": "cocina",
+    "description": "𝟩 ɴɪᴠᴇʟᴇꜱ ᴅᴇ ᴛᴏꜱᴛᴀᴅᴏ ʏ ᴄᴀᴘᴀᴄɪᴅᴀᴅ ᴘᴀʀᴀ ᴅᴏꜱ ʀᴏᴅᴀᴊᴀꜱ - ᴅɪꜱᴘᴏɴᴇ ʙᴀɴᴅᴇᴊᴀ ʀᴇᴄᴏɢᴇ ᴍɪɢᴀꜱ - ꜰᴜɴᴄɪᴏɴᴇꜱ: ᴛᴏꜱᴛᴀʀ, ᴄᴀʟᴇɴᴛᴀʀ,ᴅᴇꜱᴄᴏɴɢᴇʟᴀʀ.",
+    "imageUrl": "/images/tostadoraSpiderman.jfif"
+  },
+  {
+    "id": "112",
+    "name": "Parlante 8'' Dinax",
+    "listPrice": 29000,
+    "price": 43000,
+    "category": "tecnología",
+    "description": "Parlante inalámbrico con conectividad a Bluetooth, micrófono 🎤, luces LED  y funciones como radio FM. Ideal para karaokes y eventos",
+    "imageUrl": "/images/parlanteDinax.jfif"
+  },
+  {
+    "id": "113",
+    "name": "Parlante 15'' Dinax",
+    "listPrice": 114900,
+    "price": 1300000,
+    "category": "tecnología",
+    "description": "Batería litio 🔋\nControl remoto\nIncluye micrófono con cable\nPotencia de 1500W",
+    "imageUrl": "/images/parlanteDinax15.jfif"
+  },
+  {
+    "id": "114",
+    "name": "Hidrolavadora Gama",
+    "listPrice": 86500,
+    "price": 100000,
+    "category": "hogar",
+    "description": "Pro Wash 1500W\n🚀 Motor 1200 W\n💧 Caudal 5 L/min – Presión 90 bar\n📏 Manguera 3 m\n🛠️ Ideal para autos, patios y veredas",
+    "imageUrl": "/images/hidroGamma.jfif"
+  },
+  {
+    "id": "115",
+    "name": "Hidrolavadora Lusqtoff",
+    "listPrice": 94400,
+    "price": 110000,
+    "category": "hogar",
+    "description": "Potente y práctica para uso doméstico e industrial liviano\nCon motor de 1200W, presión máxima de 100 bar, garantiza limpieza profunda en autos, patios, veredas y más\nCompacta y fácil de transportar",
+    "imageUrl": "/images/hidroLusqtoff.jfif"
+  },
+  {
+    "id": "116",
+    "name": "Parlante 12'' Dinax",
+    "listPrice": 60900,
+    "price": 75000,
+    "category": "tecnología",
+    "description": "Potente y práctica para uso doméstico e industrial liviano\nCon motor de 1200W, presión máxima de 100 bar, garantiza limpieza profunda en autos, patios, veredas y más\nCompacta y fácil de transportar",
+    "imageUrl": "/images/hidroLusqtoff.jfif"
+  },
+   {
+    "id": "117",
+    "name": "Parlante 6'5 Dinax",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "tecnología",
+    "description": "Parlante portátil, con batería recargable 🪫 y conectividad Bluetooth . Ideal para transportarlo a todas partes y disfrutar de su excelente sonido",
+    "imageUrl": "/images/parlanteDinax6.jfif"
+  },
+   {
+    "id": "118",
+    "name": "Pava Hervidora Brilia",
+    "listPrice": 10499,
+    "price": 22000,
+    "category": "cocina",
+    "description": "2Lts -  Jarra eléctrica con pico y cuerpo de acero inoxidable - Base con control de temperatura - Mango antideslizante - Potencia de 1850/2200W",
+    "imageUrl": "/images/pavaHervidora.jfif"
+  },
+    {
+    "id": "119",
+    "name": "Pava Hervidora Sprint",
+    "listPrice": 10499,
+    "price": 22000,
+    "category": "cocina",
+    "description": "2L - Jarra eléctrica con pico y cuerpo de acero inoxidable - Base con control de temperatura - Puede utilizarse para hervir agua, café, té - Incluye botón de encendido y apagado automatico",
+    "imageUrl": "/images/pavaHervidoraSprint.jfif"
+  },
+   {
+    "id": "120",
+    "name": "Luz LEd Solar Lusqtoff",
+    "listPrice": 49800,
+    "price": 0,
+    "category": "hogar",
+    "description": "333 Leds - Iluminá tus espacios de forma práctica y ecológica\n🔸 333 LEDS de alta potencia\n🌞 Carga solar — sin necesidad de cables\n🚶‍♂️ Sensor de movimiento integrado\n🌐 Iluminación gran angular para mayor cobertura",
+    "imageUrl": "/images/luzLed.jfif"
+  },
+    {
+    "id": "121",
+    "name": "Escalera Articulada Gamma 4x4",
+    "listPrice": 142900,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Versátil, segura y lista para todo tipo de trabajo 👷‍♂️\n⚙️ Tipo: Articulada multifunción 4x4\n📏 Altura máxima extendida: 4.70 m\n💪 Capacidad de carga: hasta 150 kg\n🧳 Plegable y fácil de transportar",
+    "imageUrl": "/images/escaleraGamma.jfif"
+  },
+      {
+    "id": "122",
+    "name": "Horno Freidora de aire Dinax",
+    "listPrice": 72200,
+    "price": 0,
+    "category": "cocina",
+    "description": "Con Visor - 7 Lts -  Freidora de 7, ideal para quienes desean disfrutar de platos crujientes y saludables sin complicaciones en la cocina . Capacidad para uso familiar o para preparar comidas en cantidad",
+    "imageUrl": "/images/freidoraDinax.jfif"
+  },
+        {
+    "id": "123",
+    "name": "Freidora de aire Kanji",
+    "listPrice": 64900,
+    "price": 0,
+    "category": "cocina",
+    "description": "6.5 Lts - Freidora perfecta para quienes buscan una alimentación balanceada sin renunciar al sabor !",
+    "imageUrl": "/images/freidoraKanji.jfif"
+  },
+        {
+    "id": "124",
+    "name": "Luz solar Lusqtoff",
+    "listPrice": 10500,
+    "price": 0,
+    "category": "hogar",
+    "description": "✨ Iluminación potente con sensor de movimiento\n🔋 Carga solar automática • Hasta 12 hs de encendido\n🌧️ Apta exterior",
+    "imageUrl": "/images/luzLusqtoff.jfif"
+  },
+       {
+    "id": "125",
+    "name": "Organizador de cocina",
+    "listPrice": 59900,
+    "price": 75000,
+    "category": "cocina",
+    "description": "Estante escurridor platos - ESTE PRODUCTO TE AYUDA A EL ORDEN Y LIMPIEZA EN TU HOGAR. SUS PATAS ANTIDESLIZANTES ASEGURAN QUE EL ESCURRIDOR PERMANEZCA ESTABLE Y FIRME .. MATERIAL DE ACERO , CAPACIDAD HASTA 12 PLATOS - MEDIDAS APROX* . 33.5 cm X 85 cm x 51.5 cm - VALOR EN M L ENTRE $100.000 Y $150 NO TE QUEDES SIN EL TUYO*",
+    "imageUrl": "/images/organizadorCocina.jfif"
+  },
+        {
+    "id": "126",
+    "name": "Ventilador 3 EN 1 DUAVF",
+    "listPrice": 33000,
+    "price": 0,
+    "category": "hogar",
+    "description": "⚙️ POTENCIA Y RENDIMIENTO AL MÁXIMO\n✨ 100W de potencia real – 220V / 50Hz\n✨ 5 aspas metálicas tipo hélice 👉 aire fuerte y constante\n✨ 3 velocidades + altura regulable",
+    "imageUrl": "/images/ventiladorDuavf.jfif"
+  },
+       {
+    "id": "127",
+    "name": "Linga de moto",
+    "listPrice": 7500,
+    "price": 18000,
+    "category": "hogar",
+    "description": "Cable reforzado con recubrimiento metálico\nSistema de cierre con llave🔑\nFlexible, resistente y fácil de usar\nColores disponibles: rojo, azul y negro",
+    "imageUrl": "/images/lingaMoto.jfif"
+  },
+     {
+    "id": "128",
+    "name": "Linga de cadena",
+    "listPrice": 8500,
+    "price": 19000,
+    "category": "hogar",
+    "description": "Seguridad reforzada para tu moto o bici 🏍️🚲\nCadena metálica forrada con funda protectora\nIncluye candado de acero + 3 llaves\nAlta resistencia y durabilidad",
+    "imageUrl": "/images/lingaCadena.jfif"
+  },
+     {
+    "id": "129",
+    "name": "Estereo desmontable Dinax",
+    "listPrice": 25800,
+    "price": 36000,
+    "category": "tecnología",
+    "description": "La entrada USB permite conectar tu pendrive o memoria USB. Instalación sencilla y rápida. Compatible con la mayoría de autos! Función radio FM . 🙌🏾🔥",
+    "imageUrl": "/images/estereoDinax.jfif"
+  },
+     {
+    "id": "130",
+    "name": "Set Parrillero",
+    "listPrice": 17499,
+    "price": 0,
+    "category": "cocina",
+    "description": "5 Piezas + Estuche - Kit asador - Acero inox refor + Estuche",
+    "imageUrl": "/images/estereoDinax.jfif"
   }
 ]
