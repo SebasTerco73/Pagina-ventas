@@ -210,7 +210,7 @@
     "id": "24",
     "name": "Sandwichera DINAX",
     "listPrice": 17900,
-    "price": 27000,
+    "price": 28000,
     "category": "cocina",
     "description": "Ideal para preparar sándwiches,  y tostados de fora rápida y sencilla. Placas antiadherentes, capacidad para 2 sándwiches, mango resistente al calor y cierre de seguridad.",
     "imageUrl": "/images/sandwicheraDinax.jfif"
@@ -1011,7 +1011,7 @@
     "id": "113",
     "name": "Parlante 15'' Dinax",
     "listPrice": 114900,
-    "price": 1300000,
+    "price": 130000,
     "category": "tecnologia",
     "description": "Batería litio 🔋\nControl remoto\nIncluye micrófono con cable\nPotencia de 1500W",
     "imageUrl": "/images/parlanteDinax15.jfif"
@@ -1043,16 +1043,16 @@
     "description": "Potente y práctica para uso doméstico e industrial liviano\nCon motor de 1200W, presión máxima de 100 bar, garantiza limpieza profunda en autos, patios, veredas y más\nCompacta y fácil de transportar",
     "imageUrl": "/images/hidroLusqtoff.jfif"
   },
-   {
+  {
     "id": "117",
     "name": "Parlante 6'5 Dinax",
     "listPrice": 19900,
-    "price": 0,
+    "price": 35000,
     "category": "tecnologia",
     "description": "Parlante portátil, con batería recargable 🪫 y conectividad Bluetooth . Ideal para transportarlo a todas partes y disfrutar de su excelente sonido",
     "imageUrl": "/images/parlanteDinax6.jfif"
   },
-   {
+  {
     "id": "118",
     "name": "Pava Hervidora Brilia",
     "listPrice": 10499,
@@ -1061,7 +1061,7 @@
     "description": "2Lts -  Jarra eléctrica con pico y cuerpo de acero inoxidable - Base con control de temperatura - Mango antideslizante - Potencia de 1850/2200W",
     "imageUrl": "/images/pavaHervidora.jfif"
   },
-    {
+  {
     "id": "119",
     "name": "Pava Hervidora Sprint",
     "listPrice": 10499,
@@ -1070,52 +1070,52 @@
     "description": "2L - Jarra eléctrica con pico y cuerpo de acero inoxidable - Base con control de temperatura - Puede utilizarse para hervir agua, café, té - Incluye botón de encendido y apagado automatico",
     "imageUrl": "/images/pavaHervidoraSprint.jfif"
   },
-   {
+  {
     "id": "120",
     "name": "Luz LEd Solar Lusqtoff",
     "listPrice": 49800,
-    "price": 0,
+    "price": 63000,
     "category": "hogar",
     "description": "333 Leds - Iluminá tus espacios de forma práctica y ecológica\n🔸 333 LEDS de alta potencia\n🌞 Carga solar — sin necesidad de cables\n🚶‍♂️ Sensor de movimiento integrado\n🌐 Iluminación gran angular para mayor cobertura",
     "imageUrl": "/images/luzLed.jfif"
   },
-    {
+  {
     "id": "121",
     "name": "Escalera Articulada Gamma 4x4",
     "listPrice": 142900,
-    "price": 0,
+    "price": 163000,
     "category": "herramientas",
     "description": "Versátil, segura y lista para todo tipo de trabajo 👷‍♂️\n⚙️ Tipo: Articulada multifunción 4x4\n📏 Altura máxima extendida: 4.70 m\n💪 Capacidad de carga: hasta 150 kg\n🧳 Plegable y fácil de transportar",
     "imageUrl": "/images/escaleraGamma.jfif"
   },
-      {
+  {
     "id": "122",
     "name": "Horno Freidora de aire Dinax",
     "listPrice": 72200,
-    "price": 0,
+    "price": 90000,
     "category": "cocina",
     "description": "Con Visor - 7 Lts -  Freidora de 7, ideal para quienes desean disfrutar de platos crujientes y saludables sin complicaciones en la cocina . Capacidad para uso familiar o para preparar comidas en cantidad",
     "imageUrl": "/images/freidoraDinax.jfif"
   },
-        {
+  {
     "id": "123",
     "name": "Freidora de aire Kanji",
     "listPrice": 64900,
-    "price": 0,
+    "price": 80000,
     "category": "cocina",
     "description": "6.5 Lts - Freidora perfecta para quienes buscan una alimentación balanceada sin renunciar al sabor !",
     "imageUrl": "/images/freidoraKanji.jfif"
   },
-        {
+  {
     "id": "124",
     "name": "Luz solar Lusqtoff",
     "listPrice": 10500,
-    "price": 0,
+    "price": 21000,
     "category": "hogar",
     "description": "✨ Iluminación potente con sensor de movimiento\n🔋 Carga solar automática • Hasta 12 hs de encendido\n🌧️ Apta exterior",
     "imageUrl": "/images/luzLusqtoff.jfif"
   },
-       {
+  {
     "id": "125",
     "name": "Organizador de cocina",
     "listPrice": 59900,
@@ -1124,16 +1124,16 @@
     "description": "Estante escurridor platos - ESTE PRODUCTO TE AYUDA A EL ORDEN Y LIMPIEZA EN TU HOGAR. SUS PATAS ANTIDESLIZANTES ASEGURAN QUE EL ESCURRIDOR PERMANEZCA ESTABLE Y FIRME .. MATERIAL DE ACERO , CAPACIDAD HASTA 12 PLATOS - MEDIDAS APROX* . 33.5 cm X 85 cm x 51.5 cm - VALOR EN M L ENTRE $100.000 Y $150 NO TE QUEDES SIN EL TUYO*",
     "imageUrl": "/images/organizadorCocina.jfif"
   },
-        {
+  {
     "id": "126",
     "name": "Ventilador 3 EN 1 DUAVF",
     "listPrice": 33000,
-    "price": 0,
+    "price": 50000,
     "category": "hogar",
     "description": "⚙️ POTENCIA Y RENDIMIENTO AL MÁXIMO\n✨ 100W de potencia real – 220V / 50Hz\n✨ 5 aspas metálicas tipo hélice 👉 aire fuerte y constante\n✨ 3 velocidades + altura regulable",
     "imageUrl": "/images/ventiladorDuavf.jfif"
   },
-       {
+  {
     "id": "127",
     "name": "Linga de moto",
     "listPrice": 7500,
@@ -1142,7 +1142,7 @@
     "description": "Cable reforzado con recubrimiento metálico\nSistema de cierre con llave🔑\nFlexible, resistente y fácil de usar\nColores disponibles: rojo, azul y negro",
     "imageUrl": "/images/lingaMoto.jfif"
   },
-     {
+  {
     "id": "128",
     "name": "Linga de cadena",
     "listPrice": 8500,
@@ -1151,7 +1151,7 @@
     "description": "Seguridad reforzada para tu moto o bici 🏍️🚲\nCadena metálica forrada con funda protectora\nIncluye candado de acero + 3 llaves\nAlta resistencia y durabilidad",
     "imageUrl": "/images/lingaCadena.jfif"
   },
-     {
+  {
     "id": "129",
     "name": "Estereo desmontable Dinax",
     "listPrice": 25800,
@@ -1160,13 +1160,309 @@
     "description": "La entrada USB permite conectar tu pendrive o memoria USB. Instalación sencilla y rápida. Compatible con la mayoría de autos! Función radio FM . 🙌🏾🔥",
     "imageUrl": "/images/estereoDinax.jfif"
   },
-     {
+  {
     "id": "130",
     "name": "Set Parrillero",
     "listPrice": 17499,
-    "price": 0,
+    "price": 29000,
     "category": "cocina",
     "description": "5 Piezas + Estuche - Kit asador - Acero inox refor + Estuche",
-    "imageUrl": "/images/estereoDinax.jfif"
+    "imageUrl": "/images/setParrillero.jfif"
+  },
+  {
+    "id": "131",
+    "name": "Fuente de chocolate Dinax",
+    "listPrice": 30900,
+    "price": 42000,
+    "category": "cocina",
+    "description": "3 cascadas✓ \n Acero inoxidable✓ \n2 niveles de calor✓\nTorre desmontable✓",
+    "imageUrl": "/images/fuenteChoco.jfif"
+  },
+  {
+    "id": "132",
+    "name": "Balanza Personal Dinax",
+    "listPrice": 9500,
+    "price": 20000,
+    "category": "hogar",
+    "description": "Vidrio templado, capacidad hasta 180 kg\n🏠 Ideal para uso en el hogar",
+    "imageUrl": "/images/balanzaDinax.jfif"
+  },
+  {
+    "id": "133",
+    "name": "Máquina de algodon de azúcar Dinax",
+    "listPrice": 34900,
+    "price": 47000,
+    "category": "cocina",
+    "description": " Potencia 500W\nApoyo antideslizante\nPara todo tipo de azúcar",
+    "imageUrl": "/images/algodonAzucar.jfif"
+  },
+  {
+    "id": "134",
+    "name": "Mini compresor Lusqtoff",
+    "listPrice": 55200,
+    "price": 70200,
+    "category": "herramientas",
+    "description": "Práctico, potente y fácil de llevar 🔧\n⚡ Alimentación 12 V – Ideal para autos, motos y bicis\n🔸 Presión máx.: 150 PSI\n🧰 Incluye manómetro y accesorios\n💼 Diseño compacto y liviano para guardar en el baúl",
+    "imageUrl": "/images/miniCompresor.jfif"
+  },
+  {
+    "id": "135",
+    "name": "Maquina de galletitas Dinax",
+    "listPrice": 43800,
+    "price": 58000,
+    "category": "cocina",
+    "description": " Producto ideal para cualquier cocina o local pequeño. Fácil se almacenar !\n Placas antihaderentes que evitan que los productos se peguen y faciliten la limpieza posterior . Su potencia y diseño permiten galletitas frescas y en rápidas tandas .",
+    "imageUrl": "/images/maquinaGalletas.jfif"
+  },
+  {
+    "id": "136",
+    "name": "Vaporera electrica Dinax",
+    "listPrice": 31499,
+    "price": 44000,
+    "category": "cocina",
+    "description": "3 pisos\n 3 CESTAS DE COCCIÓN✓\nCAPACIDAD 8,5 LITROS ✓\nCOMIDAS SALUDABLES Y SABROSAS✓",
+    "imageUrl": "/images/vaporeraDinax.jfif"
+  },
+  {
+    "id": "137",
+    "name": "Arrocera Eléctrica Dinax",
+    "listPrice": 33999,
+    "price": 49000,
+    "category": "cocina",
+    "description": "Es una olla eléctrica de 2 litros que ofrece cocción automática con apagado y funcion de mantenimiento de calor. Ideal para el arroz y otras preparaciónes de forma práctica y segura",
+    "imageUrl": "/images/arroceraDinax.jfif"
+  },
+  {
+    "id": "138",
+    "name": "Protector de sobretensión eco",
+    "listPrice": 20200,
+    "price": 32000,
+    "category": "hogar",
+    "description": "Protegé tus equipos de picos de tensión ⚙️\n✔️ Capacidad: 10 Amps\n✔️ Luces LED indicadoras (Surge / Off / Wait / On )",
+    "imageUrl": "/images/protectorSobretension.jfif"
+  },
+  {
+    "id": "139",
+    "name": "Repetidor WiFi Lusqtoff",
+    "listPrice": 36000,
+    "price": 48000,
+    "category": "hogar",
+    "description": "🚀 300 Mbps – 4 antenas de alto alcance\n✅ Fácil instalación • Compatible con la mayoría de routers",
+    "imageUrl": "/images/repetidorLusq.jfif"
+  },
+  {
+    "id": "140",
+    "name": "Set de ollas Tramontina",
+    "listPrice": 110000,
+    "price": 135000,
+    "category": "cocina",
+    "description": "12 Piezas - es un completo y versátil conjunto para tu cocina! Con materiales durareros y antihaderentes que facilitan la cocción y limpieza . EXELENTE CALIDAD",
+    "imageUrl": "/images/setOllasTramontina.jfif"
+  },
+  {
+    "id": "141",
+    "name": "Smartwatch Ultra 7 mallas",
+    "listPrice": 13800,
+    "price": 24000,
+    "category": "tecnologia",
+    "description": "🔥 Incluye 7 correas intercambiables\n⚡ Cargador inalámbrico incluido\n💎 Pantalla grande, brillante y full color\n💪 Ideal para entrenar o usar todos los días",
+    "imageUrl": "/images/smartwatch.jfif"
+  },
+  {
+    "id": "142",
+    "name": "Smartwatch T20 Ultra 2",
+    "listPrice": 10900,
+    "price": 22000,
+    "category": "tecnologia",
+    "description": "🔥 Incluye 4 mallas intercambiables\n⚡ Pantalla HD y cargador magnético\n❤️ Ideal para deporte, trabajo o uso diario\n✨ Diseño moderno, cómodo y funcional",
+    "imageUrl": "/images/smartwatchUltra2.jfif"
+  },
+  {
+    "id": "143",
+    "name": "Smartwatch T900 Ultra",
+    "listPrice": 7500,
+    "price": 18000,
+    "category": "tecnologia",
+    "description": "⚡ Pantalla BIG 2.09” – Full Color\n🔥 Diseño moderno y resistente\n💪 Ideal para deporte o uso diario\nColores: negro,gris,azul,blanco",
+    "imageUrl": "/images/smartwatchT900.jfif"
+  },
+  {
+    "id": "144",
+    "name": "Monopatin Princesa",
+    "listPrice": 29000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Flexible - Reforzado",
+    "imageUrl": "/images/monopatinPrinc.jfif"
+  },
+  {
+    "id": "145",
+    "name": "Muñeca de Hada voladora",
+    "listPrice": 12500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Vuela de verdad - Recargable USB - Sensor infrarrojo",
+    "imageUrl": "/images/muñecaHada.jfif"
+  },
+  {
+    "id": "146",
+    "name": "Pizarra Mágica",
+    "listPrice": 1500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Dibuja sin papel - 8,5'",
+    "imageUrl": "/images/ledPapel.jfif"
+  },
+      {
+        "id": "147",
+        "name": "Capibara Bailarín",
+        "listPrice": 13500,
+        "price": 0,
+        "category": "hogar",
+        "description": "Plastico - Este tierno CAPIBARA bailarín emite luces y se mueve al ritmo de su icónica canción. Un juguete súper  interactivo ",
+        "imageUrl": "/images/kapibara.jfif"
+      },
+        {
+    "id": "148",
+    "name": "Juego Stop - Electronico 2.0",
+    "listPrice": 19500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Divertido y super creativo para chicos y grandes",
+    "imageUrl": "/images/gameStop.jfif"
+  },
+     {
+    "id": "149",
+    "name": "Popit - Juego electronico",
+    "listPrice": 4500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "A pila - Mas de 10 niveles de juego",
+    "imageUrl": "/images/popit.jfif"
+  },
+   {
+    "id": "150",
+    "name": "Consola Game Stick M15",
+    "listPrice": 27900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "🔥 Más de 15.000 juegos clásicos en un solo dispositivo\n🎮 Incluye 2 joysticks inalámbricos\n⚡ Listo para conectar y jugar al instante",
+    "imageUrl": "/images/gameStick.jfif"
+  },
+   {
+    "id": "152",
+    "name": "Set de cubierto Barrichelo",
+    "listPrice": 8400,
+    "price": 0,
+    "category": "cocina",
+    "description": "24 Piezas\n6 Cuchillos\n6 Tenedores\n6 Cucharas para mesa\n6 Cucharas para té",
+    "imageUrl": "/images/setCubiertoBarri.jfif"
+  },
+  {
+    "id": "153",
+    "name": "Set de utensillos doble",
+    "listPrice": 28500,
+    "price": 0,
+    "category": "cocina",
+    "description": "19 piezas - Con tabla silicona - Con base de madera - Varios colores - Terrible calidad",
+    "imageUrl": "/images/setUtensillos.jfif"
+  },
+  {
+    "id": "154",
+    "name": "Microondas Digital Grill Atma",
+    "listPrice": 196000,
+    "price": 0,
+    "category": "cocina",
+    "description": "23L\n✨ Diseño moderno y potencia total para tu cocina\n8 programas automáticos para cocinar, calentar y gratinar🍕\nFunción digital con display táctil\nCapacidad: 23 litros\nModo combinado Grill + Microondas",
+    "imageUrl": "/images/microondasGrillAtma.jfif"
+  },
+    {
+    "id": "155",
+    "name": "Planchita Tourmaline Gamma",
+    "listPrice": 34900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Temperatura maxima 230°\n✨️ Alisado eficiente,menos frizz y brillo espectacular\n🔒 Traba inferior ON/OFF\n(VALOR EN ML ENTRE $50.000 Y $80.000 )",
+    "imageUrl": "/images/planchitaTour.jfif"
+  },   {
+    "id": "156",
+    "name": "Set herramientas 108 piezas",
+    "listPrice": 77800,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Todo lo que necesitás en un solo maletín👌\nIncluye dados, llaves, criquet, extensiones y más, ideal para trabajos en el hogar, mecánica y uso profesional🔧⚡\n✅ Maletín rígido y compacto\n✅ Herramientas resistentes y de calidad",
+    "imageUrl": "/images/setHerramientas108.jfif"
+  },
+   {
+    "id": "157",
+    "name": "Tostadora Atma Star Wars",
+    "listPrice": 31900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Combina un diseño exclusivo inspirado en la saga galáctica con funciones prácticas que personalizan tu desayuno 🥣",
+    "imageUrl": "/images/tostadoraStarWars.jfif"
+  },
+    {
+    "id": "158",
+    "name": "Set de herramientas Lusqtoff 108 Piezas",
+    "listPrice": 75000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "¡Todo lo que necesitás en un solo maletín !\nIdeal para trabajos mecánicos y de mantenimiento\nIncluye tubos, puntas, llaves, extensiones y más\nAlta resistencia y presentación práctica en maletín",
+    "imageUrl": "/images/setHerramientasLusq.jfif"
+  },
+     {
+    "id": "159",
+    "name": "Bicicleta Jordan R20 Nene/Nena",
+    "listPrice": 176000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/biciJordanR20.jfif"
+  },
+   {
+    "id": "160",
+    "name": "Secador de pelo DFO 900W",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "hogar",
+    "description": "💨 Secado rápido y eficiente para un acabado suave y brillante.\n🔥 Reduce el frizz y mantiene la hidratación del cabello\nIdeal para un look prolijo todos los días💁‍♀️",
+    "imageUrl": "/images/secadorPeloDFO.jfif"
+  },
+     {
+    "id": "161",
+    "name": "Secador de pelo Breeze Gamma",
+    "listPrice": 38000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Cable de 1.80M ✓\n 2 Velocidades ✓ \n 2 Temperaturas✓ \n Potencia de 2100✓",
+    "imageUrl": "/images/secadorPeloGamma.jfif"
+  },
+       {
+    "id": "162",
+    "name": "Tostadora Lusqtoff vintage",
+    "listPrice": 29900,
+    "price": 0,
+    "category": "cocina",
+    "description": "🔅 Pantalla digital y control táctil\n🔅 6 niveles de tostado\n🔅 Funciones para descongelar y recalentar\n🔅 Potencia 930W",
+    "imageUrl": "/images/tostadoraLusq.jfif"
+  },
+   {
+    "id": "163",
+    "name": "Bicicleta Niña R16 Lusqtoff",
+    "listPrice": 119900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Con rueditas",
+    "imageUrl": "/images/biciLusq.jfif"
+  },
+    {
+    "id": "164",
+    "name": "Smart tv BGH 32''",
+    "listPrice": 210000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "HD - AndroidTV - Control remoto por voz - Acceso directo a apps - Diseño ergonómico",
+    "imageUrl": "/images/smartBGH32.jfif"
   }
 ]
