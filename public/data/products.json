@@ -680,7 +680,7 @@
     "listPrice": 248999,
     "price": 275000,
     "category": "tecnologia",
-    "description": "Negro - 128/8GB",
+    "description": "Negro - 256/16GB",
     "imageUrl": "/images/redmi15C.jfif"
   },
   {
@@ -1386,7 +1386,7 @@
     "imageUrl": "/images/planchitaTour.jfif"
   },   {
     "id": "156",
-    "name": "Set herramientas 108 piezas",
+    "name": "Set herramientas 108 piezas Gardenplus",
     "listPrice": 77800,
     "price": 0,
     "category": "herramientas",
@@ -1509,5 +1509,14 @@
     "category": "tecnologia",
     "description": "Sin detalle",
     "imageUrl": "/images/tender3Pisos.jfif"
+  },
+  {
+    "id": "151",
+    "name": "Set de herramientas 499 Piezas ",
+    "listPrice": 138000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Tremendo maletin - No baja de los 170000",
+    "imageUrl": "/images/herramientas499.jfif"
   }
 ]
