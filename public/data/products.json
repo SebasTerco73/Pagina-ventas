@@ -46,7 +46,7 @@
   },
   {
     "id": "6",
-    "name": "Set herramientas OMAHA",
+    "name": "Set de herramientas OMAHA",
     "listPrice": 36500,
     "price": 47000,
     "category": "herramientas",
@@ -703,7 +703,7 @@
   },
   {
     "id": "79",
-    "name": "Cocina Mila de acero",
+    "name": "Cocina Mila de acero con encendido",
     "listPrice": 195000,
     "price": 234000,
     "category": "cocina",
@@ -856,7 +856,7 @@
   },
   {
     "id": "96",
-    "name": "Maletin OMAHA 421 Piezas",
+    "name": "Maletin de herramientas OMAHA 421 Piezas",
     "listPrice": 157999,
     "price": 189500,
     "category": "herramientas",
@@ -1460,9 +1460,54 @@
     "id": "164",
     "name": "Smart tv BGH 32''",
     "listPrice": 210000,
-    "price": 0,
+    "price": 227000,
     "category": "tecnologia",
     "description": "HD - AndroidTV - Control remoto por voz - Acceso directo a apps - Diseño ergonómico",
     "imageUrl": "/images/smartBGH32.jfif"
+  },
+   {
+    "id": "165",
+    "name": "Parlante GreatNice 3''",
+    "listPrice": 7900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "🎶 Sonido potente y limpio con luces LED\n📻 FM Radio / Bluetooth / USB / Micro SD\n🔋 Batería recargable – ideal para uso portátil\n📱 Compatible con todos los dispositivos",
+    "imageUrl": "/images/parlanteGreat.jfif"
+  },
+     {
+    "id": "166",
+    "name": "Parlante inalámbrico Dinax",
+    "listPrice": 115000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "💣 2500W PMPO de pura potencia sonora\n🎶 Triple woofer de 8” — sonido fuerte y nítido\n💡 Luces LED multicolor al ritmo de la música\n🎧 Bluetooth / USB / SD / FM / Control remoto\n🔋 Batería recargable – listo para moverse con vos",
+    "imageUrl": "/images/parlanteDinaxIna.jfif"
+  },
+  {
+    "id": "167",
+    "name": "Bafle Potenciado Lusqtoff C/Microfono Wireless",
+    "listPrice": 97900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "🎶 Doble woofer + Bluetooth + USB + Micrófono\n💡 Luces LED rítmicas y diseño moderno\n🔋 Batería recargable – ideal para eventos y exterior 🔥 LÜSQTOFF URBAN BEAT – 15200W PMPO 🔥",
+    "imageUrl": "/images/bafleLusqtoff.jfif"
+  },
+  {
+    "id": "168",
+    "name": "Smart tv Enova 32''",
+    "listPrice": 188900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": " Netflix, YouTube, Prime Video\nHDR10 + Dolby Audio\nWi-Fi integrado + Asistente de Google\nEntradas HDMI y USB",
+    "imageUrl": "/images/smartEnova.jfif"
+  },
+  {
+    "id": "169",
+    "name": "Tender vertical reforzado 3 pisos",
+    "listPrice": 14499,
+    "price": 25000,
+    "category": "tecnologia",
+    "description": "Sin detalle",
+    "imageUrl": "/images/tender3Pisos.jfif"
   }
 ]
