@@ -1290,7 +1290,7 @@
     "id": "144",
     "name": "Monopatin Princesa",
     "listPrice": 29000,
-    "price": 0,
+    "price": 40000,
     "category": "hogar",
     "description": "Flexible - Reforzado",
     "imageUrl": "/images/monopatinPrinc.jfif"
@@ -1299,16 +1299,16 @@
     "id": "145",
     "name": "Muñeca de Hada voladora",
     "listPrice": 12500,
-    "price": 0,
+    "price": 25000,
     "category": "tecnologia",
     "description": "Vuela de verdad - Recargable USB - Sensor infrarrojo",
     "imageUrl": "/images/muñecaHada.jfif"
   },
   {
     "id": "146",
-    "name": "Pizarra Mágica",
+    "name": "Pizarra Mágica 8,5''",
     "listPrice": 1500,
-    "price": 0,
+    "price": 3000,
     "category": "tecnologia",
     "description": "Dibuja sin papel - 8,5'",
     "imageUrl": "/images/ledPapel.jfif"
@@ -1317,7 +1317,7 @@
         "id": "147",
         "name": "Capibara Bailarín",
         "listPrice": 13500,
-        "price": 0,
+        "price": 24000,
         "category": "hogar",
         "description": "Plastico - Este tierno CAPIBARA bailarín emite luces y se mueve al ritmo de su icónica canción. Un juguete súper  interactivo ",
         "imageUrl": "/images/kapibara.jfif"
@@ -1326,7 +1326,7 @@
     "id": "148",
     "name": "Juego Stop - Electronico 2.0",
     "listPrice": 19500,
-    "price": 0,
+    "price": 31500,
     "category": "tecnologia",
     "description": "Divertido y super creativo para chicos y grandes",
     "imageUrl": "/images/gameStop.jfif"
@@ -1335,7 +1335,7 @@
     "id": "149",
     "name": "Popit - Juego electronico",
     "listPrice": 4500,
-    "price": 0,
+    "price": 10000,
     "category": "tecnologia",
     "description": "A pila - Mas de 10 niveles de juego",
     "imageUrl": "/images/popit.jfif"
@@ -1344,7 +1344,7 @@
     "id": "150",
     "name": "Consola Game Stick M15",
     "listPrice": 27900,
-    "price": 0,
+    "price": 42000,
     "category": "tecnologia",
     "description": "🔥 Más de 15.000 juegos clásicos en un solo dispositivo\n🎮 Incluye 2 joysticks inalámbricos\n⚡ Listo para conectar y jugar al instante",
     "imageUrl": "/images/gameStick.jfif"
@@ -1353,7 +1353,7 @@
     "id": "152",
     "name": "Set de cubierto Barrichelo",
     "listPrice": 8400,
-    "price": 0,
+    "price": 15000,
     "category": "cocina",
     "description": "24 Piezas\n6 Cuchillos\n6 Tenedores\n6 Cucharas para mesa\n6 Cucharas para té",
     "imageUrl": "/images/setCubiertoBarri.jfif"
@@ -1362,7 +1362,7 @@
     "id": "153",
     "name": "Set de utensillos doble",
     "listPrice": 28500,
-    "price": 0,
+    "price": 39000,
     "category": "cocina",
     "description": "19 piezas - Con tabla silicona - Con base de madera - Varios colores - Terrible calidad",
     "imageUrl": "/images/setUtensillos.jfif"
@@ -1371,7 +1371,7 @@
     "id": "154",
     "name": "Microondas Digital Grill Atma",
     "listPrice": 196000,
-    "price": 0,
+    "price": 216000,
     "category": "cocina",
     "description": "23L\n✨ Diseño moderno y potencia total para tu cocina\n8 programas automáticos para cocinar, calentar y gratinar🍕\nFunción digital con display táctil\nCapacidad: 23 litros\nModo combinado Grill + Microondas",
     "imageUrl": "/images/microondasGrillAtma.jfif"
@@ -1380,7 +1380,7 @@
     "id": "155",
     "name": "Planchita Tourmaline Gamma",
     "listPrice": 34900,
-    "price": 0,
+    "price": 46900,
     "category": "hogar",
     "description": "Temperatura maxima 230°\n✨️ Alisado eficiente,menos frizz y brillo espectacular\n🔒 Traba inferior ON/OFF\n(VALOR EN ML ENTRE $50.000 Y $80.000 )",
     "imageUrl": "/images/planchitaTour.jfif"
@@ -1388,7 +1388,7 @@
     "id": "156",
     "name": "Set herramientas 108 piezas Gardenplus",
     "listPrice": 77800,
-    "price": 0,
+    "price": 90000,
     "category": "herramientas",
     "description": "Todo lo que necesitás en un solo maletín👌\nIncluye dados, llaves, criquet, extensiones y más, ideal para trabajos en el hogar, mecánica y uso profesional🔧⚡\n✅ Maletín rígido y compacto\n✅ Herramientas resistentes y de calidad",
     "imageUrl": "/images/setHerramientas108.jfif"
@@ -1397,7 +1397,7 @@
     "id": "157",
     "name": "Tostadora Atma Star Wars",
     "listPrice": 31900,
-    "price": 0,
+    "price": 42000,
     "category": "cocina",
     "description": "Combina un diseño exclusivo inspirado en la saga galáctica con funciones prácticas que personalizan tu desayuno 🥣",
     "imageUrl": "/images/tostadoraStarWars.jfif"
@@ -1406,7 +1406,7 @@
     "id": "158",
     "name": "Set de herramientas Lusqtoff 108 Piezas",
     "listPrice": 75000,
-    "price": 0,
+    "price": 87000,
     "category": "herramientas",
     "description": "¡Todo lo que necesitás en un solo maletín !\nIdeal para trabajos mecánicos y de mantenimiento\nIncluye tubos, puntas, llaves, extensiones y más\nAlta resistencia y presentación práctica en maletín",
     "imageUrl": "/images/setHerramientasLusq.jfif"
@@ -1415,7 +1415,7 @@
     "id": "159",
     "name": "Bicicleta Jordan R20 Nene/Nena",
     "listPrice": 176000,
-    "price": 0,
+    "price": 191000,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/biciJordanR20.jfif"
@@ -1424,7 +1424,7 @@
     "id": "160",
     "name": "Secador de pelo DFO 900W",
     "listPrice": 9800,
-    "price": 0,
+    "price": 20000,
     "category": "hogar",
     "description": "💨 Secado rápido y eficiente para un acabado suave y brillante.\n🔥 Reduce el frizz y mantiene la hidratación del cabello\nIdeal para un look prolijo todos los días💁‍♀️",
     "imageUrl": "/images/secadorPeloDFO.jfif"
@@ -1433,7 +1433,7 @@
     "id": "161",
     "name": "Secador de pelo Breeze Gamma",
     "listPrice": 38000,
-    "price": 0,
+    "price": 50000,
     "category": "hogar",
     "description": "Cable de 1.80M ✓\n 2 Velocidades ✓ \n 2 Temperaturas✓ \n Potencia de 2100✓",
     "imageUrl": "/images/secadorPeloGamma.jfif"
@@ -1442,7 +1442,7 @@
     "id": "162",
     "name": "Tostadora Lusqtoff vintage",
     "listPrice": 29900,
-    "price": 0,
+    "price": 42000,
     "category": "cocina",
     "description": "🔅 Pantalla digital y control táctil\n🔅 6 niveles de tostado\n🔅 Funciones para descongelar y recalentar\n🔅 Potencia 930W",
     "imageUrl": "/images/tostadoraLusq.jfif"
@@ -1451,7 +1451,7 @@
     "id": "163",
     "name": "Bicicleta Niña R16 Lusqtoff",
     "listPrice": 119900,
-    "price": 0,
+    "price": 135000,
     "category": "hogar",
     "description": "Con rueditas",
     "imageUrl": "/images/biciLusq.jfif"
@@ -1469,7 +1469,7 @@
     "id": "165",
     "name": "Parlante GreatNice 3''",
     "listPrice": 7900,
-    "price": 0,
+    "price": 18000,
     "category": "tecnologia",
     "description": "🎶 Sonido potente y limpio con luces LED\n📻 FM Radio / Bluetooth / USB / Micro SD\n🔋 Batería recargable – ideal para uso portátil\n📱 Compatible con todos los dispositivos",
     "imageUrl": "/images/parlanteGreat.jfif"
@@ -1478,7 +1478,7 @@
     "id": "166",
     "name": "Parlante inalámbrico Dinax",
     "listPrice": 115000,
-    "price": 0,
+    "price": 135000,
     "category": "tecnologia",
     "description": "💣 2500W PMPO de pura potencia sonora\n🎶 Triple woofer de 8” — sonido fuerte y nítido\n💡 Luces LED multicolor al ritmo de la música\n🎧 Bluetooth / USB / SD / FM / Control remoto\n🔋 Batería recargable – listo para moverse con vos",
     "imageUrl": "/images/parlanteDinaxIna.jfif"
@@ -1487,7 +1487,7 @@
     "id": "167",
     "name": "Bafle Potenciado Lusqtoff C/Microfono Wireless",
     "listPrice": 97900,
-    "price": 0,
+    "price": 117900,
     "category": "tecnologia",
     "description": "🎶 Doble woofer + Bluetooth + USB + Micrófono\n💡 Luces LED rítmicas y diseño moderno\n🔋 Batería recargable – ideal para eventos y exterior 🔥 LÜSQTOFF URBAN BEAT – 15200W PMPO 🔥",
     "imageUrl": "/images/bafleLusqtoff.jfif"
@@ -1514,9 +1514,27 @@
     "id": "151",
     "name": "Set de herramientas 499 Piezas ",
     "listPrice": 138000,
-    "price": 0,
+    "price": 153000,
     "category": "herramientas",
     "description": "Tremendo maletin - No baja de los 170000",
     "imageUrl": "/images/herramientas499.jfif"
+  },
+  {
+    "id": "170",
+    "name": "Pizarra Mágica 10''",
+    "listPrice": 3500,
+    "price": 7000,
+    "category": "tecnologia",
+    "description": "Dibuja sin papel - 10''",
+    "imageUrl": "/images/ledPapel.jfif"
+  },
+  {
+    "id": "171",
+    "name": "Pizarra Mágica 12''",
+    "listPrice": 4200,
+    "price": 8000,
+    "category": "tecnologia",
+    "description": "Dibuja sin papel - 12''",
+    "imageUrl": "/images/ledPapel.jfif"
   }
 ]
