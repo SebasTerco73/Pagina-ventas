@@ -1536,5 +1536,105 @@
     "category": "tecnologia",
     "description": "Dibuja sin papel - 12''",
     "imageUrl": "/images/ledPapel.jfif"
+  },
+  {
+    "id": "172",
+    "name": "Bicicleta VexRacer R29 - Cuadro Acero",
+    "listPrice": 210000,
+    "price": 0,
+    "category": "hogar",
+    "description": "geometría cómoda y ágil | Llantas doble pared de aluminio 🛞 | Suspensión delantera que absorbe impactos ✨",
+    "imageUrl": "/images/vexRacer.jfif"
+  },
+  {
+    "id": "173",
+    "name": "Bicicleta VexRacer R29 - Cuadro Aluminio",
+    "listPrice": 230000,
+    "price": 0,
+    "category": "hogar",
+    "description": "geometría cómoda y ágil | Llantas doble pared de aluminio 🛞 | Suspensión delantera que absorbe impactos ✨",
+    "imageUrl": "/images/vexRacer.jfif"
+  },
+  {
+    "id": "174",
+    "name": "Organizador Cuadrado 5 niveles",
+    "listPrice": 58000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Estructura metálica negra\n5 niveles amplios y ventilados\nIdeal para cocina, baño o lavadero\nGiratorio y flexible",
+    "imageUrl": "/images/organizador5.jfif"
+  },
+   {
+    "id": "175",
+    "name": "Organizador Redondo 5 niveles",
+    "listPrice": 58000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Práctico, moderno y súper resistente 💪\nIdeal para mantener todo en orden con estilo\nEstructura de acero negro con canastos calados\n5 niveles amplios para guardar desde frutas y verduras🍎🥦 hasta artículos de limpieza o baño 🧴\nBase firme y diseño ventilado que evita la humedad,giratorio y flexible",
+    "imageUrl": "/images/organizador5R.jfif"
+  },
+   {
+    "id": "174",
+    "name": "Organizador Cuadrado 4 niveles",
+    "listPrice": 49000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Elegante, firme y funcional 💪\n✔️ Canastos metálicos calados\n✔️ 4 niveles amplios y ventilados\n✔️ Ideal para cocina, baño o lavadero",
+    "imageUrl": "/images/organizador4.jfif"
+  },
+     {
+    "id": "175",
+    "name": "Celular Samsung A16",
+    "listPrice": 225000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Memoria: 4 RAM\nMemoria interna : 128 GB\nCAPACIDAD DE LA BATERIA 5000 mAh ✓\nSISTEMA OPERATIVO ANDROID ✓\nSamsung diseño moderno con un rendimiento de alto nivel ✓",
+    "imageUrl": "/images/samsungA16.jfif"
+  },
+       {
+    "id": "176",
+    "name": "Luz de emergencia 30 Led",
+    "listPrice": 5800,
+    "price": 0,
+    "category": "hogar",
+    "description": "compacta, práctica y recargable🔌",
+    "imageUrl": "/images/luzLed30.jfif"
+  },
+         {
+    "id": "176",
+    "name": "Luz de emergencia 60 Led",
+    "listPrice": 10000,
+    "price": 0,
+    "category": "hogar",
+    "description": "! máxima potencia y duración !\nideal para el hogar, comercio o depósito\nBatería recargable de larga duración",
+    "imageUrl": "/images/luzLed60.jfif"
+  },
+           {
+    "id": "177",
+    "name": "Ventilador StarVision 3 en 1",
+    "listPrice": 36000,
+    "price": 0,
+    "category": "hogar",
+    "description": "⚙️ Aspas metálicas ultra resistentes💪\n🔁 3 funciones: pie, pared o mesa\n⬆️ Altura regulable + base reforzada\n🤫 Motor silencioso, gran caudal de aire",
+    "imageUrl": "/images/ventiladorStarVision.jfif"
+  },
+             {
+    "id": "178",
+    "name": "Auricular Inalámbrico M20",
+    "listPrice": 5800,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "⚡️ Con pantalla digital HD\n🔊 Sonido potente\n🔋 Gran capacidad de carga y larga duración\n🎶 Tecnología ENC: reduce el ruido ambiental para llamadas más claras",
+    "imageUrl": "/images/auricularM20.jfif"
+  },
+              {
+    "id": "179",
+    "name": "Desmalezadora Lusqtoff",
+    "listPrice": 116800,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Cuenta con un motor de 2 tiempos de 52cc y una potencia de 1.7 HP\nEs adecuada para desmalezar y mantener espacios verdes, siendo versátil y fácil de manipular.",
+    "imageUrl": "/images/desmalezadoraLusq.jfif"
   }
+
 ]
