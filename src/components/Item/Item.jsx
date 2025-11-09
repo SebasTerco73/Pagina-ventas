@@ -16,6 +16,7 @@ export const Item = ({name, price, description, imageUrl, children}) => {
                      }} 
                     className="item-img"  />
                     <h2 className="product-title">{name}</h2>
+                    <p className="product-price">$ {price}</p>
                     {children && <div className="item-actions">{children}</div>}
                 </div>
             </article>; 

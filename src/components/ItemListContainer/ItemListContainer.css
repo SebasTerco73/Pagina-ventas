@@ -127,3 +127,25 @@
     font-size: 0.8rem;
   }
 }
+
+/* Fin probando */
+.filtros {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 10px 0 20px;
+  gap: 10px;
+}
+
+.filtros select {
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid #444;
+  background-color: #222;
+  color: #fff;
+  cursor: pointer;
+}
+
+.filtros select:hover {
+  background-color: #333;
+}

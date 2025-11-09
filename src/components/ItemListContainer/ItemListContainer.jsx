@@ -7,7 +7,13 @@ import "./ItemListContainer.css";
 export const ItemListContainer = () => {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
-  const { busqueda, setBusqueda, paginaActual, setPaginaActual, paginasPorCategoria, setPaginaPorCategoria } = useContext(ProductContext);
+  const { 
+    busqueda, setBusqueda, 
+    paginaActual, setPaginaActual, 
+    paginasPorCategoria, setPaginaPorCategoria,
+    orden, setOrden
+  } = useContext(ProductContext);
+
   const { categoryId } = useParams();
   const productosPorPagina = 30;
 
@@ -23,9 +29,7 @@ export const ItemListContainer = () => {
   }, [paginaActual]);
 
   useEffect(() => {
-    // Siempre que cambia la categoría, volver a la página 1
-    if (!categoryId) return; // si estás en la home, nada
-    // si no hay una página guardada para esta categoría, la iniciamos en 1
+    if (!categoryId) return;
     const paginaGuardada = paginasPorCategoria[categoryId];
     if (paginaGuardada) {
       setPaginaActual(paginaGuardada);
@@ -48,7 +52,18 @@ export const ItemListContainer = () => {
       const coincideCategoria = categoryId ? prod.category === categoryId : true;
       return coincideBusqueda && coincideCategoria;
     })
-    .sort((a, b) => a.name.localeCompare(b.name));
+    .sort((a, b) => {
+      switch (orden) {
+        case "za":
+          return b.name.localeCompare(a.name);
+        case "precioAsc":
+          return a.price - b.price;
+        case "precioDesc":
+          return b.price - a.price;
+        default:
+          return a.name.localeCompare(b.name);
+      }
+    });
 
   const indiceUltimo = paginaActual * productosPorPagina;
   const indicePrimero = indiceUltimo - productosPorPagina;
@@ -59,6 +74,7 @@ export const ItemListContainer = () => {
     <section className="app">
       <h1>{categoryId ? `Categoría: ${categoryId}` : "Catálogo"}</h1>
 
+      {/* 🔍 Buscador */}
       <div className="buscador">
         <input
           type="text"
@@ -69,6 +85,20 @@ export const ItemListContainer = () => {
             setPaginaActual(1);
           }}
         />
+      </div>
+
+      {/* 🧭 Selector de orden */}
+      <div className="filtros">
+        <label>Ordenar por: </label>
+        <select value={orden} onChange={(e) => {
+          setOrden(e.target.value)
+          setPaginaActual(1);
+        }}>
+          <option value="az">Nombre (A-Z)</option>
+          <option value="za">Nombre (Z-A)</option>
+          <option value="precioAsc">Precio (menor a mayor)</option>
+          <option value="precioDesc">Precio (mayor a menor)</option>
+        </select>
       </div>
 
       {loading ? (
@@ -87,7 +117,6 @@ export const ItemListContainer = () => {
 
             {Array.from({ length: totalPaginas }, (_, i) => i + 1)
               .filter((num) => {
-                // mostrar primeras y últimas, y las cercanas a la actual
                 return (
                   num === 1 ||
                   num === totalPaginas ||

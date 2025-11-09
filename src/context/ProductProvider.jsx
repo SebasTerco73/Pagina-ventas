@@ -12,6 +12,14 @@ export const ProductProvider = ({ children }) => {
   JSON.parse(sessionStorage.getItem("paginasPorCategoria")) || {}
 );
 
+// nuevo: orden persistido
+  const [orden, setOrden] = useState(sessionStorage.getItem("orden") || "az");
+
+   // persistir orden
+  useEffect(() => {
+    sessionStorage.setItem("orden", orden);
+  }, [orden]);
+
 const irAPrimeraPagina = (categoria) => {
   setPaginaActual(1);
   setPaginaPorCategoria(categoria || "home", 1);
@@ -44,6 +52,8 @@ const irAPrimeraPagina = (categoria) => {
         navActivo,
         setNavActivo,
         resetFiltros,
+        orden,
+        setOrden,
         paginasPorCategoria,
         setPaginaPorCategoria,
         irAPrimeraPagina

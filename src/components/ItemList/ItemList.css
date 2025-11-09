@@ -5,40 +5,27 @@
     gap: 20px;
     padding: 20px;
     justify-content: space-around;
-    
     /* 2. Limitamos el ancho total del contenedor para que quepan 4 tarjetas exactas: */
     max-width: 98%; /* 4 tarjetas (220px) + 3 gaps (20px) + 2 padding (20px) */
-    
     /* 3. Centramos el contenedor Grid dentro de la página: */
     margin: 0 auto; 
-    
     justify-items: center; /* Opcional, pero ayuda a centrar si el cálculo no es exacto */
-    
-    /* background-color: yellow; puedes eliminarlo */
 }
-
 
 .item-link {
     /* 1. Hace que el Link (el contenedor de la tarjeta) ocupe toda la celda Grid */
     display: block; 
-    
     /* 2. Aplica un ancho máximo a este contenedor (el que quieres que tenga la tarjeta) */
     width: 100%;
-    
     /* 3. Centra el Link (y por ende la tarjeta) dentro de la celda Grid */
     margin: 0 auto; 
-    max-height: 350px ;
+    min-height: 388px ;
     overflow: hidden
-    
-    /* Nota: Esto evita que el Link se estire por completo horizontalmente */
-    /* Si tienes más estilos para .item-link, agrégalos aquí */
 }
 
 article {
     width: 100%; /* Asegura que la tarjeta use todo el ancho de los 300px del Link */
-    /* ... el resto de tu CSS de article ... */
 }
-
 
 /* ---------- RESPONSIVE ---------- */
 
