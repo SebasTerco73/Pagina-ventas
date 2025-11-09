@@ -13,7 +13,6 @@ export const ItemDetail = ({detail}) => {
             <Item {...detail}>
                 <p>{detail.description}</p>
                 <p>Precio de lista: ${detail.listPrice}</p>
-                <h3 className="product-price">Precio final: ${detail.price}</h3>
             </Item>
 
             {/* Botón de volver */}
