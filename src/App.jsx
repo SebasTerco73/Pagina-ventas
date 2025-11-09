@@ -6,12 +6,14 @@ import { ItemListContainer } from './components/ItemListContainer/ItemListContai
 import { ItemDetailContainer } from './components/ItemDetailContainer/ItemDetailContainer'
 import { ProductProvider } from './context/ProductProvider'
 import { ScrollButtons } from "./components/ScrollButtons/ScrollButtons";
+import ScrollToTop from './components/ScrollToTop'
 
 function App() {
 
   return (
     <>
       <BrowserRouter>
+      <ScrollToTop />
       <ProductProvider>
         <Nav/>
         <Routes>
