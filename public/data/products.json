@@ -406,7 +406,7 @@
   },
   {
     "id": "46",
-    "name": "Ventilador Liliana",
+    "name": "Ventilador Liliana 20''",
     "listPrice": 64999,
     "price": 80000,
     "category": "hogar",
@@ -521,7 +521,6 @@
     "description": "Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
     "imageUrl": "/images/gazeboPlegable.jfif"
   },
-
   {
     "id": "60",
     "name": "Microondas Philco",
@@ -1305,16 +1304,16 @@
     "description": "Dibuja sin papel - 8,5'",
     "imageUrl": "/images/ledPapel.jfif"
   },
-      {
-        "id": "147",
-        "name": "Capibara Bailarín",
-        "listPrice": 13500,
-        "price": 24000,
-        "category": "hogar",
-        "description": "Plastico - Este tierno CAPIBARA bailarín emite luces y se mueve al ritmo de su icónica canción. Un juguete súper  interactivo ",
-        "imageUrl": "/images/kapibara.jfif"
-      },
-        {
+  {
+    "id": "147",
+    "name": "Capibara Bailarín",
+    "listPrice": 13500,
+    "price": 24000,
+    "category": "hogar",
+    "description": "Plastico - Este tierno CAPIBARA bailarín emite luces y se mueve al ritmo de su icónica canción. Un juguete súper  interactivo ",
+    "imageUrl": "/images/kapibara.jfif"
+  },
+  {
     "id": "148",
     "name": "Juego Stop - Electronico 2.0",
     "listPrice": 19500,
@@ -1323,7 +1322,7 @@
     "description": "Divertido y super creativo para chicos y grandes",
     "imageUrl": "/images/gameStop.jfif"
   },
-     {
+  {
     "id": "149",
     "name": "Popit - Juego electronico",
     "listPrice": 4500,
@@ -1332,7 +1331,7 @@
     "description": "A pila - Mas de 10 niveles de juego",
     "imageUrl": "/images/popit.jfif"
   },
-   {
+  {
     "id": "150",
     "name": "Consola Game Stick M15",
     "listPrice": 27900,
@@ -1341,7 +1340,7 @@
     "description": "🔥 Más de 15.000 juegos clásicos en un solo dispositivo\n🎮 Incluye 2 joysticks inalámbricos\n⚡ Listo para conectar y jugar al instante",
     "imageUrl": "/images/gameStick.jfif"
   },
-   {
+  {
     "id": "152",
     "name": "Set de cubierto Barrichelo",
     "listPrice": 8400,
@@ -1368,7 +1367,7 @@
     "description": "23L\n✨ Diseño moderno y potencia total para tu cocina\n8 programas automáticos para cocinar, calentar y gratinar🍕\nFunción digital con display táctil\nCapacidad: 23 litros\nModo combinado Grill + Microondas",
     "imageUrl": "/images/microondasGrillAtma.jfif"
   },
-    {
+  {
     "id": "155",
     "name": "Planchita Tourmaline Gamma",
     "listPrice": 34900,
@@ -1376,7 +1375,8 @@
     "category": "hogar",
     "description": "Temperatura maxima 230°\n✨️ Alisado eficiente,menos frizz y brillo espectacular\n🔒 Traba inferior ON/OFF\n(VALOR EN ML ENTRE $50.000 Y $80.000 )",
     "imageUrl": "/images/planchitaTour.jfif"
-  },   {
+  },
+  {
     "id": "156",
     "name": "Set herramientas 108 piezas Gardenplus",
     "listPrice": 77800,
@@ -1385,7 +1385,7 @@
     "description": "Todo lo que necesitás en un solo maletín👌\nIncluye dados, llaves, criquet, extensiones y más, ideal para trabajos en el hogar, mecánica y uso profesional🔧⚡\n✅ Maletín rígido y compacto\n✅ Herramientas resistentes y de calidad",
     "imageUrl": "/images/setHerramientas108.jfif"
   },
-   {
+  {
     "id": "157",
     "name": "Tostadora Atma Star Wars",
     "listPrice": 31900,
@@ -1394,7 +1394,7 @@
     "description": "Combina un diseño exclusivo inspirado en la saga galáctica con funciones prácticas que personalizan tu desayuno 🥣",
     "imageUrl": "/images/tostadoraStarWars.jfif"
   },
-    {
+  {
     "id": "158",
     "name": "Set de herramientas Lusqtoff 108 Piezas",
     "listPrice": 75000,
@@ -1403,7 +1403,7 @@
     "description": "¡Todo lo que necesitás en un solo maletín !\nIdeal para trabajos mecánicos y de mantenimiento\nIncluye tubos, puntas, llaves, extensiones y más\nAlta resistencia y presentación práctica en maletín",
     "imageUrl": "/images/setHerramientasLusq.jfif"
   },
-     {
+  {
     "id": "159",
     "name": "Bicicleta Jordan R20 Nene/Nena",
     "listPrice": 176000,
@@ -1412,7 +1412,7 @@
     "description": "Sin detalle",
     "imageUrl": "/images/biciJordanR20.jfif"
   },
-   {
+  {
     "id": "160",
     "name": "Secador de pelo DFO 900W",
     "listPrice": 9800,
@@ -1421,7 +1421,7 @@
     "description": "💨 Secado rápido y eficiente para un acabado suave y brillante.\n🔥 Reduce el frizz y mantiene la hidratación del cabello\nIdeal para un look prolijo todos los días💁‍♀️",
     "imageUrl": "/images/secadorPeloDFO.jfif"
   },
-     {
+  {
     "id": "161",
     "name": "Secador de pelo Breeze Gamma",
     "listPrice": 38000,
@@ -1430,7 +1430,7 @@
     "description": "Cable de 1.80M ✓\n 2 Velocidades ✓ \n 2 Temperaturas✓ \n Potencia de 2100✓",
     "imageUrl": "/images/secadorPeloGamma.jfif"
   },
-       {
+  {
     "id": "162",
     "name": "Tostadora Lusqtoff vintage",
     "listPrice": 29900,
@@ -1439,7 +1439,7 @@
     "description": "🔅 Pantalla digital y control táctil\n🔅 6 niveles de tostado\n🔅 Funciones para descongelar y recalentar\n🔅 Potencia 930W",
     "imageUrl": "/images/tostadoraLusq.jfif"
   },
-   {
+  {
     "id": "163",
     "name": "Bicicleta Niña R16 Lusqtoff",
     "listPrice": 119900,
@@ -1448,7 +1448,7 @@
     "description": "Con rueditas",
     "imageUrl": "/images/biciLusq.jfif"
   },
-    {
+  {
     "id": "164",
     "name": "Smart tv BGH 32''",
     "listPrice": 210000,
@@ -1457,7 +1457,7 @@
     "description": "HD - AndroidTV - Control remoto por voz - Acceso directo a apps - Diseño ergonómico",
     "imageUrl": "/images/smartBGH32.jfif"
   },
-   {
+  {
     "id": "165",
     "name": "Parlante GreatNice 3''",
     "listPrice": 7900,
@@ -1466,7 +1466,7 @@
     "description": "🎶 Sonido potente y limpio con luces LED\n📻 FM Radio / Bluetooth / USB / Micro SD\n🔋 Batería recargable – ideal para uso portátil\n📱 Compatible con todos los dispositivos",
     "imageUrl": "/images/parlanteGreat.jfif"
   },
-     {
+  {
     "id": "166",
     "name": "Parlante inalámbrico Dinax",
     "listPrice": 115000,
@@ -1556,7 +1556,7 @@
     "description": "Estructura metálica negra\n5 niveles amplios y ventilados\nIdeal para cocina, baño o lavadero\nGiratorio y flexible",
     "imageUrl": "/images/organizador5.jfif"
   },
-   {
+  {
     "id": "175",
     "name": "Organizador Redondo 5 niveles",
     "listPrice": 58000,
@@ -1565,7 +1565,7 @@
     "description": "Práctico, moderno y súper resistente 💪\nIdeal para mantener todo en orden con estilo\nEstructura de acero negro con canastos calados\n5 niveles amplios para guardar desde frutas y verduras🍎🥦 hasta artículos de limpieza o baño 🧴\nBase firme y diseño ventilado que evita la humedad,giratorio y flexible",
     "imageUrl": "/images/organizador5R.jfif"
   },
-   {
+  {
     "id": "176",
     "name": "Organizador Cuadrado 4 niveles",
     "listPrice": 49000,
@@ -1574,7 +1574,7 @@
     "description": "Elegante, firme y funcional 💪\n✔️ Canastos metálicos calados\n✔️ 4 niveles amplios y ventilados\n✔️ Ideal para cocina, baño o lavadero",
     "imageUrl": "/images/organizador4.jfif"
   },
-     {
+  {
     "id": "177",
     "name": "Celular Samsung A16",
     "listPrice": 225000,
@@ -1583,7 +1583,7 @@
     "description": "Memoria: 4 RAM\nMemoria interna : 128 GB\nCAPACIDAD DE LA BATERIA 5000 mAh ✓\nSISTEMA OPERATIVO ANDROID ✓\nSamsung diseño moderno con un rendimiento de alto nivel ✓",
     "imageUrl": "/images/samsungA16.jfif"
   },
-       {
+  {
     "id": "178",
     "name": "Luz de emergencia 30 Led",
     "listPrice": 5800,
@@ -1592,7 +1592,7 @@
     "description": "compacta, práctica y recargable🔌",
     "imageUrl": "/images/luzLed30.jfif"
   },
-         {
+  {
     "id": "179",
     "name": "Luz de emergencia 60 Led",
     "listPrice": 10000,
@@ -1601,7 +1601,7 @@
     "description": "! máxima potencia y duración !\nideal para el hogar, comercio o depósito\nBatería recargable de larga duración",
     "imageUrl": "/images/luzLed60.jfif"
   },
-           {
+  {
     "id": "180",
     "name": "Ventilador StarVision 3 en 1",
     "listPrice": 36000,
@@ -1610,7 +1610,7 @@
     "description": "⚙️ Aspas metálicas ultra resistentes💪\n🔁 3 funciones: pie, pared o mesa\n⬆️ Altura regulable + base reforzada\n🤫 Motor silencioso, gran caudal de aire",
     "imageUrl": "/images/ventiladorStarVision.jfif"
   },
-             {
+  {
     "id": "181",
     "name": "Auricular Inalámbrico M20",
     "listPrice": 5800,
@@ -1619,7 +1619,7 @@
     "description": "⚡️ Con pantalla digital HD\n🔊 Sonido potente\n🔋 Gran capacidad de carga y larga duración\n🎶 Tecnología ENC: reduce el ruido ambiental para llamadas más claras",
     "imageUrl": "/images/auricularM20.jfif"
   },
-              {
+  {
     "id": "182",
     "name": "Desmalezadora Lusqtoff",
     "listPrice": 116800,
@@ -1627,6 +1627,158 @@
     "category": "herramientas",
     "description": "Cuenta con un motor de 2 tiempos de 52cc y una potencia de 1.7 HP\nEs adecuada para desmalezar y mantener espacios verdes, siendo versátil y fácil de manipular.",
     "imageUrl": "/images/desmalezadoraLusq.jfif"
+  },
+  {
+    "id": "59",
+    "name": "Celular Motorola G05",
+    "listPrice": 148900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Memoria: 4 RAM\nCamara frontal: 8MPX\nCamara trasera: 50MPX\nIncluye lector de huellas",
+    "imageUrl": "/images/motoG05.jfif"
+  },
+  {
+    "id": "183",
+    "name": "Celular Motorola G15",
+    "listPrice": 189900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Memoria: 4 RAM\nCamara principal 50MP + frontal: 13MP\n5000 mAH con carga rapida\nIncluye funda y cargador original",
+    "imageUrl": "/images/motoG15.jfif"
+  },
+  {
+    "id": "184",
+    "name": "Humificador de madera",
+    "listPrice": 5800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/humificadorMadera.jfif"
+  },
+  {
+    "id": "185",
+    "name": "Secador de ropa",
+    "listPrice": 29900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Súper eficiente\nEste secador genera un flujo de aire caliente ♨️, que permite secar ropa de forma uniforme y rápida. Incluso en ambientes húmedos.\nSECADO: PRENDAS LIVIANAS EN 30 Min OTRAS EN 60 MIN Y PRENDAS GRUESAS EN UN POCO MAS\nValor en mercado libre entre 55.000 y 70.000✨",
+    "imageUrl": "/images/secadorRopa.jfif"
+  },
+  {
+    "id": "186",
+    "name": "Ventilador Azana 18''",
+    "listPrice": 31500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente, silencioso y con aspas metálicas\n✔️ 2 velocidades\n✔️ 2 alturas regulables\n✔️ Base reforzada y 90W de potencia",
+    "imageUrl": "/images/ventiladorAzana.jfif"
+  },
+  {
+    "id": "187",
+    "name": "Ventilador Liliana 18''",
+    "listPrice": 55900,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 MOD VP18P\n🔥 POTENCIA 75 W\n🔥 3 VELOCIDADES\n🔥 HASTA 1,70 M DE  ALTURA\n🔥 5 ASPAS PLÁSTICAS",
+    "imageUrl": "/images/ventiladorLiliana18.jfif"
+  },
+  {
+    "id": "188",
+    "name": "Turboventilador Liliana 10''",
+    "listPrice": 38900,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 Potente y resistente, ideal para casa o trabajo\n✔️ 5 aspas metálicas\n✔️ 2 velocidades",
+    "imageUrl": "/images/turboventiladorLiliana.jfif"
+  },
+  {
+    "id": "189",
+    "name": "Cepillo Voluminizador DFO",
+    "listPrice": 10800,
+    "price": 0,
+    "category": "hogar",
+    "description": "💨 Seca y moldea al mismo tiempo, reduciendo el frizz y dejando el cabello suave y brillante.\nPerfecto para un look con volumen y acabado profesional en minutos",
+    "imageUrl": "/images/cepilloVoluminizador.jfif"
+  },
+   {
+    "id": "190",
+    "name": "Rizador 3 pinzas Dinax",
+    "listPrice": 13800,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 Ideal para ondas marcadas y definidas en pocos minutos.\n🌡️ Calentamiento rápido\n💁‍♀️ Facilita el peinado y cuida el cabello\n✨ Acabado prolijo y duradero",
+    "imageUrl": "/images/rizadorDinax.jfif"
+  },
+     {
+    "id": "191",
+    "name": "Ollas Lusqtoff",
+    "listPrice": 98500,
+    "price": 0,
+    "category": "cocina",
+    "description": "9 PCS - Ideal para tu cocina\n✅ Incluye ollas, sartén, jarro y tapas de vidrio\n🔥 Antiadherente ecológico + aluminio resistente",
+    "imageUrl": "/images/ollasLusqtoff.jfif"
+  },
+       {
+    "id": "192",
+    "name": "Celular Redmi A5",
+    "listPrice": 139900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Memoria RAM: 4GB\nMemoria Interna: 128GB\nEste modelo es ideal para quienes buscan un teléfono versátil que se adapte a sus necesidades cotidianas . Ya sea para trabajar, estudiar. etc.",
+    "imageUrl": "/images/redmiA5.jfif"
+  },
+       {
+    "id": "194",
+    "name": "Musculusa",
+    "listPrice": 0,
+    "price": 13000,
+    "category": "hogar",
+    "description": "Color Beige",
+    "imageUrl": "/images/musculosa.jfif"
+  },
+       {
+    "id": "195",
+    "name": "Rizador de pelo cerámico Dinax",
+    "listPrice": 12800,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 Ideal para lograr ondas definidas y duraderas\n🌡️ Control inteligente de temperatura\n⚡ 45 W de potencia\nPerfecto para uso diario o profesional 💁‍♀️",
+    "imageUrl": "/images/rizadorCeramicoDinax.jfif"
+  },
+      {
+    "id": "196",
+    "name": "Juego de sábanas Casa Tex",
+    "listPrice": 25500,
+    "price": 0,
+    "category": "hogar",
+    "description": "2800 HILOS ULTRA SUAVE 🧵 \nTWIN BE085T- N CON BORDADO\n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191 + 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
+    "imageUrl": "/images/juegoSabana.jfif"
+  },
+     {
+    "id": "197",
+    "name": "Juego de sábanas Casa Tex",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "hogar",
+    "description": "3 piezas - Tamaño TWIN - 1800 Hilos - Ultra suave - Diferentes colores y diseños - No destiñe\n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191+ 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
+    "imageUrl": "/images/juegoSabana2.jfif"
+  },
+  {
+    "id": "198",
+    "name": "Organizador de ropa",
+    "listPrice": 8300,
+    "price": 0,
+    "category": "hogar",
+    "description": "🎁🥼🧥 Organizador práctico que ayuda a mantener tu habitación ordenada . Ideales para prendas pequeñas, como ropa interior, medias buzos etc",
+    "imageUrl": "/images/organizadorRopa.jfif"
+  },
+  {
+    "id": "199",
+    "name": "Reposera fija de caño Moor Sanset",
+    "listPrice": 22600,
+    "price": 0,
+    "category": "hogar",
+    "description": " Reposera fija plegable ✓\nResistentes y prácticas ✓\nSoporta hasta 120Kg aprox . ✓",
+    "imageUrl": "/images/reposeraFijaMoor.jfif"
   }
-
 ]
