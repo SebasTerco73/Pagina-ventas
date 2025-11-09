@@ -1,0 +1,60 @@
+.scroll-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 1000;
+}
+
+.scroll-btn {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  opacity: 0.8;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+.scroll-btn:hover {
+  background-color: #007bff;
+  border-color: #007bff;
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.scroll-btn.up {
+  animation: fadeInUp 0.3s ease;
+}
+
+.scroll-btn.down {
+  animation: fadeInDown 0.3s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
