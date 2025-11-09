@@ -40,6 +40,7 @@ const irAPrimeraPagina = (categoria) => {
   const resetFiltros = () => {
     setBusqueda("");
     setPaginaActual(1);
+    setOrden("az");
   };
 
   return (
