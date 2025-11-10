@@ -1728,6 +1728,15 @@
     "imageUrl": "/images/redmiA5.jfif"
   },
   {
+    "id": "193",
+    "name": "Pileta Moor 400L",
+    "listPrice": 23900,
+    "price": 0,
+    "category": "hogar",
+    "description": "💧 Capacidad: 400 litros\n🪶 Material: PVC reforzado con estructura metálica\n⚙️ Fácil de armar y limpiar\n👨‍👩‍👧 Ideal para chicos y espacios reducidos\n📏 Medidas: 115 cm largo × 106 cm ancho × 33 cm alto",
+    "imageUrl": "/images/piletaMoor400.jfif"
+  },
+  {
     "id": "194",
     "name": "Musculusa",
     "listPrice": 0,
@@ -1780,5 +1789,105 @@
     "category": "hogar",
     "description": " Reposera fija plegable ✓\nResistentes y prácticas ✓\nSoporta hasta 120Kg aprox . ✓",
     "imageUrl": "/images/reposeraFijaMoor.jfif"
+  },
+  {
+    "id": "200",
+    "name": "Pileta Moor 1000L",
+    "listPrice": 37500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Estructura confeccionada en acero al carbono → firme y resistente - 🧼 Válvula de desagüe para vaciado rápido y práctico - Lona de PVC de alta calidad - Esquineros plásticos con protección UV → mayor durabilidad al☀️\nA:42cm\nAn:126cm\nP:189cm\n(No cuentan con garantía)",
+    "imageUrl": "/images/piletaMoor1000.jfif"
+  },
+   {
+    "id": "201",
+    "name": "Pileta Moor 2000L",
+    "listPrice": 85400,
+    "price": 0,
+    "category": "hogar",
+    "description": "Lona triple capa - Acero al carbono - Esquineros UV 🌞 - Puntales antideslizantes - Válvula de desagüe🧼\nA:58cm\nAn:211cm\nP:164cm\n(No cuentan con garantia)",
+    "imageUrl": "/images/piletaMoor1000.jfif"
+  },
+    {
+    "id": "202",
+    "name": "Criquet Omaha Extra Chato",
+    "listPrice": 104000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "2.5 toneladas\nIdeal para vehículos grandes y bajos, con elevación rápida y segura\nCapacidad máx.: 2500 kg\n📏 Altura mín.: 8,5 cm | máx.: 35 cm\n🔧 Diseño extra chato + materiales reforzado",
+    "imageUrl": "/images/criquetOmaha.jfif"
+  },
+    {
+    "id": "203",
+    "name": "Llave de impacto Inalámbrica Gardenplus",
+    "listPrice": 141600,
+    "price": 0,
+    "category": "herramientas",
+    "description": "⚡ Voltaje: 18 V\n🔩 Torque máximo: 300 N·m\n🔁 Velocidad: 2500 r/min\n🔋 Batería: 3 A — carga rápida en solo 1 h 30 min\n⚙️ Potente y práctica para aflojar o ajustar tornillos y tuercas con precisión\n🧰 Incluye maletín rígido, cargador y juego de bocas",
+    "imageUrl": "/images/llaveImpacto.jfif"
+  },
+   {
+    "id": "204",
+    "name": "Pileta Moor Redonda 4500L",
+    "listPrice": 162000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Estructura firme\nLona triple capa\nProtección UV 🌞\nVálvula de desagüe🧼\nDiametro:2.78m\nAlto:77cm\n(No cuentan con garantía)",
+    "imageUrl": "/images/piletaMoor4500.jfif"
+  },
+  {
+    "id": "205",
+    "name": "Conservadora 12 Latas Chica",
+    "listPrice": 17900,
+    "price": 0,
+    "category": "cocina",
+    "description": "🧊 Conservadora portátil para mantener tus bebidas frías durante varias horas, idea para camping, playa , viajes\n🧊 Correa cómoda para transportarla fácilmente, con gancho reforzado.\nIDEAL PARA LLEVARLA A TODAS PARTES ... .  🥤🍹🥂🍾",
+    "imageUrl": "/images/conservadora12Latas.jfif"
+  },
+  {
+    "id": "206",
+    "name": "Secador de pelo Gamma Mistral Tourmaline",
+    "listPrice": 37000,
+    "price": 0,
+    "category": "hogar",
+    "description": " Este secador es una herramienta potente de 2200W para un secado rápido, y el cuidado del cabello y reducción del frizz .",
+    "imageUrl": "/images/secadorPeloMistral.jfif"
+  },
+  {
+    "id": "207",
+    "name": "Secador de pelo Gamma Journey",
+    "listPrice": 28499,
+    "price": 0,
+    "category": "hogar",
+    "description": "Secador potente y portátil.Ideal tanto para uso doméstico como para viajes. Diseño plegable para facilitar su transporte . 👸🏼",
+    "imageUrl": "/images/secadorPeloGammaJourney.jfif"
+  },
+  {
+    "id": "208",
+    "name": "Amoladora Angular Omaha 750W",
+    "listPrice": 32000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "⚡ Motor potente de 750 W, ideal para cortes y desbastes con gran precisión.\n✋ Empuñadura lateral para mayor control y seguridad.\n🧰 Diseño ergonómico que brinda un agarre cómodo y firme.\n✅ Perfecta para uso intensivo y profesional.",
+    "imageUrl": "/images/amoladoraAngularOmaha.jfif"
+  },
+   {
+    "id": "209",
+    "name": "Cortadora de cesped Eléctrica",
+    "listPrice": 183700,
+    "price": 0,
+    "category": "herramientas",
+    "description": "La aliada perfecta para mantener tu jardín siempre prolijo.  3 posiciones de corte regulables, se adapta fácilmente a la altura de pasto que necesites.  ideal para uso hogareño permitiendo un trabajo cómodo y rápido. Además, es práctica de limpiar y guardar, garantizando practicidad y eficiencia en cada uso. 🔥🌿🌿",
+    "imageUrl": "/images/cortadoraCesped.jfif"
+  },
+   {
+    "id": "210",
+    "name": "Motosierra Gardenplus camuflada",
+    "listPrice": 89500,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Con una espada de gran tamaño y cadena de alto rendimiento, te permite cortar leña, ramas y árboles con rapidez y sin esfuerzo\nPotente, práctica y confiable\nHecha para quienes buscan fuerza y durabilidad en una sola máquina🔥🪵🌿🍃",
+    "imageUrl": "/images/motosierraGarden.jfif"
   }
+
 ]
