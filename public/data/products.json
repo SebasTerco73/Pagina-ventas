@@ -1533,7 +1533,7 @@
     "id": "172",
     "name": "Bicicleta VexRacer R29 - Cuadro Acero",
     "listPrice": 210000,
-    "price": 0,
+    "price": 240000,
     "category": "hogar",
     "description": "geometría cómoda y ágil | Llantas doble pared de aluminio 🛞 | Suspensión delantera que absorbe impactos ✨",
     "imageUrl": "/images/vexRacer.jfif"
@@ -1542,7 +1542,7 @@
     "id": "173",
     "name": "Bicicleta VexRacer R29 - Cuadro Aluminio",
     "listPrice": 230000,
-    "price": 0,
+    "price": 260000,
     "category": "hogar",
     "description": "geometría cómoda y ágil | Llantas doble pared de aluminio 🛞 | Suspensión delantera que absorbe impactos ✨",
     "imageUrl": "/images/vexRacer.jfif"
@@ -1551,7 +1551,7 @@
     "id": "174",
     "name": "Organizador Cuadrado 5 niveles",
     "listPrice": 58000,
-    "price": 0,
+    "price": 71000,
     "category": "cocina",
     "description": "Estructura metálica negra\n5 niveles amplios y ventilados\nIdeal para cocina, baño o lavadero\nGiratorio y flexible",
     "imageUrl": "/images/organizador5.jfif"
@@ -1560,7 +1560,7 @@
     "id": "175",
     "name": "Organizador Redondo 5 niveles",
     "listPrice": 58000,
-    "price": 0,
+    "price": 71000,
     "category": "cocina",
     "description": "Práctico, moderno y súper resistente 💪\nIdeal para mantener todo en orden con estilo\nEstructura de acero negro con canastos calados\n5 niveles amplios para guardar desde frutas y verduras🍎🥦 hasta artículos de limpieza o baño 🧴\nBase firme y diseño ventilado que evita la humedad,giratorio y flexible",
     "imageUrl": "/images/organizador5R.jfif"
@@ -1569,7 +1569,7 @@
     "id": "176",
     "name": "Organizador Cuadrado 4 niveles",
     "listPrice": 49000,
-    "price": 0,
+    "price": 62000,
     "category": "cocina",
     "description": "Elegante, firme y funcional 💪\n✔️ Canastos metálicos calados\n✔️ 4 niveles amplios y ventilados\n✔️ Ideal para cocina, baño o lavadero",
     "imageUrl": "/images/organizador4.jfif"
@@ -1578,7 +1578,7 @@
     "id": "177",
     "name": "Celular Samsung A16",
     "listPrice": 225000,
-    "price": 0,
+    "price": 240000,
     "category": "tecnologia",
     "description": "Memoria: 4 RAM\nMemoria interna : 128 GB\nCAPACIDAD DE LA BATERIA 5000 mAh ✓\nSISTEMA OPERATIVO ANDROID ✓\nSamsung diseño moderno con un rendimiento de alto nivel ✓",
     "imageUrl": "/images/samsungA16.jfif"
@@ -1587,7 +1587,7 @@
     "id": "178",
     "name": "Luz de emergencia 30 Led",
     "listPrice": 5800,
-    "price": 0,
+    "price": 15800,
     "category": "hogar",
     "description": "compacta, práctica y recargable🔌",
     "imageUrl": "/images/luzLed30.jfif"
@@ -1596,7 +1596,7 @@
     "id": "179",
     "name": "Luz de emergencia 60 Led",
     "listPrice": 10000,
-    "price": 0,
+    "price": 20000,
     "category": "hogar",
     "description": "! máxima potencia y duración !\nideal para el hogar, comercio o depósito\nBatería recargable de larga duración",
     "imageUrl": "/images/luzLed60.jfif"
@@ -1605,7 +1605,7 @@
     "id": "180",
     "name": "Ventilador StarVision 3 en 1",
     "listPrice": 36000,
-    "price": 0,
+    "price": 51000,
     "category": "hogar",
     "description": "⚙️ Aspas metálicas ultra resistentes💪\n🔁 3 funciones: pie, pared o mesa\n⬆️ Altura regulable + base reforzada\n🤫 Motor silencioso, gran caudal de aire",
     "imageUrl": "/images/ventiladorStarVision.jfif"
@@ -1614,7 +1614,7 @@
     "id": "181",
     "name": "Auricular Inalámbrico M20",
     "listPrice": 5800,
-    "price": 0,
+    "price": 15000,
     "category": "tecnologia",
     "description": "⚡️ Con pantalla digital HD\n🔊 Sonido potente\n🔋 Gran capacidad de carga y larga duración\n🎶 Tecnología ENC: reduce el ruido ambiental para llamadas más claras",
     "imageUrl": "/images/auricularM20.jfif"
@@ -1623,7 +1623,7 @@
     "id": "182",
     "name": "Desmalezadora Lusqtoff",
     "listPrice": 116800,
-    "price": 0,
+    "price": 131800,
     "category": "herramientas",
     "description": "Cuenta con un motor de 2 tiempos de 52cc y una potencia de 1.7 HP\nEs adecuada para desmalezar y mantener espacios verdes, siendo versátil y fácil de manipular.",
     "imageUrl": "/images/desmalezadoraLusq.jfif"
@@ -1632,7 +1632,7 @@
     "id": "59",
     "name": "Celular Motorola G05",
     "listPrice": 148900,
-    "price": 0,
+    "price": 168900,
     "category": "tecnologia",
     "description": "Memoria: 4 RAM\nCamara frontal: 8MPX\nCamara trasera: 50MPX\nIncluye lector de huellas",
     "imageUrl": "/images/motoG05.jfif"
@@ -1641,16 +1641,16 @@
     "id": "183",
     "name": "Celular Motorola G15",
     "listPrice": 189900,
-    "price": 0,
+    "price": 204000,
     "category": "tecnologia",
-    "description": "Memoria: 4 RAM\nCamara principal 50MP + frontal: 13MP\n5000 mAH con carga rapida\nIncluye funda y cargador original",
+    "description": "Memoria: 4 RAM\nMemoria interna: 256Gb\nCamara principal 50MP + frontal: 13MP\n5000 mAH con carga rapida\nIncluye funda y cargador original",
     "imageUrl": "/images/motoG15.jfif"
   },
   {
     "id": "184",
     "name": "Humificador de madera",
     "listPrice": 5800,
-    "price": 0,
+    "price": 16000,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/humificadorMadera.jfif"
@@ -1659,7 +1659,7 @@
     "id": "185",
     "name": "Secador de ropa",
     "listPrice": 29900,
-    "price": 0,
+    "price": 45000,
     "category": "hogar",
     "description": "Súper eficiente\nEste secador genera un flujo de aire caliente ♨️, que permite secar ropa de forma uniforme y rápida. Incluso en ambientes húmedos.\nSECADO: PRENDAS LIVIANAS EN 30 Min OTRAS EN 60 MIN Y PRENDAS GRUESAS EN UN POCO MAS\nValor en mercado libre entre 55.000 y 70.000✨",
     "imageUrl": "/images/secadorRopa.jfif"
@@ -1668,7 +1668,7 @@
     "id": "186",
     "name": "Ventilador Azana 18''",
     "listPrice": 31500,
-    "price": 0,
+    "price": 46500,
     "category": "hogar",
     "description": "Potente, silencioso y con aspas metálicas\n✔️ 2 velocidades\n✔️ 2 alturas regulables\n✔️ Base reforzada y 90W de potencia",
     "imageUrl": "/images/ventiladorAzana.jfif"
@@ -1677,7 +1677,7 @@
     "id": "187",
     "name": "Ventilador Liliana 18''",
     "listPrice": 55900,
-    "price": 0,
+    "price": 70900,
     "category": "hogar",
     "description": "🔥 MOD VP18P\n🔥 POTENCIA 75 W\n🔥 3 VELOCIDADES\n🔥 HASTA 1,70 M DE  ALTURA\n🔥 5 ASPAS PLÁSTICAS",
     "imageUrl": "/images/ventiladorLiliana18.jfif"
@@ -1686,7 +1686,7 @@
     "id": "188",
     "name": "Turboventilador Liliana 10''",
     "listPrice": 38900,
-    "price": 0,
+    "price": 52000,
     "category": "hogar",
     "description": "🔥 Potente y resistente, ideal para casa o trabajo\n✔️ 5 aspas metálicas\n✔️ 2 velocidades",
     "imageUrl": "/images/turboventiladorLiliana.jfif"
@@ -1695,7 +1695,7 @@
     "id": "189",
     "name": "Cepillo Voluminizador DFO",
     "listPrice": 10800,
-    "price": 0,
+    "price": 20800,
     "category": "hogar",
     "description": "💨 Seca y moldea al mismo tiempo, reduciendo el frizz y dejando el cabello suave y brillante.\nPerfecto para un look con volumen y acabado profesional en minutos",
     "imageUrl": "/images/cepilloVoluminizador.jfif"
@@ -1704,7 +1704,7 @@
     "id": "190",
     "name": "Rizador 3 pinzas Dinax",
     "listPrice": 13800,
-    "price": 0,
+    "price": 24000,
     "category": "hogar",
     "description": "🔥 Ideal para ondas marcadas y definidas en pocos minutos.\n🌡️ Calentamiento rápido\n💁‍♀️ Facilita el peinado y cuida el cabello\n✨ Acabado prolijo y duradero",
     "imageUrl": "/images/rizadorDinax.jfif"
@@ -1713,7 +1713,7 @@
     "id": "191",
     "name": "Ollas Lusqtoff",
     "listPrice": 98500,
-    "price": 0,
+    "price": 111500,
     "category": "cocina",
     "description": "9 PCS - Ideal para tu cocina\n✅ Incluye ollas, sartén, jarro y tapas de vidrio\n🔥 Antiadherente ecológico + aluminio resistente",
     "imageUrl": "/images/ollasLusqtoff.jfif"
@@ -1722,7 +1722,7 @@
     "id": "192",
     "name": "Celular Redmi A5",
     "listPrice": 139900,
-    "price": 0,
+    "price": 155000,
     "category": "tecnologia",
     "description": "Memoria RAM: 4GB\nMemoria Interna: 128GB\nEste modelo es ideal para quienes buscan un teléfono versátil que se adapte a sus necesidades cotidianas . Ya sea para trabajar, estudiar. etc.",
     "imageUrl": "/images/redmiA5.jfif"
@@ -1731,7 +1731,7 @@
     "id": "193",
     "name": "Pileta Moor 400L",
     "listPrice": 23900,
-    "price": 0,
+    "price": 34000,
     "category": "hogar",
     "description": "💧 Capacidad: 400 litros\n🪶 Material: PVC reforzado con estructura metálica\n⚙️ Fácil de armar y limpiar\n👨‍👩‍👧 Ideal para chicos y espacios reducidos\n📏 Medidas: 115 cm largo × 106 cm ancho × 33 cm alto",
     "imageUrl": "/images/piletaMoor400.jfif"
@@ -1749,7 +1749,7 @@
     "id": "195",
     "name": "Rizador de pelo cerámico Dinax",
     "listPrice": 12800,
-    "price": 0,
+    "price": 23000,
     "category": "hogar",
     "description": "🔥 Ideal para lograr ondas definidas y duraderas\n🌡️ Control inteligente de temperatura\n⚡ 45 W de potencia\nPerfecto para uso diario o profesional 💁‍♀️",
     "imageUrl": "/images/rizadorCeramicoDinax.jfif"
@@ -1758,7 +1758,7 @@
     "id": "196",
     "name": "Juego de sábanas Casa Tex",
     "listPrice": 25500,
-    "price": 0,
+    "price": 35500,
     "category": "hogar",
     "description": "2800 HILOS ULTRA SUAVE 🧵 \nTWIN BE085T- N CON BORDADO\n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191 + 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
     "imageUrl": "/images/juegoSabana.jfif"
@@ -1767,7 +1767,7 @@
     "id": "197",
     "name": "Juego de sábanas Casa Tex",
     "listPrice": 19900,
-    "price": 0,
+    "price": 30000,
     "category": "hogar",
     "description": "3 piezas - Tamaño TWIN - 1800 Hilos - Ultra suave - Diferentes colores y diseños - No destiñe\n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191+ 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
     "imageUrl": "/images/juegoSabana2.jfif"
@@ -1776,7 +1776,7 @@
     "id": "198",
     "name": "Organizador de ropa",
     "listPrice": 8300,
-    "price": 0,
+    "price":15000,
     "category": "hogar",
     "description": "🎁🥼🧥 Organizador práctico que ayuda a mantener tu habitación ordenada . Ideales para prendas pequeñas, como ropa interior, medias buzos etc",
     "imageUrl": "/images/organizadorRopa.jfif"
@@ -1785,7 +1785,7 @@
     "id": "199",
     "name": "Reposera fija de caño Moor Sanset",
     "listPrice": 22600,
-    "price": 0,
+    "price": 33000,
     "category": "hogar",
     "description": " Reposera fija plegable ✓\nResistentes y prácticas ✓\nSoporta hasta 120Kg aprox . ✓",
     "imageUrl": "/images/reposeraFijaMoor.jfif"
@@ -1794,43 +1794,43 @@
     "id": "200",
     "name": "Pileta Moor 1000L",
     "listPrice": 37500,
-    "price": 0,
+    "price": 50000,
     "category": "hogar",
     "description": "Estructura confeccionada en acero al carbono → firme y resistente - 🧼 Válvula de desagüe para vaciado rápido y práctico - Lona de PVC de alta calidad - Esquineros plásticos con protección UV → mayor durabilidad al☀️\nA:42cm\nAn:126cm\nP:189cm\n(No cuentan con garantía)",
     "imageUrl": "/images/piletaMoor1000.jfif"
   },
-   {
+  {
     "id": "201",
     "name": "Pileta Moor 2000L",
     "listPrice": 85400,
-    "price": 0,
+    "price": 102000,
     "category": "hogar",
     "description": "Lona triple capa - Acero al carbono - Esquineros UV 🌞 - Puntales antideslizantes - Válvula de desagüe🧼\nA:58cm\nAn:211cm\nP:164cm\n(No cuentan con garantia)",
     "imageUrl": "/images/piletaMoor1000.jfif"
   },
-    {
+  {
     "id": "202",
     "name": "Criquet Omaha Extra Chato",
     "listPrice": 104000,
-    "price": 0,
+    "price": 120000,
     "category": "herramientas",
     "description": "2.5 toneladas\nIdeal para vehículos grandes y bajos, con elevación rápida y segura\nCapacidad máx.: 2500 kg\n📏 Altura mín.: 8,5 cm | máx.: 35 cm\n🔧 Diseño extra chato + materiales reforzado",
     "imageUrl": "/images/criquetOmaha.jfif"
   },
-    {
+  {
     "id": "203",
     "name": "Llave de impacto Inalámbrica Gardenplus",
     "listPrice": 141600,
-    "price": 0,
+    "price": 161600,
     "category": "herramientas",
     "description": "⚡ Voltaje: 18 V\n🔩 Torque máximo: 300 N·m\n🔁 Velocidad: 2500 r/min\n🔋 Batería: 3 A — carga rápida en solo 1 h 30 min\n⚙️ Potente y práctica para aflojar o ajustar tornillos y tuercas con precisión\n🧰 Incluye maletín rígido, cargador y juego de bocas",
     "imageUrl": "/images/llaveImpacto.jfif"
   },
-   {
+  {
     "id": "204",
     "name": "Pileta Moor Redonda 4500L",
     "listPrice": 162000,
-    "price": 0,
+    "price": 187000,
     "category": "hogar",
     "description": "Estructura firme\nLona triple capa\nProtección UV 🌞\nVálvula de desagüe🧼\nDiametro:2.78m\nAlto:77cm\n(No cuentan con garantía)",
     "imageUrl": "/images/piletaMoor4500.jfif"
@@ -1839,7 +1839,7 @@
     "id": "205",
     "name": "Conservadora 12 Latas Chica",
     "listPrice": 17900,
-    "price": 0,
+    "price": 29000,
     "category": "cocina",
     "description": "🧊 Conservadora portátil para mantener tus bebidas frías durante varias horas, idea para camping, playa , viajes\n🧊 Correa cómoda para transportarla fácilmente, con gancho reforzado.\nIDEAL PARA LLEVARLA A TODAS PARTES ... .  🥤🍹🥂🍾",
     "imageUrl": "/images/conservadora12Latas.jfif"
@@ -1848,7 +1848,7 @@
     "id": "206",
     "name": "Secador de pelo Gamma Mistral Tourmaline",
     "listPrice": 37000,
-    "price": 0,
+    "price": 50000,
     "category": "hogar",
     "description": " Este secador es una herramienta potente de 2200W para un secado rápido, y el cuidado del cabello y reducción del frizz .",
     "imageUrl": "/images/secadorPeloMistral.jfif"
@@ -1857,7 +1857,7 @@
     "id": "207",
     "name": "Secador de pelo Gamma Journey",
     "listPrice": 28499,
-    "price": 0,
+    "price": 38500,
     "category": "hogar",
     "description": "Secador potente y portátil.Ideal tanto para uso doméstico como para viajes. Diseño plegable para facilitar su transporte . 👸🏼",
     "imageUrl": "/images/secadorPeloGammaJourney.jfif"
@@ -1866,28 +1866,27 @@
     "id": "208",
     "name": "Amoladora Angular Omaha 750W",
     "listPrice": 32000,
-    "price": 0,
+    "price":43000,
     "category": "herramientas",
     "description": "⚡ Motor potente de 750 W, ideal para cortes y desbastes con gran precisión.\n✋ Empuñadura lateral para mayor control y seguridad.\n🧰 Diseño ergonómico que brinda un agarre cómodo y firme.\n✅ Perfecta para uso intensivo y profesional.",
     "imageUrl": "/images/amoladoraAngularOmaha.jfif"
   },
-   {
+  {
     "id": "209",
     "name": "Cortadora de cesped Eléctrica",
     "listPrice": 183700,
-    "price": 0,
+    "price": 205000,
     "category": "herramientas",
     "description": "La aliada perfecta para mantener tu jardín siempre prolijo.  3 posiciones de corte regulables, se adapta fácilmente a la altura de pasto que necesites.  ideal para uso hogareño permitiendo un trabajo cómodo y rápido. Además, es práctica de limpiar y guardar, garantizando practicidad y eficiencia en cada uso. 🔥🌿🌿",
     "imageUrl": "/images/cortadoraCesped.jfif"
   },
-   {
+  {
     "id": "210",
     "name": "Motosierra Gardenplus camuflada",
     "listPrice": 89500,
-    "price": 0,
+    "price": 104500,
     "category": "herramientas",
     "description": "Con una espada de gran tamaño y cadena de alto rendimiento, te permite cortar leña, ramas y árboles con rapidez y sin esfuerzo\nPotente, práctica y confiable\nHecha para quienes buscan fuerza y durabilidad en una sola máquina🔥🪵🌿🍃",
     "imageUrl": "/images/motosierraGarden.jfif"
   }
-
 ]
