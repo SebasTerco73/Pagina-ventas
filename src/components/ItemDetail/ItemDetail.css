@@ -29,3 +29,20 @@
     padding: 10px;
   }
 }
+
+.download-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: 2px solid transparent; /* borde invisible por defecto */
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 8px;
+    transition: all 0.2s ease-in-out; /* animación suave */
+}
+
+.download-btn:hover {
+    background-color: #35a03a;
+    transform: scale(1.2);
+    border-color: white;
+}

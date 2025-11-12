@@ -19,6 +19,16 @@ export const ItemDetail = ({detail}) => {
             <button className="btn-volver" onClick={handleVolver}>
                     Volver
             </button>
+
+            {/* Botón para descargar */}
+                <a
+                    href={detail.imageUrl}
+                    download={detail.name || "imagen"}
+                    className="download-btn"
+                >
+                    Descargar imagen
+                </a>
+            
         </div>
     );
 };
