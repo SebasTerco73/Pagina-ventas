@@ -515,10 +515,10 @@
   {
     "id": "58",
     "name": "Gazebo Plegable",
-    "listPrice": 105900,
+    "listPrice": 96000,
     "price": 125000,
     "category": "hogar",
-    "description": "Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
+    "description": "Antes 105900 - Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
     "imageUrl": "/images/gazeboPlegable.jfif"
   },
   {
@@ -1888,5 +1888,32 @@
     "category": "herramientas",
     "description": "Con una espada de gran tamaño y cadena de alto rendimiento, te permite cortar leña, ramas y árboles con rapidez y sin esfuerzo\nPotente, práctica y confiable\nHecha para quienes buscan fuerza y durabilidad en una sola máquina🔥🪵🌿🍃",
     "imageUrl": "/images/motosierraGarden.jfif"
+  },
+  {
+    "id": "211",
+    "name": "Pileta Moor Redonda 5500L",
+    "listPrice": 176900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Estructura firme\nLona triple capa\nProtección UV 🌞\nVálvula de desagüe🧼\nDiametro:3.2mt\nAlto:77cm\n(No cuentan con garantía)",
+    "imageUrl": "/images/piletaMoor5500.jfif"
+  },
+  {
+    "id": "212",
+    "name": "Set de herramientas Lustoff 150 Piezas",
+    "listPrice": 299000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "SET RACING PROFESIONAL LUSTOFF 150 PIEZAS 🔥\n Set súper completo para uso diario, personal . Incluye 150 piezas las cuales te sirven para todo tipo de trabajo que desees hacer! Entre ellas, Tubos de impacto, llaves combinadas, destornilladores , alicates y mucho más ! ",
+    "imageUrl": "/images/setHerramientasLusq150.jfif"
+  },
+  {
+    "id": "213",
+    "name": "Set de herramientas a batería Lustoff",
+    "listPrice": 189900,
+    "price": 0,
+    "category": "herramientas",
+    "description": "1 Amoladora angular inalámbrica ATG18-7AM\n1 Taladro atornillador 🪛 inalámbrico ATG18- 7AT\n2 Batería de LITIO 18V  ATG18-7AB",
+    "imageUrl": "/images/setherramientasBateria.jfif"
   }
 ]
