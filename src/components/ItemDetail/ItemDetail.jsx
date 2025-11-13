@@ -12,7 +12,7 @@ export const ItemDetail = ({detail}) => {
         <div className="item-detail-container">
             <Item {...detail}>
                 <p>{detail.description}</p>
-                {/* <p>Precio de lista: ${detail.listPrice}</p> */}
+                <p>Precio de lista: ${detail.listPrice}</p>
             </Item>
 
             {/* Botón de volver */}
