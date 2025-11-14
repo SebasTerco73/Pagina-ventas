@@ -861,7 +861,7 @@
     "price": 27000,
     "category": "cocina",
     "description": "1.2 Litros Diseño MARMOLADO - Acero - Ideal para bebidas frías o calientes ! LLEVALO A TODAS PARTES",
-    "imageUrl": "/images/vasoQuencher2.jfif"
+    "imageUrl": "/images/vasoQuencher3.jfif"
   },
   {
     "id": "98",
@@ -1634,7 +1634,7 @@
     "listPrice": 148900,
     "price": 168900,
     "category": "tecnologia",
-    "description": "Memoria: 4 RAM\nCamara frontal: 8MPX\nCamara trasera: 50MPX\nIncluye lector de huellas",
+    "description": "Memoria: 4 RAM\nMemoria interna : 128GB\nCamara frontal: 8MPX\nCamara trasera: 50MPX\nIncluye lector de huellas",
     "imageUrl": "/images/motoG05.jfif"
   },
   {
@@ -1933,5 +1933,95 @@
     "category": "hogar",
     "description": " EXCELENTE Y HERMOSA CALIDAD .GRAN VARIEDAD DE DISEÑOS DE DISNEY  😍 ",
     "imageUrl": "/images/juegoSabanas4.jfif"
+  },
+  {
+    "id": "216",
+    "name": "Smart tv RCA 40''",
+    "listPrice": 289900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": " Android Tv\n🎬 Conectá, mirá y disfrutá todo desde un solo lugar\n✅ Full HD con gran calidad de imagen\n🎤 Comando de voz con Google Assistant\n📲 Chromecast integrado y acceso a Netflix, YouTube, Prime Video, Spotify",
+    "imageUrl": "/images/smartTvRCA40.jfif"
+  },
+  {
+    "id": "217",
+    "name": "Smart tv RCA 50''Full HD",
+    "listPrice": 439999,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Android TV\n🎬 Imagen nítida y colores reales\n⚡ Ideal para hogar o reventa\n🔊 Sonido potente y diseño moderno",
+    "imageUrl": "/images/smartTvRCA50.jfif"
+  },
+  {
+    "id": "218",
+    "name": "Contadora de billetes",
+    "listPrice": 68500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "💸 Conteo promedio: 1000 billetes/min\n🔴 Pantalla LCD que cambia a rojo si detecta billete falso\n🧮 Función de cálculo del valor total",
+    "imageUrl": "/images/contadoraBilletes.jfif"
+  },
+  {
+    "id": "219",
+    "name": "Contadora de billetes Dinax",
+    "listPrice": 80000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "🛡️ Configuración y detección de billetes falsos\n💵 Rápida y precisa\n🏦 Ideal para comercios y manejo de caja",
+    "imageUrl": "/images/contadoraBilletesDinax.jfif"
+  },
+   {
+    "id": "220",
+    "name": "Celular Infinix Smart 10",
+    "listPrice": 154900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Memoria: 4GB RAM\nMemoria interna: 128Gb\n smartphone diseñado para quienes buscan funcionalidad, estilo y economía en un solo dispositivo. Su pantalla de 6.6 pulgadas con tecnología IPS proporciona una experiencia visual amplia, ideal para ver videos, navegar en redes sociales y leer con comodidad.",
+    "imageUrl": "/images/infinixSmart.jfif"
+  },
+  {
+    "id": "221",
+    "name": "Licuadora Portatil USB",
+    "listPrice": 11000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Ideal para llevar al gimnasio o al trabajo gracias a su tamaño compacto. Es perfecta para quienes están siempre en movimiento y desean preparar una bebida rápida",
+    "imageUrl": "/images/licuadoraPortatil.jfif"
+  },
+  {
+    "id": "222",
+    "name": "Vaso Termico Coffee",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Con sensor de temperatura - 500 ML\nacero inoxidable\npermite conocer la temperatura de tu bebida\nbebidas frías o calientes por 12 hs",
+    "imageUrl": "/images/vasoTermicoCoffee.jfif"
+  },
+  {
+    "id": "223",
+    "name": "Peluche Tralalero",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "hogar",
+    "description": "El peluche más VIRAL.\n textura súper suave y prefectos para abrazar . Ideal para jugar o decorar !",
+    "imageUrl": "/images/pelucheTralalero.jfif"
+  },
+   {
+    "id": "224",
+    "name": "Peluche La Bubu Gigante con manta",
+    "listPrice": 24999,
+    "price": 0,
+    "category": "hogar",
+    "description": "68 cm de alto",
+    "imageUrl": "/images/pelucheLabubu.jfif"
+  },
+  {
+    "id": "225",
+    "name": "Aspiradora Dinax",
+    "listPrice": 52000,
+    "price": 0,
+    "category": "hogar",
+    "description": "🧹 Capacidad 20 litros\n⚡ Potencia 1400W\n🏠 Aspiradora tipo trineo",
+    "imageUrl": "/images/aspiradoraDinax.jfif"
   }
 ]
