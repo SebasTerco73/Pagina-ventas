@@ -6,7 +6,7 @@ export const ItemDetail = ({detail}) => {
     const navigate = useNavigate(); // hook para navegar
 
     const handleVolver = () => {
-        navigate(-1); // vuelve a la home
+        navigate(-1); // vuelve a la home 
     };
     return (
         <div className="item-detail-container">
