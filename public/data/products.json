@@ -2023,5 +2023,23 @@
     "category": "hogar",
     "description": "🧹 Capacidad 20 litros\n⚡ Potencia 1400W\n🏠 Aspiradora tipo trineo",
     "imageUrl": "/images/aspiradoraDinax.jfif"
+  },
+  {
+    "id": "226",
+    "name": "Secador de pelo DFO 750W",
+    "listPrice": 8900,
+    "price": 15000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/secadorPeloDFO750.jfif"
+  },
+   {
+    "id": "227",
+    "name": "Minipimer Luma Bella",
+    "listPrice": 17999,
+    "price": 28000,
+    "category": "cocina",
+    "description": "Práctica y potente para licuar, batir y preparar cremas o sopas al instante. Su diseño ergonómico y cuchillas de acero inoxidable aseguran un resultado rápido y homogéneo. ¡Imprescindible en tu cocina !",
+    "imageUrl": "/images/minipimer.jfif"
   }
 ]
