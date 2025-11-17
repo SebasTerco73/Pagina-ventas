@@ -2041,5 +2041,32 @@
     "category": "cocina",
     "description": "Práctica y potente para licuar, batir y preparar cremas o sopas al instante. Su diseño ergonómico y cuchillas de acero inoxidable aseguran un resultado rápido y homogéneo. ¡Imprescindible en tu cocina !",
     "imageUrl": "/images/minipimer.jfif"
+  },
+  {
+    "id": "228",
+    "name": "Auto de Juguete RC",
+    "listPrice": 25000,
+    "price": 35000,
+    "category": "juguetes",
+    "description": "Auto a control remoto con batería recargable - Velocidad máxima 15km/h - Control de hasta 50 metros - Luces LED - Ideal para niños mayores de 6 años",
+    "imageUrl": "/images/autoRC.jfif"
+  },
+  {
+    "id": "229",
+    "name": "Muñeca Interactiva",
+    "listPrice": 18000,
+    "price": 27000,
+    "category": "juguetes",
+    "description": "Muñeca con más de 20 frases - Ojos que se abren y cierran - Incluye accesorios - Vestido intercambiable - Recomendada para mayores de 3 años",
+    "imageUrl": "/images/muneca.jfif"
+  },
+  {
+    "id": "230",
+    "name": "Set de Bloques de Construcción",
+    "listPrice": 15000,
+    "price": 22000,
+    "category": "juguetes",
+    "description": "500 piezas de colores variados - Compatibles con otras marcas - Desarrolla creatividad y habilidades motoras - Incluye guía de construcción - Para mayores de 4 años",
+    "imageUrl": "/images/bloques.jfif"
   }
 ]

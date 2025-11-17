@@ -98,6 +98,15 @@ export const Nav = () => {
             Cocina
           </Link>
         </li>
+        <li>
+          <Link
+            to={"/category/juguetes"}
+            onClick={() => { handleLinkClick(); setNavActivo("/category/juguetes"); irAPrimeraPagina("juguetes"); }}
+            className={navActivo === "/category/juguetes" ? "activo" : ""}
+          >
+            Juguetes
+          </Link>
+        </li>
       </ul>
     </nav>
   );
