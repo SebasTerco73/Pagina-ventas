@@ -2041,5 +2041,248 @@
     "category": "cocina",
     "description": "Práctica y potente para licuar, batir y preparar cremas o sopas al instante. Su diseño ergonómico y cuchillas de acero inoxidable aseguran un resultado rápido y homogéneo. ¡Imprescindible en tu cocina !",
     "imageUrl": "/images/minipimer.jfif"
+  },
+  {
+    "id": "228",
+    "name": "Sillón inflable con apoya pies",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Cómodo, resistente y fácil de inflar\nIncluye apoya pies\nIdeal para living, dormitorio o balcones\nvariedad de colores",
+    "imageUrl": "/images/sillonInflable.jfif"
+  },
+  {
+    "id": "229",
+    "name": "Organizador zapatero 7 niveles",
+    "listPrice": 9900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Firme, alto y súper espacioso\nGran capacidad y estructura resistente\n¡ Ideal para ordenar todo !",
+    "imageUrl": "/images/rackZapatos7.jfif"
+  },
+  {
+    "id": "230",
+    "name": "Organizador zapatero 6 niveles con cajones",
+    "listPrice": 16900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Protege del polvo y mantiene todo ordenado\nGran capacidad y puertas abatibles súper prácticas\n¡ Ideal para tener tus zapatillas siempre listas",
+    "imageUrl": "/images/rackZapatos6.jfif"
+  },
+  {
+    "id": "231",
+    "name": "Organizador multifuncion 3 niveles",
+    "listPrice": 14300,
+    "price": 0,
+    "category": "hogar",
+    "description": "🧺Ideal para lavadero, baño o cocina\n3 niveles + canasto inferior\n💦 Tela resistente e impermeable\n🚀 Con ruedas giratorias: fácil de mover",
+    "imageUrl": "/images/rackZapatos3.jfif"
+  },
+  {
+    "id": "232",
+    "name": "Perchero doble para ropa",
+    "listPrice": 11300,
+    "price": 0,
+    "category": "hogar",
+    "description": "👗 Espacio para colgar ropa\n👟 Varios estantes para calzado y cajas\n👜 Laterales para carteras y accesorios\nLiviano, práctico y fácil de mover",
+    "imageUrl": "/images/percheroDobleRopa.jfif"
+  },
+  {
+    "id": "233",
+    "name": "Organizador de joyas",
+    "listPrice": 3000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Compacto, moderno y súper práctico para llevar tus accesorios\n✔️ Incluye espejo\n✔️ Múltiples compartimentos\n✔️ Material suave que evita rayones\n\n✨ Ideal para anillos, cadenas, aros y mini accesorios",
+    "imageUrl": "/images/organizadorJoyas.jfif"
+  },
+  {
+    "id": "234",
+    "name": "Organizador de zapatos 8 niveles",
+    "listPrice": 12300,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar_",
+    "imageUrl": "/images/rackZapatos8.jfif"
+  },
+  {
+    "id": "235",
+    "name": "Organizador de maquillaje redondo 360",
+    "listPrice": 11900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para brochas, cremas, perfumes y maquillaje\n✔️ Gira 360°\n✔️ Altura ajustable\n✔️ Gran capacidad y súper práctico",
+    "imageUrl": "/images/organizadorMaquillaje360.jfif"
+  },
+  {
+    "id": "236",
+    "name": "Set de baño de cerámica 3 piezas",
+    "listPrice": 10500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/setBaño.jfif"
+  },
+  {
+    "id": "237",
+    "name": "Kit para baño 6 piezas",
+    "listPrice": 21900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Elegante, moderno y súper práctico para renovar tu baño\nIncluye: jabón líquido, vaso, porta cepillos, jabonera, tacho y escobilla",
+    "imageUrl": "/images/setBaño6.jfif"
+  },
+  {
+    "id": "238",
+    "name": "Organizador de baño para ducha",
+    "listPrice": 20900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Organizá tu baño y ganá espacio al instante\n✔️ Diseño de esquina\n✔️ Súper resistente\n✔️ Ideal para shampoo, cremas, jabones y accesorios",
+    "imageUrl": "/images/organizadorBaño.jfif"
+  },
+  {
+    "id": "239",
+    "name": "Organizador de maquillaje 6 drawner",
+    "listPrice": 11800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Perfecto para labiales, brochas, sombras y accesorios\n✔️ 6 cajones + bandeja superior\n✔️ Acrílico transparente de alta resistencia\n✔️ Mantiene todo ordenado y a la vista",
+    "imageUrl": "/images/organizadorMaquillaje6.jfif"
+  },
+  {
+    "id": "240",
+    "name": "Organizador cosméticos giratorio",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Acrílico\nIdeal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",
+    "imageUrl": "/images/organizadorCosmeticosGiratorio.jfif" 
+  },
+  {
+    "id": "241",
+    "name": "Organizador para ropa y zapatos",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "hogar",
+    "description": "El mueble perfecto para entrada, dormitorio o vestidor\n✔️ Barra + ganchos para camperas, carteras, sombreros \n✔️ Estructura de caño reforzado\n🔥 Multiuso, resistente y súper práctico para cualquier hogar",
+    "imageUrl": "/images/organizadorRopaZapatos.jfif"
+  },
+  {
+    "id": "242",
+    "name": "Piedra depiladora",
+    "listPrice": 2000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Elimina vello de forma suave y deja la piel súper lisa\n✔️ Depilación indolora\n✔️ Exfolia mientras remueve\n✔️ Ideal para piernas, brazos y zonas sensibles\n✔️ Fácil de usar y lavar",  
+    "imageUrl": "/images/piedraDepiladora.jfif"
+  },
+  {
+    "id": "243",
+    "name": "Set de 6 cuchillos",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Súper filosos y resistentes\nMangos ergonómicos efecto madera\n🥩 Ideales para carne, verduras y uso diario",
+    "imageUrl": "/images/setCuchillos6.jfif"
+  },
+  {
+    "id": "244",
+    "name": "Set de 6 cuchillos mango madera",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Súper filosos y resistentes\nMangos ergonómicos efecto madera\n🥩 Ideales para carne, verduras y uso diario",
+    "imageUrl": "/images/setCuchillos6Madera.jfif"
+  },
+  {
+    "id": "245",
+    "name": "Cafetera Liliana Cofly 1.25L",
+    "listPrice": 26700,
+    "price": 0,
+    "category": "cocina",
+    "description": "Perfecta para tus mañanas: prepara café rápido, parejo y en cantidad\n✔️ 800W de potencia\n✔️ Mantiene la temperatura\n✔️ Filtro permanente (no necesitás repuestos)",
+    "imageUrl": "/images/cafeteraLilianaCofly.jfif"
+  },
+  {
+    "id": "246",
+    "name": "Organizador Cosméticos giratorio de acrílico",
+    "listPrice": 12900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",  
+    "imageUrl": "/images/organizadorCosmeticosGiratorioAcrilico.jfif"
+  },
+  {
+    "id": "247",
+    "name": "Mini nebulizador digital recargable",
+    "listPrice": 15800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Liviano, silencioso y súper eficiente\n✔️ Pantalla LCD\n✔️ 3 niveles de niebla\n✔️ Recargable\n✔️ Limpieza automática",
+    "imageUrl": "/images/miniNebulizadorDigitalRecargable.jfif"
+  },
+  {
+    "id": "248",
+    "name": "Perchero organizador de ropa",
+    "listPrice": 16500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/percheroOrganizadorRopa.jfif"
+  },
+  {
+    "id": "249",
+    "name": "Organizador de zapatos plegable COD584",
+    "listPrice": 46500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/organizadorZapatosPlegable.jfif"
+  },
+  {
+    "id": "250",
+    "name": "Rack de 6 pisos plegable",
+    "listPrice": 26800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/rack6PisosPlegable.jfif"
+  },
+  {
+    "id": "251",
+    "name": "Pileta familiar rectangular Bestway 2.62m",
+    "listPrice": 49900,
+    "price": 0,
+    "category": "hogar",
+    "description": "¡ Ideal para refrescarse en familia !\n✔️ Material resistente y seguro\n✔️ Inflable, práctica y fácil de armar\n✨ Perfecta para el patio o jardín",    
+    "imageUrl": "/images/piletaFamiliarRectangularBestway.jfif"
+  },
+  {
+    "id": "252",
+    "name": "Mesa para niño/a con proyector",
+    "listPrice": 17900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Un producto 💣💣 ..contiene accesorios para dibujar . ",
+    "imageUrl": "/images/mesaNinoProyector.jfif"
+  },
+  {
+    "id": "253",
+    "name": "Carpa infantil",
+    "listPrice": 16500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/carpaInfantil.jfif"
+  },
+  {
+    "id": "254",
+    "name": "Popit electrónico capibara",
+    "listPrice": 4800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/popitElectronicoCapibara.jfif"
   }
 ]
