@@ -1776,7 +1776,7 @@
     "id": "198",
     "name": "Organizador de ropa",
     "listPrice": 8300,
-    "price":15000,
+    "price": 15000,
     "category": "hogar",
     "description": "🎁🥼🧥 Organizador práctico que ayuda a mantener tu habitación ordenada . Ideales para prendas pequeñas, como ropa interior, medias buzos etc",
     "imageUrl": "/images/organizadorRopa.jfif"
@@ -1866,7 +1866,7 @@
     "id": "208",
     "name": "Amoladora Angular Omaha 750W",
     "listPrice": 32000,
-    "price":43000,
+    "price": 43000,
     "category": "herramientas",
     "description": "⚡ Motor potente de 750 W, ideal para cortes y desbastes con gran precisión.\n✋ Empuñadura lateral para mayor control y seguridad.\n🧰 Diseño ergonómico que brinda un agarre cómodo y firme.\n✅ Perfecta para uso intensivo y profesional.",
     "imageUrl": "/images/amoladoraAngularOmaha.jfif"
@@ -1970,7 +1970,7 @@
     "description": "🛡️ Configuración y detección de billetes falsos\n💵 Rápida y precisa\n🏦 Ideal para comercios y manejo de caja",
     "imageUrl": "/images/contadoraBilletesDinax.jfif"
   },
-   {
+  {
     "id": "220",
     "name": "Celular Infinix Smart 10",
     "listPrice": 154900,
@@ -2006,7 +2006,7 @@
     "description": "El peluche más VIRAL.\n textura súper suave y prefectos para abrazar . Ideal para jugar o decorar !",
     "imageUrl": "/images/pelucheTralalero.jfif"
   },
-   {
+  {
     "id": "224",
     "name": "Peluche La Bubu Gigante con manta",
     "listPrice": 24999,
@@ -2033,7 +2033,7 @@
     "description": "Sin detalle",
     "imageUrl": "/images/secadorPeloDFO750.jfif"
   },
-   {
+  {
     "id": "227",
     "name": "Minipimer Luma Bella",
     "listPrice": 17999,
@@ -2157,7 +2157,7 @@
     "price": 26000,
     "category": "hogar",
     "description": "Acrílico\nIdeal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",
-    "imageUrl": "/images/organizadorCosmeticosGiratorio.jfif" 
+    "imageUrl": "/images/organizadorCosmeticosGiratorio.jfif"
   },
   {
     "id": "241",
@@ -2174,7 +2174,7 @@
     "listPrice": 2000,
     "price": 0,
     "category": "hogar",
-    "description": "Elimina vello de forma suave y deja la piel súper lisa\n✔️ Depilación indolora\n✔️ Exfolia mientras remueve\n✔️ Ideal para piernas, brazos y zonas sensibles\n✔️ Fácil de usar y lavar",  
+    "description": "Elimina vello de forma suave y deja la piel súper lisa\n✔️ Depilación indolora\n✔️ Exfolia mientras remueve\n✔️ Ideal para piernas, brazos y zonas sensibles\n✔️ Fácil de usar y lavar",
     "imageUrl": "/images/piedraDepiladora.jfif"
   },
   {
@@ -2210,7 +2210,7 @@
     "listPrice": 12900,
     "price": 26000,
     "category": "hogar",
-    "description": "Ideal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",  
+    "description": "Ideal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",
     "imageUrl": "/images/organizadorCosmeticosGiratorioAcrilico.jfif"
   },
   {
@@ -2228,7 +2228,7 @@
     "listPrice": 16500,
     "price": 31500,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/percheroOrganizadorRopa.jfif"
   },
   {
@@ -2237,7 +2237,7 @@
     "listPrice": 46500,
     "price": 61500,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/organizadorZapatosPlegable.jfif"
   },
   {
@@ -2255,7 +2255,7 @@
     "listPrice": 49900,
     "price": 63000,
     "category": "hogar",
-    "description": "¡ Ideal para refrescarse en familia !\n✔️ Material resistente y seguro\n✔️ Inflable, práctica y fácil de armar\n✨ Perfecta para el patio o jardín",    
+    "description": "¡ Ideal para refrescarse en familia !\n✔️ Material resistente y seguro\n✔️ Inflable, práctica y fácil de armar\n✨ Perfecta para el patio o jardín",
     "imageUrl": "/images/piletaFamiliarRectangularBestway.jfif"
   },
   {
@@ -2284,5 +2284,95 @@
     "category": "infantil",
     "description": "Sin detalle",
     "imageUrl": "/images/popitElectronicoCapibara.jfif"
+  },
+  {
+    "id": "255",
+    "name": "Parlante Flip 6",
+    "listPrice": 14500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "✔️ 12 horas de reproducción\n✔️ Resistente al agua IPX7 – ideal para pileta, playa o ducha\n✔️ Bluetooth / Wireless\n✔️ Connect+ para vincular varios parlantes\n✔️ Manos libres con micrófono incorporado",
+    "imageUrl": "/images/parlanteFlip6.jfif"
+  },
+  {
+    "id": "256",
+    "name": "Set toalla+toallon Danubio",
+    "listPrice": 9700,
+    "price": 15000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/setToallas.jfif"
+  },
+  {
+    "id": "257",
+    "name": "Set toalla+toallon Franco Valente",
+    "listPrice": 15000,
+    "price": 25500,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/setToallasFV.jfif"
+  },
+  {
+    "id": "258",
+    "name": "Juego de sabanas Queen Size Campomayo",
+    "listPrice": 19400,
+    "price": 29400,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/sabanasCampomayo.jfif"
+  },
+  {
+    "id": "259",
+    "name": "Repasadores guarda francesa wossen",
+    "listPrice": 1500,
+    "price": 2500,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/repasadoresWossen.jfif"
+  },
+  {
+    "id": "260",
+    "name": "Repasadores Fantasia",
+    "listPrice": 2200,
+    "price": 3400,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/repasadoresFantasia.jfif"
+  },
+  {
+    "id": "261",
+    "name": "Set toalla + toallon Fantasía y prata",
+    "listPrice": 9490,
+    "price": 14000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/setToallasFantasia.jfif"
+  },
+  {
+    "id": "262",
+    "name": "Soquetes",
+    "listPrice": 840,
+    "price": 1700,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/soquetes.jfif"
+  },
+  {
+    "id": "263",
+    "name": "Pilusos",
+    "listPrice": 0,
+    "price": 5000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/pilusos.jfif"
+  },
+  {
+    "id": "264",
+    "name": "Hebillas",
+    "listPrice": 450,
+    "price": 1500,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/hebillas.jfif"
   }
 ]
