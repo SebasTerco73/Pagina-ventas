@@ -1956,7 +1956,7 @@
     "id": "218",
     "name": "Contadora de billetes",
     "listPrice": 68500,
-    "price": 0,
+    "price": 83500,
     "category": "tecnologia",
     "description": "💸 Conteo promedio: 1000 billetes/min\n🔴 Pantalla LCD que cambia a rojo si detecta billete falso\n🧮 Función de cálculo del valor total",
     "imageUrl": "/images/contadoraBilletes.jfif"
@@ -1965,7 +1965,7 @@
     "id": "219",
     "name": "Contadora de billetes Dinax",
     "listPrice": 80000,
-    "price": 0,
+    "price": 95000,
     "category": "tecnologia",
     "description": "🛡️ Configuración y detección de billetes falsos\n💵 Rápida y precisa\n🏦 Ideal para comercios y manejo de caja",
     "imageUrl": "/images/contadoraBilletesDinax.jfif"
@@ -1983,7 +1983,7 @@
     "id": "221",
     "name": "Licuadora Portatil USB",
     "listPrice": 11000,
-    "price": 0,
+    "price": 22000,
     "category": "cocina",
     "description": "Ideal para llevar al gimnasio o al trabajo gracias a su tamaño compacto. Es perfecta para quienes están siempre en movimiento y desean preparar una bebida rápida",
     "imageUrl": "/images/licuadoraPortatil.jfif"
@@ -1992,7 +1992,7 @@
     "id": "222",
     "name": "Vaso Termico Coffee",
     "listPrice": 9800,
-    "price": 0,
+    "price": 20000,
     "category": "hogar",
     "description": "Con sensor de temperatura - 500 ML\nacero inoxidable\npermite conocer la temperatura de tu bebida\nbebidas frías o calientes por 12 hs",
     "imageUrl": "/images/vasoTermicoCoffee.jfif"
@@ -2001,7 +2001,7 @@
     "id": "223",
     "name": "Peluche Tralalero",
     "listPrice": 12900,
-    "price": 0,
+    "price": 23000,
     "category": "infantil",
     "description": "El peluche más VIRAL.\n textura súper suave y prefectos para abrazar . Ideal para jugar o decorar !",
     "imageUrl": "/images/pelucheTralalero.jfif"
@@ -2010,7 +2010,7 @@
     "id": "224",
     "name": "Peluche La Bubu Gigante con manta",
     "listPrice": 24999,
-    "price": 0,
+    "price": 36000,
     "category": "infantil",
     "description": "68 cm de alto",
     "imageUrl": "/images/pelucheLabubu.jfif"
@@ -2019,7 +2019,7 @@
     "id": "225",
     "name": "Aspiradora Dinax",
     "listPrice": 52000,
-    "price": 0,
+    "price": 65000,
     "category": "hogar",
     "description": "🧹 Capacidad 20 litros\n⚡ Potencia 1400W\n🏠 Aspiradora tipo trineo",
     "imageUrl": "/images/aspiradoraDinax.jfif"
@@ -2046,7 +2046,7 @@
     "id": "228",
     "name": "Sillón inflable con apoya pies",
     "listPrice": 19900,
-    "price": 0,
+    "price": 33900,
     "category": "hogar",
     "description": "Cómodo, resistente y fácil de inflar\nIncluye apoya pies\nIdeal para living, dormitorio o balcones\nvariedad de colores",
     "imageUrl": "/images/sillonInflable.jfif"
@@ -2055,7 +2055,7 @@
     "id": "229",
     "name": "Organizador zapatero 7 niveles",
     "listPrice": 9900,
-    "price": 0,
+    "price": 25000,
     "category": "hogar",
     "description": "Firme, alto y súper espacioso\nGran capacidad y estructura resistente\n¡ Ideal para ordenar todo !",
     "imageUrl": "/images/rackZapatos7.jfif"
@@ -2064,7 +2064,7 @@
     "id": "230",
     "name": "Organizador zapatero 6 niveles con cajones",
     "listPrice": 16900,
-    "price": 0,
+    "price": 31000,
     "category": "hogar",
     "description": "Protege del polvo y mantiene todo ordenado\nGran capacidad y puertas abatibles súper prácticas\n¡ Ideal para tener tus zapatillas siempre listas",
     "imageUrl": "/images/rackZapatos6.jfif"
@@ -2073,7 +2073,7 @@
     "id": "231",
     "name": "Organizador multifuncion 3 niveles",
     "listPrice": 14300,
-    "price": 0,
+    "price": 29500,
     "category": "hogar",
     "description": "🧺Ideal para lavadero, baño o cocina\n3 niveles + canasto inferior\n💦 Tela resistente e impermeable\n🚀 Con ruedas giratorias: fácil de mover",
     "imageUrl": "/images/rackZapatos3.jfif"
@@ -2082,7 +2082,7 @@
     "id": "232",
     "name": "Perchero doble para ropa",
     "listPrice": 11300,
-    "price": 0,
+    "price": 27000,
     "category": "hogar",
     "description": "👗 Espacio para colgar ropa\n👟 Varios estantes para calzado y cajas\n👜 Laterales para carteras y accesorios\nLiviano, práctico y fácil de mover",
     "imageUrl": "/images/percheroDobleRopa.jfif"
@@ -2091,7 +2091,7 @@
     "id": "233",
     "name": "Organizador de joyas",
     "listPrice": 3000,
-    "price": 0,
+    "price": 8000,
     "category": "hogar",
     "description": "Compacto, moderno y súper práctico para llevar tus accesorios\n✔️ Incluye espejo\n✔️ Múltiples compartimentos\n✔️ Material suave que evita rayones\n\n✨ Ideal para anillos, cadenas, aros y mini accesorios",
     "imageUrl": "/images/organizadorJoyas.jfif"
@@ -2100,7 +2100,7 @@
     "id": "234",
     "name": "Organizador de zapatos 8 niveles",
     "listPrice": 12300,
-    "price": 0,
+    "price": 27300,
     "category": "hogar",
     "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar_",
     "imageUrl": "/images/rackZapatos8.jfif"
@@ -2109,7 +2109,7 @@
     "id": "235",
     "name": "Organizador de maquillaje redondo 360",
     "listPrice": 11900,
-    "price": 0,
+    "price": 26000,
     "category": "hogar",
     "description": "Ideal para brochas, cremas, perfumes y maquillaje\n✔️ Gira 360°\n✔️ Altura ajustable\n✔️ Gran capacidad y súper práctico",
     "imageUrl": "/images/organizadorMaquillaje360.jfif"
@@ -2118,7 +2118,7 @@
     "id": "236",
     "name": "Set de baño de cerámica 3 piezas",
     "listPrice": 10500,
-    "price": 0,
+    "price": 21000,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/setBaño.jfif"
@@ -2136,7 +2136,7 @@
     "id": "238",
     "name": "Organizador de baño para ducha",
     "listPrice": 20900,
-    "price": 0,
+    "price": 34900,
     "category": "hogar",
     "description": "Organizá tu baño y ganá espacio al instante\n✔️ Diseño de esquina\n✔️ Súper resistente\n✔️ Ideal para shampoo, cremas, jabones y accesorios",
     "imageUrl": "/images/organizadorBaño.jfif"
@@ -2154,7 +2154,7 @@
     "id": "240",
     "name": "Organizador cosméticos giratorio",
     "listPrice": 12900,
-    "price": 0,
+    "price": 26000,
     "category": "hogar",
     "description": "Acrílico\nIdeal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",
     "imageUrl": "/images/organizadorCosmeticosGiratorio.jfif" 
@@ -2163,7 +2163,7 @@
     "id": "241",
     "name": "Organizador para ropa y zapatos",
     "listPrice": 12900,
-    "price": 0,
+    "price": 27900,
     "category": "hogar",
     "description": "El mueble perfecto para entrada, dormitorio o vestidor\n✔️ Barra + ganchos para camperas, carteras, sombreros \n✔️ Estructura de caño reforzado\n🔥 Multiuso, resistente y súper práctico para cualquier hogar",
     "imageUrl": "/images/organizadorRopaZapatos.jfif"
@@ -2208,7 +2208,7 @@
     "id": "246",
     "name": "Organizador Cosméticos giratorio de acrílico",
     "listPrice": 12900,
-    "price": 0,
+    "price": 26000,
     "category": "hogar",
     "description": "Ideal para maquillaje, perfumes y cremas\n✔️ Gira 360°\n✔️ Gran capacidad\n✔️ Compartimientos ajustables",  
     "imageUrl": "/images/organizadorCosmeticosGiratorioAcrilico.jfif"
@@ -2226,7 +2226,7 @@
     "id": "248",
     "name": "Perchero organizador de ropa",
     "listPrice": 16500,
-    "price": 0,
+    "price": 31500,
     "category": "hogar",
     "description": "Sin detalle",  
     "imageUrl": "/images/percheroOrganizadorRopa.jfif"
@@ -2235,7 +2235,7 @@
     "id": "249",
     "name": "Organizador de zapatos plegable COD584",
     "listPrice": 46500,
-    "price": 0,
+    "price": 61500,
     "category": "hogar",
     "description": "Sin detalle",  
     "imageUrl": "/images/organizadorZapatosPlegable.jfif"
@@ -2244,7 +2244,7 @@
     "id": "250",
     "name": "Rack de 6 pisos plegable",
     "listPrice": 26800,
-    "price": 0,
+    "price": 41800,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/rack6PisosPlegable.jfif"
@@ -2253,7 +2253,7 @@
     "id": "251",
     "name": "Pileta familiar rectangular Bestway 2.62m",
     "listPrice": 49900,
-    "price": 0,
+    "price": 63000,
     "category": "hogar",
     "description": "¡ Ideal para refrescarse en familia !\n✔️ Material resistente y seguro\n✔️ Inflable, práctica y fácil de armar\n✨ Perfecta para el patio o jardín",    
     "imageUrl": "/images/piletaFamiliarRectangularBestway.jfif"
@@ -2271,7 +2271,7 @@
     "id": "253",
     "name": "Carpa infantil",
     "listPrice": 16500,
-    "price": 0,
+    "price": 30500,
     "category": "infantil",
     "description": "Sin detalle",
     "imageUrl": "/images/carpaInfantil.jfif"
