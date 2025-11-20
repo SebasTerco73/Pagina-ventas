@@ -2374,5 +2374,50 @@
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/hebillas.jfif"
+  },
+  {
+    "id": "265",
+    "name": "Organizador de zapatos 5 niveles",
+    "listPrice": 12300,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar",    
+    "imageUrl": "/images/organizadorZapatos5.jfif"
+  },
+  {
+    "id": "266",
+    "name": "Pileta redonda BestWay My first pool",
+    "listPrice": 36800,
+    "price": 0,
+    "category": "hogar",
+    "description": "La primera pileta ideal para los peques\n✔️ Súper resistente\n✔️ Rápida de inflar y fácil de guardar",
+    "imageUrl": "/images/myFirstPool.jfif"
+  },
+  {
+    "id": "267",
+    "name": "Minipimer 4 en 1 multifuncion",
+    "listPrice": 32000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Incluye vaso medidor, picadora y batidor\n✔️ 340W de potencia\n✔️ Cuchilla de acero 4 hojas\n✔️ Súper práctica para salsas, licuados y picados",  
+    "imageUrl": "/images/minipimer4en1.jfif"
+  },
+  {
+    "id": "268",
+    "name": "Humificador USB con proyector",
+    "listPrice": 8400,
+    "price": 0,
+    "category": "hogar",
+    "description": "Creá un ambiente mágico y relajante\n✔️ Proyector de cielo estrellado\n✔️ Luz nocturna suave\n✔️ Humidificador giratorio",  
+    "imageUrl": "/images/humificadorUSB.jfif"
+  },
+  {
+    "id": "269",
+    "name": "Perchero organizador de ropa",
+    "listPrice": 16500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Medidas: 150cm alto x 140cm ancho",  
+    "imageUrl": "/images/percheroOrganizador.jfif"
   }
 ]
