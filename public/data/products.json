@@ -2419,5 +2419,41 @@
     "category": "hogar",
     "description": "Medidas: 150cm alto x 140cm ancho",  
     "imageUrl": "/images/percheroOrganizador.jfif"
+  },
+  {
+    "id": "270",
+    "name": "Licuadora Oryx de vidrio 1.5L",
+    "listPrice": 34800,
+    "price": 0,
+    "category": "cocina",
+    "description": "⚡ Capacidad 1.5L\n⚡ Vaso de vidrio + vaso triturador\n⚡ 2 velocidades + función Pulso (P)\n⚡ Colores: blanco y negro",  
+    "imageUrl": "/images/licuadoraOryx.jfif"
+  },
+  {
+    "id": "271",
+    "name": "Velador con lapicero Capibara",
+    "listPrice": 6900,
+    "price": 0,
+    "category": "infantil",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/veladorCapibara.jfif"
+  },
+  {
+    "id": "272",
+    "name": "Botella termica sport 750CC",
+    "listPrice": 8900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",  
+    "imageUrl": "/images/botellaTermicaSport750CC.jfif"
+  },
+  {
+    "id": "273",
+    "name": "Boella sport con gancho 750cc",
+    "listPrice": 7500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Liviana, resistente y fácil de limpiar\nIdeal para bebidas frías o calientes. Diseño moderno y duradero",  
+    "imageUrl": "/images/botellaConGancho.jfif"
   }
 ]
