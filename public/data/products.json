@@ -2455,5 +2455,68 @@
     "category": "hogar",
     "description": "Liviana, resistente y fácil de limpiar\nIdeal para bebidas frías o calientes. Diseño moderno y duradero",  
     "imageUrl": "/images/botellaConGancho.jfif"
+  },
+  {
+    "id": "274",
+    "name": "Bordeadora Axel",
+    "listPrice": 38900,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Una herramienta esencial para mantener jardines y espacios verdes .son prácticas para detalles de limpieza precisa del césped .",  
+    "imageUrl": "/images/bordeadoraAxel.jfif"
+  },
+  {
+    "id": "275",
+    "name": "Auto a bateria Lusqtoff UTV/T Terreno",
+    "listPrice": 98900,
+    "price": 0,
+    "category": "infantil",
+    "description": "🔥 Luces LED + música integrada\n🔥 Barra de empuje removible\n🔥 Ruedas todoterreno bien firmes\n🔥 Reposabrazos y apoyapies\n🔥 Resistencia hasta 30 kg",  
+    "imageUrl": "/images/autoBateriaLusqtoff.jfif"
+  },
+  {
+    "id": "276",
+    "name": "Auto a bateria Lusqtoff Jeep",
+    "listPrice": 200000,
+    "price": 0,
+    "category": "infantil",
+    "description": "Doble tracción + control remoto\nLuces, música, MP3/USB_\nSuspensión en las 4 ruedas\nHasta 30 kg – Desde 3 años",  
+    "imageUrl": "/images/autoBateriaLusqtoffJeep.jfif"
+  },
+  {
+    "id": "277",
+    "name": "Auto a bateria Lusqtoff Jeep Todo terreno",
+    "listPrice": 298900,
+    "price": 0,
+    "category": "infantil",
+    "description": "Control remoto\n* Puertas funcionales\n* Luces LED\n* Asiento doble\n* Hasta 30 kg – +3 años",  
+    "imageUrl": "/images/autoBateriaLusqtoffJeepTodoTerreno.jfif"
+  },
+  {
+    "id": "278",
+    "name": "Bicicleta Ghepard R29",
+    "listPrice": 215000,
+    "price": 0,
+    "category": "hogar",
+    "description": "⚡ Cuadro de acero reforzado\n⚡ Rodado 29 para más control y estabilidad\n⚡ Frenos a disco\ncolores disponibles: roja y negra, blanca y negra, azul y negra",     
+    "imageUrl": "/images/bicicletaGhepard.jfif"
+  },
+  {
+    "id": "279",
+    "name": "Turboventilador Liliana 20''",
+    "listPrice": 53800,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 AIRE POTENTE PARA TODO EL DÍA\n20”, 5 aspas, 3 velocidades, parrilla metálica\nUsalo en piso o pared",
+    "imageUrl": "/images/turboventiladorLiliana20.jfif"
+  },
+  {
+    "id": "280",
+    "name": "Ventilador Industrial Hamers Kacemaster 30''",
+    "listPrice": 108700,
+    "price": 0,
+    "category": "hogar",
+    "description": "_Función 2 en 1- PIE /PARED \n220V~50Hz 180W_ .",
+    "imageUrl": "/images/ventiladorIndustrialHamersKacemaster30.jfif"
   }
 ]
