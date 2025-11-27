@@ -370,8 +370,8 @@
   },
   {
     "id": "42",
-    "name": "Horno Microondas",
-    "listPrice": 142900,
+    "name": "Horno Microondas Whirlpool",
+    "listPrice": 144900,
     "price": 160000,
     "category": "cocina",
     "description": "Whirlpool - 20 L - Acero Inoxidable - Moderno y eficiente  que ofrece múltiples funciones como coccion, descongelado, entre otros. Adaptándose a distintas necesidades de cocina",
@@ -2518,5 +2518,104 @@
     "category": "hogar",
     "description": "_Función 2 en 1- PIE /PARED \n220V~50Hz 180W_ .",
     "imageUrl": "/images/ventiladorIndustrialHamersKacemaster30.jfif"
+  },
+  {
+    "id": "281",
+    "name": "SET DE BAÑO DE CERÁMICA 3 PCS",
+    "listPrice": 10500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/setDeBanoCeramica3Pcs.jfif"
+  },
+  {
+    "id": "282",
+    "name": "Set de baño 6 piezas",
+    "listPrice": 21900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Elegante, moderno y súper práctico para renovar tu baño\nIncluye: jabón líquido, vaso, porta cepillos, jabonera, tacho y escobilla",  
+    "imageUrl": "/images/setDeBano6Piezas.jfif"
+  },
+  {
+    "id": "283",
+    "name": "Cubrecama reversible Piñata",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/cubrecamaReversiblePinata.jfif"
+  },
+  {
+    "id": "284",
+    "name": "Juego de sabanas Piñata",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/juegoDeSabanasPinata.jfif"
+  },
+  {
+    "id": "285",
+    "name": "Juego de sabanas Piñata trendy",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/juegoDeSabanasPinataTrendy.jfif"
+  },
+  {
+    "id": "286",
+    "name": "VENTILADOR DE TECHO RETRÁCTIL AZANA",
+    "listPrice": 77000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Con luz LED + control remoto\n✔️ Aspas retráctiles transparentes\n✔️ 6 velocidades\n✔️ Luz LED con colores regulables\n✔️ Temporizador 1 a 8 hs",  
+    "imageUrl": "/images/ventiladorDeTechoRetractilAzana.jfif"
+  },
+  {
+    "id": "287",
+    "name": "DESPENSER DE JABÓN LÍQUIDO",
+    "listPrice": 9500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Material cerámico, ideal para tu baño ! ",  
+    "imageUrl": "/images/despenserDeJabonLiquido.jfif"
+  },
+  {
+    "id": "288",
+    "name": "SET DE HERRAMIENTAS 9 PCS",
+    "listPrice": 12800,
+    "price": 0,
+    "category": "herramientas",
+    "description": "deal para el hogar y trabajos diarios. Incluye martillo, pinza, cutter, cinta métrica, destornilladores y más\n⚡ Compacto, resistente y súper práctico",  
+    "imageUrl": "/images/setHerramientas9Pcs.jfif"
+  },
+  {
+    "id": "289",
+    "name": "Toallon arcoiris nautico",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "150x80cm",  
+    "imageUrl": "/images/toallonArcoirisNautico.jfif"
+  },
+  {
+    "id": "290",
+    "name": "Conservadora HELAFRIO 34 litros",
+    "listPrice": 13800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Súper reforzada, liviana y térmica. Ideal para playa, río, trabajo o viajes\n¡ Mantiene tus bebidas bien frías por horas ! 🧊🧃",  
+    "imageUrl": "/images/conservadoraHelafrio34Litros.jfif"
+  },
+  {
+    "id": "291",
+    "name": "Pileta Moor 1500L",
+    "listPrice": 48000,
+    "price": 0,
+    "category": "hogar",
+    "description": "¡ El verano se disfruta mejor con más espacio para refrescarte ! 🌞\n💧 Capacidad: 1.500 litros\n🪶 Material PVC reforzado con estructura metálica\n⚙️ Fácil de armar, resistente y práctica\n👨‍👩‍👧‍👦 Ideal para toda la familia\n📏 Medidas: 1,89m largo × 1,89m ancho × 42 cm alto",  
+    "imageUrl": "/images/piletaMoor1500L.jfif"
   }
 ]
