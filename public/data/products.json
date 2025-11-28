@@ -2662,5 +2662,14 @@
     "category": "cocina",
     "description": "Sin detalle",  
     "imageUrl": "/images/balanzaDeCocina.jfif"
+  },
+  {
+    "id": "297",
+    "name": "Plancha Liliana",
+    "listPrice": 30000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Plancha seca ALIZZA",  
+    "imageUrl": "/images/planchaLiliana.jfif"
   }
 ]
