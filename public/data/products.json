@@ -2617,5 +2617,50 @@
     "category": "hogar",
     "description": "¡ El verano se disfruta mejor con más espacio para refrescarte ! 🌞\n💧 Capacidad: 1.500 litros\n🪶 Material PVC reforzado con estructura metálica\n⚙️ Fácil de armar, resistente y práctica\n👨‍👩‍👧‍👦 Ideal para toda la familia\n📏 Medidas: 1,89m largo × 1,89m ancho × 42 cm alto",  
     "imageUrl": "/images/piletaMoor1500L.jfif"
+  },
+  {
+    "id": "292",
+    "name": "Repasadores Arcoiris Premium Pack 2 Unidades",
+    "listPrice": 7490,
+    "price": 0,
+    "category": "hogar",
+    "description": "Repasadores ARCOIRIS calidad premium\nSúper absorbentes, resistentes y con excelente terminación 👌\nIdeales para reventa por su presentación y calidad superior.",  
+    "imageUrl": "/images/repasadoresArcoirisPremiumPack2Unidades.jfif"
+  },
+  {
+    "id": "293",
+    "name": "TV BOX con Magis incluido",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "⚡ Listo para usar\n🌈 Excelente calidad de imagen\n🎬 Ideal para disfrutar tus series y pelis favoritas",  
+    "imageUrl": "/images/tvBoxConMagisIncluido.jfif"
+  },
+  {
+    "id": "294",
+    "name": "Consola Game Box RS5 – 4K / 2.4G Wireless",
+    "listPrice": 56500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "La mejor opción para horas de diversión 🎉\n✔️ Resolución 4K\n✔️ 2 joysticks inalámbricos 2.4G\n✔️ Miles de juegos clásicos incluidos\n✔️ Súper fácil de instalar y usar",  
+    "imageUrl": "/images/consolaGameBoxRS5.jfif"
+  },
+  {
+    "id": "295",
+    "name": "Cámara de seguridad IP WiFi 1080P",
+    "listPrice": 22500,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Protegé tu hogar u oficina con esta cámara de seguridad inteligente\n✔️ Resolución Full HD 1080P\n✔️ Visión nocturna infrarroja\n✔️ Detección de movimiento y alertas en tiempo real\n✔️ Audio bidireccional para comunicación remota",  
+    "imageUrl": "/images/camaraDeSeguridadIPWiFi1080P.jfif"
+  },
+  {
+    "id": "296",
+    "name": "Balanza de cocina",
+    "listPrice": 4000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/balanzaDeCocina.jfif"
   }
 ]
