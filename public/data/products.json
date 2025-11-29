@@ -2127,7 +2127,7 @@
     "id": "237",
     "name": "Kit para baño 6 piezas",
     "listPrice": 21900,
-    "price": 0,
+    "price": 33000,
     "category": "hogar",
     "description": "Elegante, moderno y súper práctico para renovar tu baño\nIncluye: jabón líquido, vaso, porta cepillos, jabonera, tacho y escobilla",
     "imageUrl": "/images/setBaño6.jfif"
@@ -2145,7 +2145,7 @@
     "id": "239",
     "name": "Organizador de maquillaje 6 drawner",
     "listPrice": 11800,
-    "price": 0,
+    "price": 25800,
     "category": "hogar",
     "description": "Perfecto para labiales, brochas, sombras y accesorios\n✔️ 6 cajones + bandeja superior\n✔️ Acrílico transparente de alta resistencia\n✔️ Mantiene todo ordenado y a la vista",
     "imageUrl": "/images/organizadorMaquillaje6.jfif"
@@ -2172,7 +2172,7 @@
     "id": "242",
     "name": "Piedra depiladora",
     "listPrice": 2000,
-    "price": 0,
+    "price": 6000,
     "category": "hogar",
     "description": "Elimina vello de forma suave y deja la piel súper lisa\n✔️ Depilación indolora\n✔️ Exfolia mientras remueve\n✔️ Ideal para piernas, brazos y zonas sensibles\n✔️ Fácil de usar y lavar",
     "imageUrl": "/images/piedraDepiladora.jfif"
@@ -2181,7 +2181,7 @@
     "id": "243",
     "name": "Set de 6 cuchillos",
     "listPrice": 12900,
-    "price": 0,
+    "price": 28000,
     "category": "cocina",
     "description": "Súper filosos y resistentes\nMangos ergonómicos efecto madera\n🥩 Ideales para carne, verduras y uso diario",
     "imageUrl": "/images/setCuchillos6.jfif"
@@ -2262,7 +2262,7 @@
     "id": "252",
     "name": "Mesa para niño/a con proyector",
     "listPrice": 17900,
-    "price": 0,
+    "price": 30000,
     "category": "infantil",
     "description": "Un producto 💣💣 ..contiene accesorios para dibujar . ",
     "imageUrl": "/images/mesaNinoProyector.jfif"
@@ -2280,7 +2280,7 @@
     "id": "254",
     "name": "Popit electrónico capibara",
     "listPrice": 4800,
-    "price": 0,
+    "price":10800,
     "category": "infantil",
     "description": "Sin detalle",
     "imageUrl": "/images/popitElectronicoCapibara.jfif"
@@ -2289,7 +2289,7 @@
     "id": "255",
     "name": "Parlante Flip 6",
     "listPrice": 14500,
-    "price": 0,
+    "price": 26000,
     "category": "tecnologia",
     "description": "✔️ 12 horas de reproducción\n✔️ Resistente al agua IPX7 – ideal para pileta, playa o ducha\n✔️ Bluetooth / Wireless\n✔️ Connect+ para vincular varios parlantes\n✔️ Manos libres con micrófono incorporado",
     "imageUrl": "/images/parlanteFlip6.jfif"
@@ -2379,16 +2379,16 @@
     "id": "265",
     "name": "Organizador de zapatos 5 niveles",
     "listPrice": 12300,
-    "price": 0,
+    "price": 27300,
     "category": "hogar",
     "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar",    
     "imageUrl": "/images/organizadorZapatos5.jfif"
   },
   {
     "id": "266",
-    "name": "Pileta redonda BestWay My first pool",
+    "name": "Pileta redonda 1,52 m. BestWay My first pool",
     "listPrice": 36800,
-    "price": 0,
+    "price": 46800,
     "category": "hogar",
     "description": "La primera pileta ideal para los peques\n✔️ Súper resistente\n✔️ Rápida de inflar y fácil de guardar",
     "imageUrl": "/images/myFirstPool.jfif"
@@ -2397,7 +2397,7 @@
     "id": "267",
     "name": "Minipimer 4 en 1 multifuncion",
     "listPrice": 32000,
-    "price": 0,
+    "price": 45000,
     "category": "cocina",
     "description": "Incluye vaso medidor, picadora y batidor\n✔️ 340W de potencia\n✔️ Cuchilla de acero 4 hojas\n✔️ Súper práctica para salsas, licuados y picados",  
     "imageUrl": "/images/minipimer4en1.jfif"
@@ -2406,7 +2406,7 @@
     "id": "268",
     "name": "Humificador USB con proyector",
     "listPrice": 8400,
-    "price": 0,
+    "price": 18400 ,
     "category": "hogar",
     "description": "Creá un ambiente mágico y relajante\n✔️ Proyector de cielo estrellado\n✔️ Luz nocturna suave\n✔️ Humidificador giratorio",  
     "imageUrl": "/images/humificadorUSB.jfif"
@@ -2415,7 +2415,7 @@
     "id": "269",
     "name": "Perchero organizador de ropa",
     "listPrice": 16500,
-    "price": 0,
+    "price": 31500,
     "category": "hogar",
     "description": "Medidas: 150cm alto x 140cm ancho",  
     "imageUrl": "/images/percheroOrganizador.jfif"
@@ -2424,7 +2424,7 @@
     "id": "270",
     "name": "Licuadora Oryx de vidrio 1.5L",
     "listPrice": 34800,
-    "price": 0,
+    "price": 47000,
     "category": "cocina",
     "description": "⚡ Capacidad 1.5L\n⚡ Vaso de vidrio + vaso triturador\n⚡ 2 velocidades + función Pulso (P)\n⚡ Colores: blanco y negro",  
     "imageUrl": "/images/licuadoraOryx.jfif"
@@ -2433,7 +2433,7 @@
     "id": "271",
     "name": "Velador con lapicero Capibara",
     "listPrice": 6900,
-    "price": 0,
+    "price": 16900,
     "category": "infantil",
     "description": "Sin detalle",  
     "imageUrl": "/images/veladorCapibara.jfif"
@@ -2442,16 +2442,16 @@
     "id": "272",
     "name": "Botella termica sport 750CC",
     "listPrice": 8900,
-    "price": 0,
+    "price": 18900,
     "category": "hogar",
     "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",  
     "imageUrl": "/images/botellaTermicaSport750CC.jfif"
   },
   {
     "id": "273",
-    "name": "Boella sport con gancho 750cc",
+    "name": "Botella sport con gancho 750cc",
     "listPrice": 7500,
-    "price": 0,
+    "price": 17500,
     "category": "hogar",
     "description": "Liviana, resistente y fácil de limpiar\nIdeal para bebidas frías o calientes. Diseño moderno y duradero",  
     "imageUrl": "/images/botellaConGancho.jfif"
@@ -2460,7 +2460,7 @@
     "id": "274",
     "name": "Bordeadora Axel",
     "listPrice": 38900,
-    "price": 0,
+    "price": 53900,
     "category": "herramientas",
     "description": "Una herramienta esencial para mantener jardines y espacios verdes .son prácticas para detalles de limpieza precisa del césped .",  
     "imageUrl": "/images/bordeadoraAxel.jfif"
@@ -2469,7 +2469,7 @@
     "id": "275",
     "name": "Auto a bateria Lusqtoff UTV/T Terreno",
     "listPrice": 98900,
-    "price": 0,
+    "price": 123900,
     "category": "infantil",
     "description": "🔥 Luces LED + música integrada\n🔥 Barra de empuje removible\n🔥 Ruedas todoterreno bien firmes\n🔥 Reposabrazos y apoyapies\n🔥 Resistencia hasta 30 kg",  
     "imageUrl": "/images/autoBateriaLusqtoff.jfif"
@@ -2478,7 +2478,7 @@
     "id": "276",
     "name": "Auto a bateria Lusqtoff Jeep",
     "listPrice": 200000,
-    "price": 0,
+    "price": 230000,
     "category": "infantil",
     "description": "Doble tracción + control remoto\nLuces, música, MP3/USB_\nSuspensión en las 4 ruedas\nHasta 30 kg – Desde 3 años",  
     "imageUrl": "/images/autoBateriaLusqtoffJeep.jfif"
@@ -2487,7 +2487,7 @@
     "id": "277",
     "name": "Auto a bateria Lusqtoff Jeep Todo terreno",
     "listPrice": 298900,
-    "price": 0,
+    "price": 323900,
     "category": "infantil",
     "description": "Control remoto\n* Puertas funcionales\n* Luces LED\n* Asiento doble\n* Hasta 30 kg – +3 años",  
     "imageUrl": "/images/autoBateriaLusqtoffJeepTodoTerreno.jfif"
