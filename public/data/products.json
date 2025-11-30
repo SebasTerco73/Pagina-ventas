@@ -2698,5 +2698,42 @@
     "category": "hogar",
     "description": "Varios colores",  
     "imageUrl": "/images/toallonArcoirisNautico2.jfif"
+  },
+  {
+    "id": "301",
+    "name": "Ganchos para cortina de baño 12 unidades",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "100% Resina",
+    "imageUrl": "/images/ganchosParaCortinaDeBano12Unidades.jfif"
+  },
+  {
+    "id": "302",
+    "name": "Almohada Palette Comfort/Advance",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "50x70cm",
+    "imageUrl": "/images/almohadaPaletteComfortAdvance.jfif"
+  },
+  {
+    "id": "303",
+    "name": "Almohada Harmony",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Terapeutica\nAntialergica\nAntibacteriana\nTermosensible",
+    "imageUrl": "/images/almohadaHarmony.jfif"
+  },
+  {
+    "id": "304",
+    "name": "Bata secado rápido",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Varios colores\nTalles: M-L-XL-XXL\n100% microfibra",
+    "imageUrl": "/images/bataSecadoRapido.jfif"
   }
+  
 ]
