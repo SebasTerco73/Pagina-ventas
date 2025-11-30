@@ -2671,5 +2671,32 @@
     "category": "hogar",
     "description": "Plancha seca ALIZZA",  
     "imageUrl": "/images/planchaLiliana.jfif"
+  },
+  {
+    "id": "298",
+    "name": "Acolchado Kavanagh Soft 2024",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Incluye fundas para almohada",  
+    "imageUrl": "/images/acolchadoKavanagh.jfif"
+  },
+  {
+    "id": "299",
+    "name": "Manta rústica 2024",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "varios colores - hilado natural",  
+    "imageUrl": "/images/mantaRustica2024.jfif"
+  },
+  {
+    "id": "300",
+    "name": "Toallones Arcoiris Nautico",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Varios colores",  
+    "imageUrl": "/images/toallonArcoirisNautico2.jfif"
   }
 ]
