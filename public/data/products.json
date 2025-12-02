@@ -2343,7 +2343,7 @@
     "id": "261",
     "name": "Set toalla + toallon Fantasía y prata",
     "listPrice": 9490,
-    "price": 14000,
+    "price": 18000,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/setToallasFantasia.jfif"
@@ -2734,6 +2734,42 @@
     "category": "hogar",
     "description": "Varios colores\nTalles: M-L-XL-XXL\n100% microfibra",
     "imageUrl": "/images/bataSecadoRapido.jfif"
+  },
+  {
+    "id": "305",
+    "name": "Acolchado Kavanagh Brick Reversible",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Incluye funda de almohada",
+    "imageUrl": "/images/acolchadoKavanaghBrickReversible.jfif"
+  },
+  {
+    "id": "306",
+    "name": "Repasadores Palette",
+    "listPrice": 0,
+    "price": 0,
+    "category": "cocina",
+    "description": "100% Algodón\nVariedad de colores\n45x70cm",
+    "imageUrl": "/images/repasadoresPalette.jfif"
+  },
+  {
+    "id": "307",
+    "name": "Set de 3 repasadores Arcoiris Premium",
+    "listPrice": 0,
+    "price": 0,
+    "category": "cocina",
+    "description": "100% Algodón\nVariedad de colores\n45x70cm",
+    "imageUrl": "/images/setDe3RepasadoresArcoirisPremium.jfif"
+  },
+  {
+    "id": "309",
+    "name": "Ventilador de techo retráctil starvision",
+    "listPrice": 79000,
+    "price": 0,
+    "category": "hogar",
+    "description": "💡 Con luz LED + control remoto\n💸  $79.000\n🌬️ Aspas retráctiles\n💡 Luz regulable\n⚡ Motor silencioso",
+    "imageUrl": "/images/ventiladorDeTechoStarvision.jfif"
   }
   
 ]
