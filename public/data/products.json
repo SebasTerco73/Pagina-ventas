@@ -2296,16 +2296,16 @@
   },
   {
     "id": "256",
-    "name": "Set toalla+toallon Danubio",
+    "name": "Set toalla + toallon Danubio",
     "listPrice": 9700,
-    "price": 15000,
+    "price": 21700,
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/setToallas.jfif"
   },
   {
     "id": "257",
-    "name": "Set toalla+toallon Franco Valente",
+    "name": "Set toalla + toallon Franco Valente",
     "listPrice": 15000,
     "price": 25500,
     "category": "hogar",
@@ -2770,6 +2770,131 @@
     "category": "hogar",
     "description": "💡 Con luz LED + control remoto\n💸  $79.000\n🌬️ Aspas retráctiles\n💡 Luz regulable\n⚡ Motor silencioso",
     "imageUrl": "/images/ventiladorDeTechoStarvision.jfif"
+  },
+  {
+    "id": "310",
+    "name": "Licuadora Luo 2 en 1",
+    "listPrice": 38000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Potencia De 300w 🤯\nCuchillas De Acero Inoxidable 💯\n3 Velocidades \nCapacidad De 1500 LTS🥳🥳",
+    "imageUrl": "/images/licuadoraLuo2en1.jfif"
+  },
+  {
+    "id": "311",
+    "name": "Juego de sabanas Nautica Yacht Club",
+    "listPrice": 35300,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/sabanasNautica.jfif"
+  },
+  {
+    "id": "312",
+    "name": "Juego de sabanas Suplesa 2 1/2 plazas",
+    "listPrice": 36100,
+    "price": 0,
+    "category": "hogar",
+    "description": "4 piezas - Linea clasica",
+    "imageUrl": "/images/sabanasSuplesa.jfif"
+  },
+  {
+    "id": "313",
+    "name": "Juego de sabanas Premium 2 plazas",
+    "listPrice": 37800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/sabanasPremium.jfif"
+  },
+  {
+    "id": "314",
+    "name": "Juego de sabanas fantasia 2 1/2 plazas",
+    "listPrice": 32200,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/juegoDeSabanasFantasia.jfif"
+  },
+  {
+    "id": "315",
+    "name": "Individuales para la mesa",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",    
+    "imageUrl": "/images/individualesParaLaMesa.jfif"
+  },
+  {
+    "id": "316",
+    "name": "Protector de colchón impermeable",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "CDI\nComfort soft CDI",
+    "imageUrl": "/images/protectorColchonImpermeableCDI.jfif"
+  },
+  {
+    "id": "317",
+    "name": "Protector de colchon toalla CDI",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Distintos tamaños",
+    "imageUrl": "/images/protectorColchonToallaCDI.jfif"
+  },
+  {
+    "id": "318",
+    "name": "Bata de baño Palete",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Crepé M al XL\n4 colores",
+    "imageUrl": "/images/bataDeBanoPalete.jfif"
+  },
+  {
+    "id": "319",
+    "name": "Juego de sabanas Blanco Paris",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "600 H\nCalidad ultra Premium\nPackaging elegante y una terminación impecable\nVariedad de colores y medidas",
+    "imageUrl": "/images/juegoDeSabanasBlancoParis.jfif"
+  },
+  {
+    "id": "320",
+    "name": "Bata secado rápido talle XL",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Verde agua",
+    "imageUrl": "/images/bataSecadoRapidoTalleXL.jfif"
+  },
+  {
+    "id": "321",
+    "name": "Juego de sabanas Twin 3 piezas",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "hogar",
+    "description": "TAMAÑO TWIN 🔥 1800 HILOS🧵 Ultra Suave, diferentes colores y diseños , NO DESTIÑE 🎁\n🎁 🎁  $19.900 🎁 🎁 🎁 \n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191+ 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
+    "imageUrl": "/images/juegoDeSabanasTwin3Piezas.jfif"
+  },
+  {
+    "id": "322",
+    "name": "Juego de sabanas Casa Tex",
+    "listPrice": 25500,
+    "price": 0,
+    "category": "hogar",
+    "description": "TEX 2800 HILOS ULTRA SUAVE 🧵  TWIN BE085T- N CON BORDADO 🔥\n1 PIEZA DE SABANA : 170 X 230 CM\n1 PIEZA DE CUBRE COLCHÓN : 110 X 191 + 30CM\n1 PIEZA DE FUNDA : 51 X 76 CM",
+    "imageUrl": "/images/juegoDeSabanasCasaTex.jfif"
+  },
+  {
+    "id": "323",
+    "name": "Almohada Palette Advance",
+    "listPrice": 23200,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/almohadaPaletteAdvance.jfif"
   }
-  
 ]
