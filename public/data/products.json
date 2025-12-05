@@ -2896,5 +2896,41 @@
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/almohadaPaletteAdvance.jfif"
+  },
+  {
+    "id": "324",
+    "name": "SILLA GAMER DINAX Xtreme",
+    "listPrice": 119900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Apoya brazos acolchonados y ajustables que brindan soporte extra y ayudan a mantener una postura adecuado! Resistente y facil de limpiar, soporta hasta 150kg aprox . \nCONSULTAR POR COLORES EN STOCK 🎨",
+    "imageUrl": "/images/sillaGamerDinaxXtreme.jfif"
+  },
+  {
+    "id": "325",
+    "name": "Set toalla + toallon Arcoiris TIM 500gr",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "100% Algodon\nToalla 50x85cm\nToallon 80x150cm",
+    "imageUrl": "/images/setToallaToallonArcoirisTIM500gr.jfif"
+  },
+  {
+    "id": "326",
+    "name": "Juego de sabanas Guibor Premium",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "100% Algodon\n144 hilos\ngarantia de calidad",
+    "imageUrl": "/images/setSabanasGuiborPremium.jfif"
+  },
+  {
+    "id": "327",
+    "name": "Juego de sabanas Arcoiris 2 1/2 plazas",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "100% Algodon\nSaten\n300 hilos",
+    "imageUrl": "/images/juegoDeSabanasArcoiris2y12Plazas.jfif"
   }
 ]
