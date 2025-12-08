@@ -2774,8 +2774,8 @@
   {
     "id": "310",
     "name": "Licuadora Luo 2 en 1",
-    "listPrice": 38000,
-    "price": 0,
+    "listPrice": 27500,
+    "price": 38000,
     "category": "cocina",
     "description": "Potencia De 300w 🤯\nCuchillas De Acero Inoxidable 💯\n3 Velocidades \nCapacidad De 1500 LTS🥳🥳",
     "imageUrl": "/images/licuadoraLuo2en1.jfif"
@@ -2932,5 +2932,248 @@
     "category": "hogar",
     "description": "100% Algodon\nSaten\n300 hilos",
     "imageUrl": "/images/juegoDeSabanasArcoiris2y12Plazas.jfif"
-  }
-]
+  },
+  {
+    "id": "328",
+    "name": "Freidora de aceite Dinax",
+    "listPrice": 48500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Capacidad 3 litros – porciones generosas\n⚡ 2000W – calentamiento rápido\n🎚️ Termostato regulable – cocción precisa\nCanasto removible – limpieza fácil",
+    "imageUrl": "/images/freidoraDeAceiteDinax.jfif"
+  },
+  {
+    "id": "329",
+    "name": "Farol de camping 3 modos",
+    "listPrice": 7900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para camping, cortes de luz o ambientar cualquier espacio\n✨ 3 modos de iluminación\n🔋 Recargable Type-C\n🌈 Luz decorativa tipo arcoíris\n💡 Iluminación potente y portátil",
+    "imageUrl": "/images/farolDeCamping3Modos.jfif"
+  },
+  {
+    "id": "330",
+    "name": "Dispensador de detergente + porta esponja",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Dos funciones: dispensador + escurridor\n💧 Salida de drenaje fácil\n🧽 Mantiene todo ordenado y seco",
+    "imageUrl": "/images/dispensadorDeDetergentePortaEsponja.jfif"
+  },
+  {
+    "id": "331",
+    "name": "Organizador y escurridor de cubiertos",
+    "listPrice": 6500,
+    "price": 0,
+    "category": "hogar",
+    "description": "✨ Acero inoxidable\n🧼 Escurrido rápido gracias a su base inclinada y orificios de ventilación\n🔄 Desarmable para limpieza profunda\n🧩 Divisiones internas para ordenar cubiertos\nBase antideslizante",
+    "imageUrl": "/images/organizadorYEscurridorDeCubiertos.jfif"
+  },
+  {
+    "id": "332",
+    "name": "Parlante portatil Dinax Konga 300W",
+    "listPrice": 6000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "🎉 Luces rítmicas RGB\n🔌 Carga USB\n💾 Entrada USB / TF / SD\n📻 Modo Radio\n🪝 Portable y colgable🎉 Luces rítmicas RGB\n🔌 Carga USB\n💾 Entrada USB / TF / SD\n📻 Modo Radio\n🪝 Portable y colgable",
+    "imageUrl": "/images/parlantePortatilDinaxKonga300W.jfif"
+  },
+  {
+    "id": "333",
+    "name": "TOALLITAS SECADO RÁPIDO PARIS",
+    "listPrice": 1500,
+    "price": 0,
+    "category": "hogar",
+    "description": "30x50 cm\n¡Super prácticas, livianas y perfectas para todo uso! 🚀\nVienen en variedad de colores tal como en la foto.\nIdeales para gimnasio, viajes, bolso, cocina, auto… ¡secan rapidísimo!",
+    "imageUrl": "/images/toallitasSecadoRapidoParis.jfif"
+  },
+  {
+    "id": "334",
+    "name": "Sabana ajustable Danubio",
+    "listPrice": 20950,
+    "price": 0,
+    "category": "hogar",
+    "description": "90x190x30 cm",
+    "imageUrl": "/images/sabanaAjustableDanubio.jfif"
+  },
+  {
+    "id": "335",
+    "name": "Tender electrico Dinax",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "100 Wats\n10 Kg",
+    "imageUrl": "/images/tenderElectricoDinax.jfif"
+  },
+  {
+    "id": "336",
+    "name": "Infinix Hot 50I",
+    "listPrice": 169900,
+    "price": 184900,
+    "category": "tecnologia",
+    "description": "256 Gb\n8 Gb Ram",
+    "imageUrl": "/images/infinixHot50I.jfif"
+  },
+  {
+    "id": "337",
+    "name": "Maquna de donas profesiona",
+    "listPrice": 30000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Hacé donas perfectas en minutos\n✔️ 7 moldes de doble cara\n✔️ Molde de 5.5 cm (más grandes)\n✔️ Indicador de encendido\n✔️ Superficie antiadherente",
+    "imageUrl": "/images/maquinaDeDonasProfesional.jfif"
+  },
+  {
+    "id": "338",
+    "name": "Panquequera electrica Dinax",
+    "listPrice": 18500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Panqueques parejos y sin esfuerzo 🥞⚡\nIncluye bowl para preparación, batidor de mano y control de temperatura",
+    "imageUrl": "/images/panquequeraElectricaDinax.jfif"
+  },
+  {
+    "id": "339",
+    "name": "Kit de seguridad Dinax - 4 camaras + DVR",
+    "listPrice": 120000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Protegé tu casa o negocio con visión clara 24/7\n✔️ 4 cámaras HD\n✔️ DVR incluido\n✔️ Visión nocturna\n✔️ Detección de movimiento\n✔️ Alarma de aviso/Memoria interna", 
+    "imageUrl": "/images/kitDeSeguridadDinax4CamarasDVR.jfif"
+  },
+  {
+    "id": "340",
+    "name": "Espejo Dinax con luz cuadrado",
+    "listPrice": 8500,
+    "price": 0,
+    "category": "hogar",
+    "description": "3 niveles brillo\n- Bandeja porta objetos\n- Recarga por USB",  
+    "imageUrl": "/images/espejoDinaxConLuzCuadrado.jfif"
+  },
+  {
+    "id": "341",
+    "name": "Panchuquera Electrica Dinax",
+    "listPrice": 25000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Placa antiadherente + función grillado para un dorado perfecto\n- Función grillado\n- Control térmico\n- Corte de seguridad\n- Placa antiadherente",  
+    "imageUrl": "/images/panchuqueraElectricaDinax.jfif"
+  },
+  {
+    "id": "342",
+    "name": "Sacacorchos electrico",
+    "listPrice": 10500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Abrí tus vinos sin esfuerzo\n✔️ Batería recargable (hasta 30 botellas por carga)\n✔️ Compatible con la mayoría de las botellas\n✔️ Incluye cortacapsulas\n✔️ Luz LED azul al cargar y usar",  
+    "imageUrl": "/images/sacacorchosElectrico.jfif"
+  },
+  {
+    "id": "343",
+    "name": "Escurridor secaplatos cromado",
+    "listPrice": 14800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Resistente, amplio y súper práctico\n✔️ Acero cromado de alta calidad\n✔️ 2 niveles + porta cubiertos\n✔️ Bandeja recoge agua",  
+    "imageUrl": "/images/escurridorSecaplatosCromado.jfif"
+  },
+  {
+    "id": "344",
+    "name": "Secaplatos 2 pisos",
+    "listPrice": 32800,
+    "price": 0,
+    "category": "cocina",
+    "description": "✔️ Súper resistente\n✔️ Gran capacidad\n✔️ Bandeja plástica recoge agua\n✔️ Porta cubiertos lateral", 
+    "imageUrl": "/images/secaplatos2pisos.jfif"
+  },
+  {
+    "id": "345",
+    "name": "Dispensador de cereales doble",
+    "listPrice": 16800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Capacidad 2L\nTapa hermetica para mantener cereales frescos\nSistema de dispensado con giro de perilla",  
+    "imageUrl": "/images/dispensadorDeCerealesDoble.jfif"
+  },
+  {
+    "id": "346",
+    "name": "Espejo triple con luz led Dinax",
+    "listPrice": 13900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Iluminación perfecta para makeup o cuidados diarios💄💡\nTres partes, aumento x2 y x3, recargable por USB y base organizadora.",  
+    "imageUrl": "/images/espejoTripleConLuzLedDinax.jfif"
+  },
+  {
+    "id": "347",
+    "name": "Espejo redondo Dinax con luz led",
+    "listPrice": 6800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Rotación 180\nRecarga por USB\n3 niveles brillo\n⁠⁠Con bandeja portacosméticos😍",
+    "imageUrl": "/images/espejoRedondoDinaxConLuzLed.jfif"
+    },
+    {
+    "id": "348",
+    "name": "Mini maquina de coser Dinax",
+    "listPrice": 15300,
+    "price": 0,
+    "category": "hogar",
+    "description": "🧵con pedal y luz incorporada\n🧵 Bobina integrada de fácil reemplazo\n🧵 Cosido con punto duradero",
+    "imageUrl": "/images/miniMaquinaDeCoserDinax.jfif"
+    },
+    {
+    "id": "349",
+    "name": "Cepillo alisador Dinax",  
+    "listPrice": 6900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Alisado rápido sin esfuerzo😍\n2 niveles de temperatura, calentado veloz e indicador luminoso\nIdeal para un peinado prolijo todos los días_",
+    "imageUrl": "/images/cepilloAlisadorDinax.jfif"
+    },
+    {
+    "id": "350",
+    "name": "Aspiradora inalámbrica Dinax",  
+    "listPrice": 17900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ligera, potente y práctica para el hogar 🌪️✨\n- Alta succión\n- Diseño compacto\n- Carga por USB\nIdeal para autos, rincones y limpieza diaria💥🏠",
+    "imageUrl": "/images/aspiradoraInalambricaDinax.jfif"
+    },
+    {
+    "id": "351",
+    "name": "Ventilador Startrak 18'' Aspas plasticas",  
+    "listPrice": 27500,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔖 3 en 1: Pie / Turbo / Pared\n🔖 Motor 100% Cobre\n🔖 Altura 1.70 mts + 3 niveles de potencia",
+    "imageUrl": "/images/ventiladorStartrak18AspasPlasticas.jfif"
+    },
+    {
+    "id": "352",
+    "name": "Ventilador Startrak 20'' metal",  
+    "listPrice": 42000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente, resistente y 3 en 1. Ideal para cualquier ambiente\n* Motor 120W\n* 3 niveles de potencia\n* Aspas metalicas\n* Pie / Turbo / Pared",
+    "imageUrl": "/images/ventiladorStartrak20AspasMetalicas.jfif"
+    },
+    {
+    "id": "353",
+    "name": "Parlante Dinax 2x8",  
+    "listPrice": 49999,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Potente, luminoso y perfecto para cualquier evento\n🎉 Luces LED rítmicas\n🔋 Batería recargable\n📻 Radio FM\n💾 USB / TF / Aux / Mic",
+    "imageUrl": "/images/parlanteDinax2x8.jfif"
+    },
+    {
+    "id": "354",
+    "name": "Perchero doble con estante",  
+    "listPrice": 25000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Soporta hasta 35 kg \n- Doble barra\n- Súper estable y resistente al viento\n- Apto interior/exterior\n- Caños con recubrimiento negro\n📏 150×110×57 CM",
+    "imageUrl": "/images/percheroDobleConEstante.jfif"
+    }
+] 
