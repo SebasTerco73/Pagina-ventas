@@ -3175,5 +3175,14 @@
     "category": "hogar",
     "description": "Soporta hasta 35 kg \n- Doble barra\n- Súper estable y resistente al viento\n- Apto interior/exterior\n- Caños con recubrimiento negro\n📏 150×110×57 CM",
     "imageUrl": "/images/percheroDobleConEstante.jfif"
+    },
+    {
+      "id": "355",
+    "name": "Perchero multifuncion con ruedas",  
+    "listPrice": 14800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Varios niveles para guardar ropa, carteras, mantas y más\nDiseño simple y prolijo para cualquier ambiente\nFácil de armar y desarmar\n📐55 × 42 × 160 cm",
+    "imageUrl": "/images/percheroMultifuncionConRuedas.jfif"
     }
 ] 
