@@ -2647,7 +2647,7 @@
   },
   {
     "id": "295",
-    "name": "Cámara de seguridad IP WiFi 1080P",
+    "name": "Camara de seguridad IP WiFi 1080P",
     "listPrice": 22500,
     "price": 0,
     "category": "tecnologia",
@@ -2752,15 +2752,6 @@
     "category": "cocina",
     "description": "100% Algodón\nVariedad de colores\n45x70cm",
     "imageUrl": "/images/repasadoresPalette.jfif"
-  },
-  {
-    "id": "307",
-    "name": "Set de 3 repasadores Arcoiris Premium",
-    "listPrice": 0,
-    "price": 0,
-    "category": "cocina",
-    "description": "100% Algodón\nVariedad de colores\n45x70cm",
-    "imageUrl": "/images/setDe3RepasadoresArcoirisPremium.jfif"
   },
   {
     "id": "309",
@@ -3177,12 +3168,111 @@
     "imageUrl": "/images/percheroDobleConEstante.jfif"
     },
     {
-      "id": "355",
+    "id": "355",
     "name": "Perchero multifuncion con ruedas",  
     "listPrice": 14800,
     "price": 0,
     "category": "hogar",
     "description": "Varios niveles para guardar ropa, carteras, mantas y más\nDiseño simple y prolijo para cualquier ambiente\nFácil de armar y desarmar\n📐55 × 42 × 160 cm",
     "imageUrl": "/images/percheroMultifuncionConRuedas.jfif"
-    }
+    },
+    {
+    "id": "356",
+    "name": "Dispensador giratorio de alimentos",  
+    "listPrice": 30000,
+    "price": 0,
+    "category": "cocina",
+    "description": "6 compartimientos, rotacion 360°\nBandeja extraible\ntapa hermetica para mantener el grano fresco",
+    "imageUrl": "/images/dispensadorGiratorioDeAlimentos.jfif"
+    },
+    {
+    "id": "357",
+    "name": "Colchon inflable",  
+    "listPrice": 23500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Material: PVC\nMedidas: 190 × 74 × 22 cm\nSoporta hasta 150 kg\n- Superficie suave al tacto\n-  Curva ergonómica para mayor comodidad\nIdeal para camping, invitados o uso diario . ¡ Práctica, cómoda y liviana !",
+    "imageUrl": "/images/colchonInflable.jfif"
+    },
+  {
+    "id": "358",
+    "name": "Sofa inflable",  
+    "listPrice": 22500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Tamaño Individual\nCómodo, liviano y perfecto para cualquier ambiente\nSe infla en minutos y queda firme para usar todos los días\nvariedad de colores\nMedidas: 110 × 110 × 85 cm",
+    "imageUrl": "/images/sofaInflable.jfif"
+  },
+  {
+    "id": "359",
+    "name": "Rallador manual multiuso",  
+    "listPrice": 7800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Incluye 3 cuchillas de acero inoxidable: fina, gruesa y para rodajas\nIdeal para rallar verduras, queso, papas, pepinos y más en segundos\nBase con succión para que no se mueva y uso súper seguro",  
+    "imageUrl": "/images/ralladorManualMultiuso.jfif"
+  },
+  {
+    "id": "360",
+    "name": "Armario multifuncional portatil 3 cuerpos",  
+    "listPrice": 30000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Gran capacidad y diseño reforzado\n- Caños de acero grueso\n- Cubierta antipolvo\n- Tela no tejida resistente\n- Estantes amplios + barra para colgar\n- Fácil de armar\n📐130×45×170 CM",  
+    "imageUrl": "/images/armarioMultifuncionalPortatil3Cuerpos.jfif"
+  },
+  {
+    "id": "361",
+    "name": "Reposera de aluminio fija",  
+    "listPrice": 18000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Liviana, resistente y cómoda\nConstrucción firme, tejido durable y estructura de aluminio que no pesa nada",  
+    "imageUrl": "/images/reposeraDeAluminioFija.jfif"
+  },
+  {
+    "id": "362",
+    "name": "Freidora de aire Dinax digital 10L",  
+    "listPrice": 86000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Con visor frontal, panel táctil y cocción saludable SIN aceite\nPotente 1800W, gran capacidad 10 litros y preparada para todo\n¡ Rápida, práctica y moderna ",  
+    "imageUrl": "/images/freidoraDeAireDinaxDigital10L.jfif"
+  },
+  {
+    "id": "363",
+    "name": "Mesa plegable",  
+    "listPrice": 60000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Práctica, resistente y fácil de llevar\nMedidas: 180 × 70 × 74 cm\nTablero de PVC de alta resistencia + estructura de acero\nSe pliega tipo maletín y la armás en segundos\nIdeal para camping, ferias, eventos o el jardín\nLa armás en segundos y no ocupa nada !💣",  
+    "imageUrl": "/images/mesaPlegable.jfif"
+  },
+  {
+    "id": "307",
+    "name": "Perchero organizador multifuncional",  
+    "listPrice": 18900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para entrada, dormitorio o showroom\n✔️ Diseño 3 en 1: colgar, organizar y almacenar\nBarras metálicas reforzadas\n✔️ Estante inferior integrado, estructura metálica\n📐 172x80x26cm",  
+    "imageUrl": "/images/percheroOrganizadorMultifuncional.jfif"
+  },
+  {
+    "id": "308",
+    "name": "Armario portatil 2 cuerpos",  
+    "listPrice": 25000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Práctico, liviano y con gran capacidad\n- Cubierta de tela duradera\n- Fácil de armar y desarmar\n-  Amplio espacio para ropa y cajas\n- Estructura de caños de acero + PP\n 📐105×45×170 CM\nodelo 88105",  
+    "imageUrl": "/images/armarioPortatil2Cuerpos.jfif"
+  },
+  {
+    "id": "364",
+    "name": "Organizador de zapatos 6 niveles doble",
+    "listPrice": 24800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Organizá todos tus zapatos en un solo lugar.\n✔️ Doble puerta enrollable\n✔️ Estructura de acero de alta calidad\n✔️ Protección contra polvo y humedad\n📐 Medidas: 112×28×107 cm\nMODELO T-2712",
+    "imageUrl": "/images/organizadorDeZapatos6NivelesDoble.jfif"
+  }
 ] 
