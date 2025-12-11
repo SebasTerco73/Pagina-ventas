@@ -3,6 +3,28 @@ import { Item } from "../Item/Item";
 import "./ItemDetail.css";
 
 export const ItemDetail = ({detail}) => {
+
+    const descargarComoJpg = async () => {
+        const img = new Image();
+        img.crossOrigin = "anonymous"; // Necesario si la imagen viene de otro dominio
+        img.src = detail.imageUrl;
+
+        img.onload = () => {
+            const canvas = document.createElement("canvas");
+            canvas.width = img.width;
+            canvas.height = img.height;
+
+            const ctx = canvas.getContext("2d");
+            ctx.drawImage(img, 0, 0);
+
+            const jpgUrl = canvas.toDataURL("image/jpeg", 0.92); // 92% calidad
+
+            const link = document.createElement("a");
+            link.href = jpgUrl;
+            link.download = (detail.name || "imagen") + ".jpg";
+            link.click();
+        };
+    };
     const navigate = useNavigate(); // hook para navegar
 
     const handleVolver = () => {
@@ -21,13 +43,17 @@ export const ItemDetail = ({detail}) => {
             </button>
 
             {/* Botón para descargar */}
-                <a
+                {/* <a
                     href={detail.imageUrl}
                     download={detail.name || "imagen"}
                     className="download-btn"
                 >
                     Descargar imagen
-                </a>
+                </a> */}
+
+                <button onClick={descargarComoJpg} className="download-btn">
+                    Descargar imagen
+                </button>
             
         </div>
     );

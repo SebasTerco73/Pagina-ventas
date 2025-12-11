@@ -3274,5 +3274,59 @@
     "category": "hogar",
     "description": "Organizá todos tus zapatos en un solo lugar.\n✔️ Doble puerta enrollable\n✔️ Estructura de acero de alta calidad\n✔️ Protección contra polvo y humedad\n📐 Medidas: 112×28×107 cm\nMODELO T-2712",
     "imageUrl": "/images/organizadorDeZapatos6NivelesDoble.jfif"
+  },
+  {
+    "id": "365",
+    "name": "Manteles Blanco Paris - Tropical pesado",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Mantén todo ordenado y a la vista\n✔️ Transparente para fácil identificación\n✔️ Tapa hermética para proteger del polvo\n✔️ Apilables para ahorrar espacio\n📐 Medidas: 40x30x20 cm c/u",
+    "imageUrl": "/images/setDe3CajasOrganizadorasApilables.jfif"
+  },
+  {
+    "id": "366",
+    "name": "Organizador de zapatos 27 pares ",
+    "listPrice": 12500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ordená todo tu calzado en un solo lugar\n✔️ Capacidad para 27 pares\n✔️ Estructura firme y resistente\n✔️ Fácil de armar\n✔️ Ideal para cuartos, pasillos o locales\n📐124cm alto x 60cm ancho",
+    "imageUrl": "/images/organizadorDeZapatos27Pares.jfif"
+  },
+  {
+    "id": "367",
+    "name": "Perchero esquinero 3 niveles",
+    "listPrice": 13800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para showroom, cuarto o negocio\n✔️ Barra amplia para colgar ropa\n✔️ Estantes inferiores para cajas, zapatos o doblados\n✔️ Caños galvanizados\n📏 127x45x168cm",
+    "imageUrl": "/images/percheroEsquinero3Niveles.jfif"
+  },
+  {
+    "id": "368",
+    "name": "Perchero esquinero 5 niveles",
+    "listPrice": 15200,
+    "price": 0,
+    "category": "hogar",
+    "description": "Perfecto para ordenar todo en un solo lugar\n✔️ Gran capacidad para muchos pares\n✔️ Estructura metálica súper resistente\n✔️ Estantes amplios y ventilados\n📏 168 cm alto x 60 cm ancho x 26 cm profundidad",
+    "imageUrl": "/images/percheroEsquinero5Niveles.jfif"
+  },
+  {
+    "id": "369",
+    "name": "Utensillos de reposteria",
+    "listPrice": 7500,
+    "price": 0,
+    "category": "cocina",
+    "description": "5 Piezas de silicona\n Súper prácticos\nIdeal para tu cocina ",
+    "imageUrl": "/images/utensillosDeReposteria.jfif"
+  },
+  {
+    "id": "370",
+    "name": "Olla electrica multiuso OM",
+    "listPrice": 30000,
+    "price": 0,
+    "category": "cocina",
+    "description": "CONTROL DE TEMPERATURA ✓\n CALOR UNIFORME Y RAPIDO ✓ \n ANTIADHERENTE DURADERO ✓\n AHORRO DE ENERGIA ✓",
+    "imageUrl": "/images/ollaElectricaMultiusoOM.jfif"
   }
 ] 
