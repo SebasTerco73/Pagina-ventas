@@ -3328,5 +3328,149 @@
     "category": "cocina",
     "description": "CONTROL DE TEMPERATURA ✓\n CALOR UNIFORME Y RAPIDO ✓ \n ANTIADHERENTE DURADERO ✓\n AHORRO DE ENERGIA ✓",
     "imageUrl": "/images/ollaElectricaMultiusoOM.jfif"
+  },
+  {
+    "id": "371",
+    "name": "Ventilador Tower 20'' Metal",
+    "listPrice": 42000,
+    "price": 0,
+    "category": "hogar",
+    "description": "🚀 Potencia + caudal + resistencia\n✔️ Aspas metálicas 20”\n✔️ Motor reforzado\n✔️ Altura regulable\n✔️ Base pesada súper estable",
+    "imageUrl": "/images/ventiladorTower20Metal.jfif"
+  },
+  {
+    "id": "372",
+    "name": "Protectores de colchon Cdi",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Impermeable\nVariedad de medidas",
+    "imageUrl": "/images/protectoresDeColchonCdi.jfif"
+  },
+  {
+    "id": "373",
+    "name": "Bicicleta rodado 29 Azana",
+    "listPrice": 189900,
+    "price": 0,
+    "category": "hogar",
+    "description": "21 velocidades, freno a disco, llantas negro mate,manijas de freno de aluminio .",
+    "imageUrl": "/images/bicicletaRodado29Azana.jfif"
+  },
+  { 
+    "id": "374",
+    "name": "Reposera 8 posiciones MOOR",
+    "listPrice": 27000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Reposera plegable 8 posiciones ✓\n Resistentes y prácticas para llevarla a todas partes ✓\n Soporta hasta 160Kg aprox . ✓\n Caños de aluminio✓",
+    "imageUrl": "/images/reposera8PosicionesMoor.jfif"
+  },
+  {
+    "id": "375",
+    "name": "Maquina de pelo WAHL Profesional",
+    "listPrice": 30000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Varios modelos",
+    "imageUrl": "/images/maquinaDePeloWahlProfesional.jfif"
+  },
+  {
+    "id": "376",
+    "name": "Almohada viscoelástica Blanco Paris",
+    "listPrice": 9400,
+    "price": 0,
+    "category": "hogar",
+    "description": "Llevando 6: 9400 c/u\nDisponibles en forma cervical y clásica.\n¡Con funda con cierre removible y lavable!\n📏 Medida ideal: 55x35cm  ",
+    "imageUrl": "/images/almohadaViscoelasticaBlancoParis.jfif"
+  },
+  {
+    "id": "377",
+    "name": "Turbantes/Cofias Blanco Paris",
+    "listPrice": 2600,
+    "price": 0,
+    "category": "hogar",
+    "description": "Precio mayorista\nDisponibles en Negro, Fucsia, Rosa y Violeta.\nSúper cómodos, ajustables y de secado rápido",
+    "imageUrl": "/images/turbantesCofiasBlancoParis.jfif"
+  },
+  {
+    "id": "378",
+    "name": "Almohadones Piñata",
+    "listPrice": 7000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Los modelos mas lindos y divertidos\nIdeales para regalar esta navidad",
+    "imageUrl": "/images/almohadonesPinata.jfif"
+  },
+  {
+    "id": "379",
+    "name": "Bata de baño Kids Blanco Paris",
+    "listPrice": 8900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Fabricadas en toalla de microfibra súper suave y absorbente, con capucha y disponibles en talle 4.\n¡Ideales para baño, pileta y vacaciones! 🏖️🚿\nColores disponibles: Naranja – Azul – Beige – Rojo – Verde – Natural – Fucsia – Blanco – Rosa Claro 🌈\n📦 Vienen con packaging premium, perfectas para regalo.\nPrecio mayorista",
+    "imageUrl": "/images/bataDeBanoKidsBlancoParis.jfif"
+  },
+  {
+    "id": "380",
+    "name": "Sabana ajustable Blanco Paris",
+    "listPrice": 7700,
+    "price": 0,
+    "category": "hogar",
+    "description": "600 hilos - 2 1/2 Plazas\nCalidad premium, textura suave y sensación satinada\n🔥¡Oferta por tiempo limitado!\n📦 Packaging original\n🛏️ Tela con elástico en todo el contorno\n🎨 Colores disponibles: negro, blanco, gris oscuro, natural, tostado, naranja oscuro, rojo, verde musgo, turquesa",
+    "imageUrl": "/images/sabanaAjustableBlancoParis.jfif"
+  },
+  {
+    "id": "381",
+    "name": "Ventilador StarTrack Metal 20''",
+    "listPrice": 42000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente, resistente y 3 en 1. Ideal para cualquier ambiente\n* Motor 120W\n* 3 niveles de potencia\n* Aspas metálicas\n* Pie / Turbo / Pared",
+    "imageUrl": "/images/ventiladorStarTrackMetal20.jfif"
+  },
+  {
+    "id": "382",
+    "name": "Set de repasadores Tusor 6 unidades",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/6RepasadoresTusor.jfif"
+  },
+  {
+    "id": "383",
+    "name": "Toallas secado rapido",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/toallasSecadoRapido.jfif"
+  },
+  {
+    "id": "384",
+    "name": "Juego de toalla y toallon Danubio",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Calidad premium - 400g",
+    "imageUrl": "/images/juegoDeToallaYToallonDanubio.jfif"
+  },
+  {
+    "id": "385",
+    "name": "Toallon secado rapido Paris",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/toallonSecadoRapidoParis.jfif"
+  },
+  {
+    "id": "386",
+    "name": "Bata Palette",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/bataPalette.jfif"
   }
 ] 
