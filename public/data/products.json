@@ -3142,7 +3142,7 @@
     },
     {
     "id": "352",
-    "name": "Ventilador Startrak 20'' metal",  
+    "name": "Ventilador StarTrak 20'' metal",  
     "listPrice": 42000,
     "price": 0,
     "category": "hogar",
@@ -3419,15 +3419,7 @@
     "description": "600 hilos - 2 1/2 Plazas\nCalidad premium, textura suave y sensación satinada\n🔥¡Oferta por tiempo limitado!\n📦 Packaging original\n🛏️ Tela con elástico en todo el contorno\n🎨 Colores disponibles: negro, blanco, gris oscuro, natural, tostado, naranja oscuro, rojo, verde musgo, turquesa",
     "imageUrl": "/images/sabanaAjustableBlancoParis.jfif"
   },
-  {
-    "id": "381",
-    "name": "Ventilador StarTrack Metal 20''",
-    "listPrice": 42000,
-    "price": 0,
-    "category": "hogar",
-    "description": "Potente, resistente y 3 en 1. Ideal para cualquier ambiente\n* Motor 120W\n* 3 niveles de potencia\n* Aspas metálicas\n* Pie / Turbo / Pared",
-    "imageUrl": "/images/ventiladorStarTrackMetal20.jfif"
-  },
+  
   {
     "id": "382",
     "name": "Set de repasadores Tusor 6 unidades",
