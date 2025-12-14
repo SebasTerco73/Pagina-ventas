@@ -3472,5 +3472,77 @@
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/bataPalette.jfif"
+  },
+  {
+    "id": "387",
+    "name": "Colchón Inflable Bestway 2 Plazas",
+    "listPrice": 48000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Espacioso, firme y pensado para un descanso cómodo\nDiseño acolchado con superficie suave que brinda mayor confort\nIdeal para camping, viajes o uso diario en el hogar\n\nSoporta hasta 300 kg\n📏 Medidas: 1,91 m x 1,37 m x 28 cm\n🧳 Fácil de inflar y transportar",
+    "imageUrl": "/images/colchonInflableBestway2Plazas.jfif"
+  },
+  {
+    "id": "388",
+    "name": "Colchón Inflable Bestway 1 Plaza",
+    "listPrice": 36000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para camping, viajes o invitados,incluye inflador\nCómodo, resistente y fácil de inflar\nSuperficie suave tipo Soft Top para un descanso confortable\n\n📏 Medidas: 1,85 m x 76 cmx28cm\n🎒 Liviano y práctico para transportar",
+    "imageUrl": "/images/colchonInflableBestway1Plaza.jfif"
+  },
+  {
+    "id": "389",
+    "name": "Pelotas saltarinas",
+    "listPrice": 18600,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideales para que los chicos jueguen, salten y se diviertan sin parar 🎉\nCómodas, resistentes y súper llamativas",
+    "imageUrl": "/images/pelotasSaltarinas.jfif"
+  },
+  {
+    "id": "390",
+    "name": "Microondas Hytoshy digital 20L",
+    "listPrice": 135000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Compacto, potente y fácil de usar. Panel digital, calentamiento rápido y diseño moderno, ideal para el uso diario\n✔️ 20 L | 1000 W | 220–240 V",
+    "imageUrl": "/images/microondasHytoshyDigital20L.jfif"
+  },
+  {
+    "id": "391",
+    "name": "Reposera MOOR de niños",
+    "listPrice": 15000,
+    "price": 0,
+    "category": "infantil",
+    "description": "Liviana, plegable y resistente. Ideal para playa, pileta o jardín_Tela reforzada y estructura de aluminio .\nPráctica, cómoda y fácil de transportar",
+    "imageUrl": "/images/reposeraMOORDeNinos.jfif"
+  },
+  {
+    "id": "392",
+    "name": "Valija de arte 133 piezas - 3 pisos",
+    "listPrice": 34500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Súper completa y lista para crear\nIncluye lápices de colores, marcadores, crayones, acuarelas, pincel y accesorios, todo ordenado en 3 niveles\n👶 +3 años · 🎁",
+    "imageUrl": "/images/valijaDeArte133Piezas3Pisos.jfif"
+  },
+  {
+    "id": "393",
+    "name": "Valija de arte 145 piezas - 2 pisos",
+    "listPrice": 28500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Variedad total de colores para dibujar y pintar ✨\nTrae lápices de colores, marcadores, acuarelas, pincel, paleta y accesorios, en formato valija compacta y ordenada\n👶 +3 años",
+    "imageUrl": "/images/valijaDeArte145Piezas2Pisos.jfif"
+  },
+  {
+    "id": "394",
+    "name": "Yoystick play 4 camuflado",
+    "listPrice": 17800,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Sin detalle",  
+    "imageUrl": "/images/yoystickPlay4Camuflado.jfif"
   }
 ] 
