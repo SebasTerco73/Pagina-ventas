@@ -516,7 +516,7 @@
     "id": "58",
     "name": "Gazebo Plegable",
     "listPrice": 96000,
-    "price": 125000,
+    "price": 110000,
     "category": "hogar",
     "description": "Antes 105900 - Ideal para playa, camping o ferias - Estructura reforzada y fácil de armar - 3 alturas regulables - Tela impermeable y resistente al sol - Colores Variados según stock",
     "imageUrl": "/images/gazeboPlegable.jfif"
@@ -2280,7 +2280,7 @@
     "id": "254",
     "name": "Popit electrónico capibara",
     "listPrice": 4800,
-    "price":10800,
+    "price": 10800,
     "category": "infantil",
     "description": "Sin detalle",
     "imageUrl": "/images/popitElectronicoCapibara.jfif"
@@ -2381,7 +2381,7 @@
     "listPrice": 12300,
     "price": 27300,
     "category": "hogar",
-    "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar",    
+    "description": "Ideal para mantener todo ordenado sin ocupar espacio\n✔️ 8 niveles para zapatillas, zapatos y botas\n✔️ Estructura firme con tubos de acero\n✔️ Tela resistente, antihumedad\n✔️ Compacto, liviano y fácil de armar",
     "imageUrl": "/images/organizadorZapatos5.jfif"
   },
   {
@@ -2399,16 +2399,16 @@
     "listPrice": 32000,
     "price": 45000,
     "category": "cocina",
-    "description": "Incluye vaso medidor, picadora y batidor\n✔️ 340W de potencia\n✔️ Cuchilla de acero 4 hojas\n✔️ Súper práctica para salsas, licuados y picados",  
+    "description": "Incluye vaso medidor, picadora y batidor\n✔️ 340W de potencia\n✔️ Cuchilla de acero 4 hojas\n✔️ Súper práctica para salsas, licuados y picados",
     "imageUrl": "/images/minipimer4en1.jfif"
   },
   {
     "id": "268",
     "name": "Humificador USB con proyector",
     "listPrice": 8400,
-    "price": 18400 ,
+    "price": 18400,
     "category": "hogar",
-    "description": "Creá un ambiente mágico y relajante\n✔️ Proyector de cielo estrellado\n✔️ Luz nocturna suave\n✔️ Humidificador giratorio",  
+    "description": "Creá un ambiente mágico y relajante\n✔️ Proyector de cielo estrellado\n✔️ Luz nocturna suave\n✔️ Humidificador giratorio",
     "imageUrl": "/images/humificadorUSB.jfif"
   },
   {
@@ -2417,7 +2417,7 @@
     "listPrice": 16500,
     "price": 31500,
     "category": "hogar",
-    "description": "Medidas: 150cm alto x 140cm ancho",  
+    "description": "Medidas: 150cm alto x 140cm ancho",
     "imageUrl": "/images/percheroOrganizador.jfif"
   },
   {
@@ -2426,7 +2426,7 @@
     "listPrice": 34800,
     "price": 47000,
     "category": "cocina",
-    "description": "⚡ Capacidad 1.5L\n⚡ Vaso de vidrio + vaso triturador\n⚡ 2 velocidades + función Pulso (P)\n⚡ Colores: blanco y negro",  
+    "description": "⚡ Capacidad 1.5L\n⚡ Vaso de vidrio + vaso triturador\n⚡ 2 velocidades + función Pulso (P)\n⚡ Colores: blanco y negro",
     "imageUrl": "/images/licuadoraOryx.jfif"
   },
   {
@@ -2435,7 +2435,7 @@
     "listPrice": 6900,
     "price": 16900,
     "category": "infantil",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/veladorCapibara.jfif"
   },
   {
@@ -2444,7 +2444,7 @@
     "listPrice": 8900,
     "price": 18900,
     "category": "hogar",
-    "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",  
+    "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",
     "imageUrl": "/images/botellaTermicaSport750CC.jfif"
   },
   {
@@ -2453,7 +2453,7 @@
     "listPrice": 7500,
     "price": 17500,
     "category": "hogar",
-    "description": "Liviana, resistente y fácil de limpiar\nIdeal para bebidas frías o calientes. Diseño moderno y duradero",  
+    "description": "Liviana, resistente y fácil de limpiar\nIdeal para bebidas frías o calientes. Diseño moderno y duradero",
     "imageUrl": "/images/botellaConGancho.jfif"
   },
   {
@@ -2462,7 +2462,7 @@
     "listPrice": 38900,
     "price": 53900,
     "category": "herramientas",
-    "description": "Una herramienta esencial para mantener jardines y espacios verdes .son prácticas para detalles de limpieza precisa del césped .",  
+    "description": "Una herramienta esencial para mantener jardines y espacios verdes .son prácticas para detalles de limpieza precisa del césped .",
     "imageUrl": "/images/bordeadoraAxel.jfif"
   },
   {
@@ -2471,7 +2471,7 @@
     "listPrice": 98900,
     "price": 123900,
     "category": "infantil",
-    "description": "🔥 Luces LED + música integrada\n🔥 Barra de empuje removible\n🔥 Ruedas todoterreno bien firmes\n🔥 Reposabrazos y apoyapies\n🔥 Resistencia hasta 30 kg",  
+    "description": "🔥 Luces LED + música integrada\n🔥 Barra de empuje removible\n🔥 Ruedas todoterreno bien firmes\n🔥 Reposabrazos y apoyapies\n🔥 Resistencia hasta 30 kg",
     "imageUrl": "/images/autoBateriaLusqtoff.jfif"
   },
   {
@@ -2480,7 +2480,7 @@
     "listPrice": 200000,
     "price": 230000,
     "category": "infantil",
-    "description": "Doble tracción + control remoto\nLuces, música, MP3/USB_\nSuspensión en las 4 ruedas\nHasta 30 kg – Desde 3 años",  
+    "description": "Doble tracción + control remoto\nLuces, música, MP3/USB_\nSuspensión en las 4 ruedas\nHasta 30 kg – Desde 3 años",
     "imageUrl": "/images/autoBateriaLusqtoffJeep.jfif"
   },
   {
@@ -2489,7 +2489,7 @@
     "listPrice": 298900,
     "price": 323900,
     "category": "infantil",
-    "description": "Control remoto\n* Puertas funcionales\n* Luces LED\n* Asiento doble\n* Hasta 30 kg – +3 años",  
+    "description": "Control remoto\n* Puertas funcionales\n* Luces LED\n* Asiento doble\n* Hasta 30 kg – +3 años",
     "imageUrl": "/images/autoBateriaLusqtoffJeepTodoTerreno.jfif"
   },
   {
@@ -2498,7 +2498,7 @@
     "listPrice": 215000,
     "price": 0,
     "category": "hogar",
-    "description": "⚡ Cuadro de acero reforzado\n⚡ Rodado 29 para más control y estabilidad\n⚡ Frenos a disco\ncolores disponibles: roja y negra, blanca y negra, azul y negra",     
+    "description": "⚡ Cuadro de acero reforzado\n⚡ Rodado 29 para más control y estabilidad\n⚡ Frenos a disco\ncolores disponibles: roja y negra, blanca y negra, azul y negra",
     "imageUrl": "/images/bicicletaGhepard.jfif"
   },
   {
@@ -2525,7 +2525,7 @@
     "listPrice": 10500,
     "price": 0,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/setDeBanoCeramica3Pcs.jfif"
   },
   {
@@ -2534,7 +2534,7 @@
     "listPrice": 21900,
     "price": 0,
     "category": "hogar",
-    "description": "Elegante, moderno y súper práctico para renovar tu baño\nIncluye: jabón líquido, vaso, porta cepillos, jabonera, tacho y escobilla",  
+    "description": "Elegante, moderno y súper práctico para renovar tu baño\nIncluye: jabón líquido, vaso, porta cepillos, jabonera, tacho y escobilla",
     "imageUrl": "/images/setDeBano6Piezas.jfif"
   },
   {
@@ -2543,7 +2543,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/cubrecamaReversiblePinata.jfif"
   },
   {
@@ -2552,7 +2552,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/juegoDeSabanasPinata.jfif"
   },
   {
@@ -2561,7 +2561,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/juegoDeSabanasPinataTrendy.jfif"
   },
   {
@@ -2570,7 +2570,7 @@
     "listPrice": 77000,
     "price": 0,
     "category": "hogar",
-    "description": "Con luz LED + control remoto\n✔️ Aspas retráctiles transparentes\n✔️ 6 velocidades\n✔️ Luz LED con colores regulables\n✔️ Temporizador 1 a 8 hs",  
+    "description": "Con luz LED + control remoto\n✔️ Aspas retráctiles transparentes\n✔️ 6 velocidades\n✔️ Luz LED con colores regulables\n✔️ Temporizador 1 a 8 hs",
     "imageUrl": "/images/ventiladorDeTechoRetractilAzana.jfif"
   },
   {
@@ -2579,7 +2579,7 @@
     "listPrice": 9500,
     "price": 0,
     "category": "hogar",
-    "description": "Material cerámico, ideal para tu baño ! ",  
+    "description": "Material cerámico, ideal para tu baño ! ",
     "imageUrl": "/images/despenserDeJabonLiquido.jfif"
   },
   {
@@ -2588,7 +2588,7 @@
     "listPrice": 12800,
     "price": 0,
     "category": "herramientas",
-    "description": "deal para el hogar y trabajos diarios. Incluye martillo, pinza, cutter, cinta métrica, destornilladores y más\n⚡ Compacto, resistente y súper práctico",  
+    "description": "deal para el hogar y trabajos diarios. Incluye martillo, pinza, cutter, cinta métrica, destornilladores y más\n⚡ Compacto, resistente y súper práctico",
     "imageUrl": "/images/setHerramientas9Pcs.jfif"
   },
   {
@@ -2597,7 +2597,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "150x80cm",  
+    "description": "150x80cm",
     "imageUrl": "/images/toallonArcoirisNautico.jfif"
   },
   {
@@ -2606,7 +2606,7 @@
     "listPrice": 13800,
     "price": 0,
     "category": "hogar",
-    "description": "Súper reforzada, liviana y térmica. Ideal para playa, río, trabajo o viajes\n¡ Mantiene tus bebidas bien frías por horas ! 🧊🧃",  
+    "description": "Súper reforzada, liviana y térmica. Ideal para playa, río, trabajo o viajes\n¡ Mantiene tus bebidas bien frías por horas ! 🧊🧃",
     "imageUrl": "/images/conservadoraHelafrio34Litros.jfif"
   },
   {
@@ -2615,7 +2615,7 @@
     "listPrice": 48000,
     "price": 0,
     "category": "hogar",
-    "description": "¡ El verano se disfruta mejor con más espacio para refrescarte ! 🌞\n💧 Capacidad: 1.500 litros\n🪶 Material PVC reforzado con estructura metálica\n⚙️ Fácil de armar, resistente y práctica\n👨‍👩‍👧‍👦 Ideal para toda la familia\n📏 Medidas: 1,89m largo × 1,89m ancho × 42 cm alto",  
+    "description": "¡ El verano se disfruta mejor con más espacio para refrescarte ! 🌞\n💧 Capacidad: 1.500 litros\n🪶 Material PVC reforzado con estructura metálica\n⚙️ Fácil de armar, resistente y práctica\n👨‍👩‍👧‍👦 Ideal para toda la familia\n📏 Medidas: 1,89m largo × 1,89m ancho × 42 cm alto",
     "imageUrl": "/images/piletaMoor1500L.jfif"
   },
   {
@@ -2624,7 +2624,7 @@
     "listPrice": 7490,
     "price": 0,
     "category": "hogar",
-    "description": "Repasadores ARCOIRIS calidad premium\nSúper absorbentes, resistentes y con excelente terminación 👌\nIdeales para reventa por su presentación y calidad superior.",  
+    "description": "Repasadores ARCOIRIS calidad premium\nSúper absorbentes, resistentes y con excelente terminación 👌\nIdeales para reventa por su presentación y calidad superior.",
     "imageUrl": "/images/repasadoresArcoirisPremiumPack2Unidades.jfif"
   },
   {
@@ -2633,7 +2633,7 @@
     "listPrice": 19900,
     "price": 0,
     "category": "tecnologia",
-    "description": "⚡ Listo para usar\n🌈 Excelente calidad de imagen\n🎬 Ideal para disfrutar tus series y pelis favoritas",  
+    "description": "⚡ Listo para usar\n🌈 Excelente calidad de imagen\n🎬 Ideal para disfrutar tus series y pelis favoritas",
     "imageUrl": "/images/tvBoxConMagisIncluido.jfif"
   },
   {
@@ -2642,7 +2642,7 @@
     "listPrice": 56500,
     "price": 0,
     "category": "tecnologia",
-    "description": "La mejor opción para horas de diversión 🎉\n✔️ Resolución 4K\n✔️ 2 joysticks inalámbricos 2.4G\n✔️ Miles de juegos clásicos incluidos\n✔️ Súper fácil de instalar y usar",  
+    "description": "La mejor opción para horas de diversión 🎉\n✔️ Resolución 4K\n✔️ 2 joysticks inalámbricos 2.4G\n✔️ Miles de juegos clásicos incluidos\n✔️ Súper fácil de instalar y usar",
     "imageUrl": "/images/consolaGameBoxRS5.jfif"
   },
   {
@@ -2651,7 +2651,7 @@
     "listPrice": 22500,
     "price": 0,
     "category": "tecnologia",
-    "description": "Protegé tu hogar u oficina con esta cámara de seguridad inteligente\n✔️ Resolución Full HD 1080P\n✔️ Visión nocturna infrarroja\n✔️ Detección de movimiento y alertas en tiempo real\n✔️ Audio bidireccional para comunicación remota",  
+    "description": "Protegé tu hogar u oficina con esta cámara de seguridad inteligente\n✔️ Resolución Full HD 1080P\n✔️ Visión nocturna infrarroja\n✔️ Detección de movimiento y alertas en tiempo real\n✔️ Audio bidireccional para comunicación remota",
     "imageUrl": "/images/camaraDeSeguridadIPWiFi1080P.jfif"
   },
   {
@@ -2660,7 +2660,7 @@
     "listPrice": 4000,
     "price": 0,
     "category": "cocina",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/balanzaDeCocina.jfif"
   },
   {
@@ -2669,7 +2669,7 @@
     "listPrice": 30000,
     "price": 0,
     "category": "hogar",
-    "description": "Plancha seca ALIZZA",  
+    "description": "Plancha seca ALIZZA",
     "imageUrl": "/images/planchaLiliana.jfif"
   },
   {
@@ -2678,7 +2678,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Incluye fundas para almohada",  
+    "description": "Incluye fundas para almohada",
     "imageUrl": "/images/acolchadoKavanagh.jfif"
   },
   {
@@ -2687,7 +2687,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "varios colores - hilado natural",  
+    "description": "varios colores - hilado natural",
     "imageUrl": "/images/mantaRustica2024.jfif"
   },
   {
@@ -2696,7 +2696,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Varios colores",  
+    "description": "Varios colores",
     "imageUrl": "/images/toallonArcoirisNautico2.jfif"
   },
   {
@@ -2813,7 +2813,7 @@
     "listPrice": 0,
     "price": 0,
     "category": "hogar",
-    "description": "Sin detalle",    
+    "description": "Sin detalle",
     "imageUrl": "/images/individualesParaLaMesa.jfif"
   },
   {
@@ -3029,7 +3029,7 @@
     "listPrice": 120000,
     "price": 0,
     "category": "hogar",
-    "description": "Protegé tu casa o negocio con visión clara 24/7\n✔️ 4 cámaras HD\n✔️ DVR incluido\n✔️ Visión nocturna\n✔️ Detección de movimiento\n✔️ Alarma de aviso/Memoria interna", 
+    "description": "Protegé tu casa o negocio con visión clara 24/7\n✔️ 4 cámaras HD\n✔️ DVR incluido\n✔️ Visión nocturna\n✔️ Detección de movimiento\n✔️ Alarma de aviso/Memoria interna",
     "imageUrl": "/images/kitDeSeguridadDinax4CamarasDVR.jfif"
   },
   {
@@ -3038,7 +3038,7 @@
     "listPrice": 8500,
     "price": 0,
     "category": "hogar",
-    "description": "3 niveles brillo\n- Bandeja porta objetos\n- Recarga por USB",  
+    "description": "3 niveles brillo\n- Bandeja porta objetos\n- Recarga por USB",
     "imageUrl": "/images/espejoDinaxConLuzCuadrado.jfif"
   },
   {
@@ -3047,7 +3047,7 @@
     "listPrice": 25000,
     "price": 0,
     "category": "cocina",
-    "description": "Placa antiadherente + función grillado para un dorado perfecto\n- Función grillado\n- Control térmico\n- Corte de seguridad\n- Placa antiadherente",  
+    "description": "Placa antiadherente + función grillado para un dorado perfecto\n- Función grillado\n- Control térmico\n- Corte de seguridad\n- Placa antiadherente",
     "imageUrl": "/images/panchuqueraElectricaDinax.jfif"
   },
   {
@@ -3056,7 +3056,7 @@
     "listPrice": 10500,
     "price": 0,
     "category": "cocina",
-    "description": "Abrí tus vinos sin esfuerzo\n✔️ Batería recargable (hasta 30 botellas por carga)\n✔️ Compatible con la mayoría de las botellas\n✔️ Incluye cortacapsulas\n✔️ Luz LED azul al cargar y usar",  
+    "description": "Abrí tus vinos sin esfuerzo\n✔️ Batería recargable (hasta 30 botellas por carga)\n✔️ Compatible con la mayoría de las botellas\n✔️ Incluye cortacapsulas\n✔️ Luz LED azul al cargar y usar",
     "imageUrl": "/images/sacacorchosElectrico.jfif"
   },
   {
@@ -3065,7 +3065,7 @@
     "listPrice": 14800,
     "price": 0,
     "category": "cocina",
-    "description": "Resistente, amplio y súper práctico\n✔️ Acero cromado de alta calidad\n✔️ 2 niveles + porta cubiertos\n✔️ Bandeja recoge agua",  
+    "description": "Resistente, amplio y súper práctico\n✔️ Acero cromado de alta calidad\n✔️ 2 niveles + porta cubiertos\n✔️ Bandeja recoge agua",
     "imageUrl": "/images/escurridorSecaplatosCromado.jfif"
   },
   {
@@ -3074,7 +3074,7 @@
     "listPrice": 32800,
     "price": 0,
     "category": "cocina",
-    "description": "✔️ Súper resistente\n✔️ Gran capacidad\n✔️ Bandeja plástica recoge agua\n✔️ Porta cubiertos lateral", 
+    "description": "✔️ Súper resistente\n✔️ Gran capacidad\n✔️ Bandeja plástica recoge agua\n✔️ Porta cubiertos lateral",
     "imageUrl": "/images/secaplatos2pisos.jfif"
   },
   {
@@ -3083,7 +3083,7 @@
     "listPrice": 16800,
     "price": 0,
     "category": "cocina",
-    "description": "Capacidad 2L\nTapa hermetica para mantener cereales frescos\nSistema de dispensado con giro de perilla",  
+    "description": "Capacidad 2L\nTapa hermetica para mantener cereales frescos\nSistema de dispensado con giro de perilla",
     "imageUrl": "/images/dispensadorDeCerealesDoble.jfif"
   },
   {
@@ -3092,7 +3092,7 @@
     "listPrice": 13900,
     "price": 0,
     "category": "hogar",
-    "description": "Iluminación perfecta para makeup o cuidados diarios💄💡\nTres partes, aumento x2 y x3, recargable por USB y base organizadora.",  
+    "description": "Iluminación perfecta para makeup o cuidados diarios💄💡\nTres partes, aumento x2 y x3, recargable por USB y base organizadora.",
     "imageUrl": "/images/espejoTripleConLuzLedDinax.jfif"
   },
   {
@@ -3103,8 +3103,8 @@
     "category": "hogar",
     "description": "Rotación 180\nRecarga por USB\n3 niveles brillo\n⁠⁠Con bandeja portacosméticos😍",
     "imageUrl": "/images/espejoRedondoDinaxConLuzLed.jfif"
-    },
-    {
+  },
+  {
     "id": "348",
     "name": "Mini maquina de coser Dinax",
     "listPrice": 15300,
@@ -3112,91 +3112,91 @@
     "category": "hogar",
     "description": "🧵con pedal y luz incorporada\n🧵 Bobina integrada de fácil reemplazo\n🧵 Cosido con punto duradero",
     "imageUrl": "/images/miniMaquinaDeCoserDinax.jfif"
-    },
-    {
+  },
+  {
     "id": "349",
-    "name": "Cepillo alisador Dinax",  
+    "name": "Cepillo alisador Dinax",
     "listPrice": 6900,
     "price": 0,
     "category": "hogar",
     "description": "Alisado rápido sin esfuerzo😍\n2 niveles de temperatura, calentado veloz e indicador luminoso\nIdeal para un peinado prolijo todos los días_",
     "imageUrl": "/images/cepilloAlisadorDinax.jfif"
-    },
-    {
+  },
+  {
     "id": "350",
-    "name": "Aspiradora inalámbrica Dinax",  
+    "name": "Aspiradora inalámbrica Dinax",
     "listPrice": 17900,
     "price": 0,
     "category": "hogar",
     "description": "Ligera, potente y práctica para el hogar 🌪️✨\n- Alta succión\n- Diseño compacto\n- Carga por USB\nIdeal para autos, rincones y limpieza diaria💥🏠",
     "imageUrl": "/images/aspiradoraInalambricaDinax.jfif"
-    },
-    {
+  },
+  {
     "id": "351",
-    "name": "Ventilador Startrak 18'' Aspas plasticas",  
+    "name": "Ventilador Startrak 18'' Aspas plasticas",
     "listPrice": 27500,
     "price": 0,
     "category": "hogar",
     "description": "🔖 3 en 1: Pie / Turbo / Pared\n🔖 Motor 100% Cobre\n🔖 Altura 1.70 mts + 3 niveles de potencia",
     "imageUrl": "/images/ventiladorStartrak18AspasPlasticas.jfif"
-    },
-    {
+  },
+  {
     "id": "352",
-    "name": "Ventilador StarTrak 20'' metal",  
+    "name": "Ventilador StarTrak 20'' metal",
     "listPrice": 42000,
     "price": 0,
     "category": "hogar",
     "description": "Potente, resistente y 3 en 1. Ideal para cualquier ambiente\n* Motor 120W\n* 3 niveles de potencia\n* Aspas metalicas\n* Pie / Turbo / Pared",
     "imageUrl": "/images/ventiladorStartrak20AspasMetalicas.jfif"
-    },
-    {
+  },
+  {
     "id": "353",
-    "name": "Parlante Dinax 2x8",  
+    "name": "Parlante Dinax 2x8",
     "listPrice": 49999,
     "price": 0,
     "category": "tecnologia",
     "description": "Potente, luminoso y perfecto para cualquier evento\n🎉 Luces LED rítmicas\n🔋 Batería recargable\n📻 Radio FM\n💾 USB / TF / Aux / Mic",
     "imageUrl": "/images/parlanteDinax2x8.jfif"
-    },
-    {
+  },
+  {
     "id": "354",
-    "name": "Perchero doble con estante",  
+    "name": "Perchero doble con estante",
     "listPrice": 25000,
     "price": 0,
     "category": "hogar",
     "description": "Soporta hasta 35 kg \n- Doble barra\n- Súper estable y resistente al viento\n- Apto interior/exterior\n- Caños con recubrimiento negro\n📏 150×110×57 CM",
     "imageUrl": "/images/percheroDobleConEstante.jfif"
-    },
-    {
+  },
+  {
     "id": "355",
-    "name": "Perchero multifuncion con ruedas",  
+    "name": "Perchero multifuncion con ruedas",
     "listPrice": 14800,
     "price": 0,
     "category": "hogar",
     "description": "Varios niveles para guardar ropa, carteras, mantas y más\nDiseño simple y prolijo para cualquier ambiente\nFácil de armar y desarmar\n📐55 × 42 × 160 cm",
     "imageUrl": "/images/percheroMultifuncionConRuedas.jfif"
-    },
-    {
+  },
+  {
     "id": "356",
-    "name": "Dispensador giratorio de alimentos",  
+    "name": "Dispensador giratorio de alimentos",
     "listPrice": 30000,
     "price": 0,
     "category": "cocina",
     "description": "6 compartimientos, rotacion 360°\nBandeja extraible\ntapa hermetica para mantener el grano fresco",
     "imageUrl": "/images/dispensadorGiratorioDeAlimentos.jfif"
-    },
-    {
+  },
+  {
     "id": "357",
-    "name": "Colchon inflable",  
+    "name": "Colchon inflable",
     "listPrice": 23500,
     "price": 0,
     "category": "hogar",
     "description": "Material: PVC\nMedidas: 190 × 74 × 22 cm\nSoporta hasta 150 kg\n- Superficie suave al tacto\n-  Curva ergonómica para mayor comodidad\nIdeal para camping, invitados o uso diario . ¡ Práctica, cómoda y liviana !",
     "imageUrl": "/images/colchonInflable.jfif"
-    },
+  },
   {
     "id": "358",
-    "name": "Sofa inflable",  
+    "name": "Sofa inflable",
     "listPrice": 22500,
     "price": 0,
     "category": "hogar",
@@ -3205,65 +3205,65 @@
   },
   {
     "id": "359",
-    "name": "Rallador manual multiuso",  
+    "name": "Rallador manual multiuso",
     "listPrice": 7800,
     "price": 0,
     "category": "cocina",
-    "description": "Incluye 3 cuchillas de acero inoxidable: fina, gruesa y para rodajas\nIdeal para rallar verduras, queso, papas, pepinos y más en segundos\nBase con succión para que no se mueva y uso súper seguro",  
+    "description": "Incluye 3 cuchillas de acero inoxidable: fina, gruesa y para rodajas\nIdeal para rallar verduras, queso, papas, pepinos y más en segundos\nBase con succión para que no se mueva y uso súper seguro",
     "imageUrl": "/images/ralladorManualMultiuso.jfif"
   },
   {
     "id": "360",
-    "name": "Armario multifuncional portatil 3 cuerpos",  
+    "name": "Armario multifuncional portatil 3 cuerpos",
     "listPrice": 30000,
     "price": 0,
     "category": "hogar",
-    "description": "Gran capacidad y diseño reforzado\n- Caños de acero grueso\n- Cubierta antipolvo\n- Tela no tejida resistente\n- Estantes amplios + barra para colgar\n- Fácil de armar\n📐130×45×170 CM",  
+    "description": "Gran capacidad y diseño reforzado\n- Caños de acero grueso\n- Cubierta antipolvo\n- Tela no tejida resistente\n- Estantes amplios + barra para colgar\n- Fácil de armar\n📐130×45×170 CM",
     "imageUrl": "/images/armarioMultifuncionalPortatil3Cuerpos.jfif"
   },
   {
     "id": "361",
-    "name": "Reposera de aluminio fija",  
+    "name": "Reposera de aluminio fija",
     "listPrice": 18000,
     "price": 0,
     "category": "hogar",
-    "description": "Liviana, resistente y cómoda\nConstrucción firme, tejido durable y estructura de aluminio que no pesa nada",  
+    "description": "Liviana, resistente y cómoda\nConstrucción firme, tejido durable y estructura de aluminio que no pesa nada",
     "imageUrl": "/images/reposeraDeAluminioFija.jfif"
   },
   {
     "id": "362",
-    "name": "Freidora de aire Dinax digital 10L",  
+    "name": "Freidora de aire Dinax digital 10L",
     "listPrice": 86000,
     "price": 0,
     "category": "cocina",
-    "description": "Con visor frontal, panel táctil y cocción saludable SIN aceite\nPotente 1800W, gran capacidad 10 litros y preparada para todo\n¡ Rápida, práctica y moderna ",  
+    "description": "Con visor frontal, panel táctil y cocción saludable SIN aceite\nPotente 1800W, gran capacidad 10 litros y preparada para todo\n¡ Rápida, práctica y moderna ",
     "imageUrl": "/images/freidoraDeAireDinaxDigital10L.jfif"
   },
   {
     "id": "363",
-    "name": "Mesa plegable",  
+    "name": "Mesa plegable",
     "listPrice": 60000,
     "price": 0,
     "category": "hogar",
-    "description": "Práctica, resistente y fácil de llevar\nMedidas: 180 × 70 × 74 cm\nTablero de PVC de alta resistencia + estructura de acero\nSe pliega tipo maletín y la armás en segundos\nIdeal para camping, ferias, eventos o el jardín\nLa armás en segundos y no ocupa nada !💣",  
+    "description": "Práctica, resistente y fácil de llevar\nMedidas: 180 × 70 × 74 cm\nTablero de PVC de alta resistencia + estructura de acero\nSe pliega tipo maletín y la armás en segundos\nIdeal para camping, ferias, eventos o el jardín\nLa armás en segundos y no ocupa nada !💣",
     "imageUrl": "/images/mesaPlegable.jfif"
   },
   {
     "id": "307",
-    "name": "Perchero organizador multifuncional",  
+    "name": "Perchero organizador multifuncional",
     "listPrice": 18900,
     "price": 0,
     "category": "hogar",
-    "description": "Ideal para entrada, dormitorio o showroom\n✔️ Diseño 3 en 1: colgar, organizar y almacenar\nBarras metálicas reforzadas\n✔️ Estante inferior integrado, estructura metálica\n📐 172x80x26cm",  
+    "description": "Ideal para entrada, dormitorio o showroom\n✔️ Diseño 3 en 1: colgar, organizar y almacenar\nBarras metálicas reforzadas\n✔️ Estante inferior integrado, estructura metálica\n📐 172x80x26cm",
     "imageUrl": "/images/percheroOrganizadorMultifuncional.jfif"
   },
   {
     "id": "308",
-    "name": "Armario portatil 2 cuerpos",  
+    "name": "Armario portatil 2 cuerpos",
     "listPrice": 25000,
     "price": 0,
     "category": "hogar",
-    "description": "Práctico, liviano y con gran capacidad\n- Cubierta de tela duradera\n- Fácil de armar y desarmar\n-  Amplio espacio para ropa y cajas\n- Estructura de caños de acero + PP\n 📐105×45×170 CM\nodelo 88105",  
+    "description": "Práctico, liviano y con gran capacidad\n- Cubierta de tela duradera\n- Fácil de armar y desarmar\n-  Amplio espacio para ropa y cajas\n- Estructura de caños de acero + PP\n 📐105×45×170 CM\nodelo 88105",
     "imageUrl": "/images/armarioPortatil2Cuerpos.jfif"
   },
   {
@@ -3356,7 +3356,7 @@
     "description": "21 velocidades, freno a disco, llantas negro mate,manijas de freno de aluminio .",
     "imageUrl": "/images/bicicletaRodado29Azana.jfif"
   },
-  { 
+  {
     "id": "374",
     "name": "Reposera 8 posiciones MOOR",
     "listPrice": 27000,
@@ -3419,7 +3419,6 @@
     "description": "600 hilos - 2 1/2 Plazas\nCalidad premium, textura suave y sensación satinada\n🔥¡Oferta por tiempo limitado!\n📦 Packaging original\n🛏️ Tela con elástico en todo el contorno\n🎨 Colores disponibles: negro, blanco, gris oscuro, natural, tostado, naranja oscuro, rojo, verde musgo, turquesa",
     "imageUrl": "/images/sabanaAjustableBlancoParis.jfif"
   },
-  
   {
     "id": "382",
     "name": "Set de repasadores Tusor 6 unidades",
@@ -3529,12 +3528,21 @@
     "imageUrl": "/images/valijaDeArte145Piezas2Pisos.jfif"
   },
   {
+    "id": "381",
+    "name": "Mesa para niños con proyector",
+    "listPrice": 13900,
+    "price": 0,
+    "category": "infantil",
+    "description": "Mesa de dibujo con proyector incorporado, ideal para estimular la creatividad y la motricidad fina. Permite proyectar imágenes para calcar y colorear de forma simple y entretenida. Incluye accesorios para dibujo",
+    "imageUrl": "/images/mesaParaNinosConProyector.jfif"
+  },
+  {
     "id": "394",
     "name": "Yoystick play 4 camuflado",
     "listPrice": 17800,
     "price": 0,
     "category": "tecnologia",
-    "description": "Sin detalle",  
+    "description": "Sin detalle",
     "imageUrl": "/images/yoystickPlay4Camuflado.jfif"
   }
-] 
+]
