@@ -54,7 +54,6 @@ export const ItemDetail = ({detail}) => {
                 <button onClick={descargarComoJpg} className="download-btn">
                     Descargar imagen
                 </button>
-            
         </div>
     );
 };
