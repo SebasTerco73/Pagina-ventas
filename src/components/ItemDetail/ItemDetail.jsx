@@ -3,6 +3,7 @@ import { Item } from "../Item/Item";
 import "./ItemDetail.css";
 
 export const ItemDetail = ({detail}) => {
+    const esAdmin = localStorage.getItem("admin") === "true";
 
     const descargarComoJpg = async () => {
         const img = new Image();
@@ -34,7 +35,9 @@ export const ItemDetail = ({detail}) => {
         <div className="item-detail-container">
             <Item {...detail}>
                 <p>{detail.description}</p>
-                <p>Precio de lista: ${detail.listPrice}</p>
+                {esAdmin && (
+                    <p>Precio de lista: ${detail.listPrice}</p>
+                )}
             </Item>
 
             {/* Botón de volver */}

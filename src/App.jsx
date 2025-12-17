@@ -7,6 +7,7 @@ import { ItemDetailContainer } from './components/ItemDetailContainer/ItemDetail
 import { ProductProvider } from './context/ProductProvider'
 import { ScrollButtons } from "./components/ScrollButtons/ScrollButtons";
 import ScrollToTop from './components/ScrollToTop'
+import { AdminLogin } from './components/AdminLogin/AdminLogin'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
           <Route path='/' element={ <ItemListContainer/> }/>
           <Route path="/category/:categoryId" element={<ItemListContainer />} />
           <Route path='/detail/:id' element={<ItemDetailContainer/>}/>
+          <Route path="/admin" element={<AdminLogin />} />
         </Routes>
         {/* 👇 Colocá las flechas acá, así están disponibles en todas las rutas */}
         <ScrollButtons />
