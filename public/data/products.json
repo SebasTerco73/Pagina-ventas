@@ -3649,8 +3649,71 @@
     "name": "Ganchos para cortina de baño",
     "listPrice": 0,
     "price": 0,
-    "category": "Sin detalle",
-    "description": "",
+    "category": "hogar",
+    "description": "Sin detalle",
     "imageUrl": "/images/ganchosParaCortinaDeBaño.jfif"
+  },
+  {
+    "id": "407",
+    "name": "Canasto de ropa 3 en 1",
+    "listPrice": 14500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para separar la ropa por colores.\n Estructura liviana, fácil de armar y resistente\n📏 Medidas: 66,5 x 38 x 60 cm APROX\nPráctico, ocupa poco espacio y mantiene todo ordenado",
+    "imageUrl": "/images/canastoDeRopa3en1.jfif"
+  },
+  {
+    "id": "408",
+    "name": "Organizador multifuncion 2 niveles",
+    "listPrice": 12800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Compacta, resistente y fácil de mover. Ideal para cocina, baño, oficina o dormitorio.\n📏 Medidas: 43 x 34 x 23 cm\nOcupa poco espacio y mantiene todo siempre ordenado ✨",
+    "imageUrl": "/images/organizadorMultifuncion2Niveles.jfif"
+  },
+  {
+    "id": "409",
+    "name": "Linterna recargable P50",
+    "listPrice": 9900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente y resistente💥\n🔹 Luz súper potente\n🔹 Zoom regulable\n🔹 Alcance hasta 1000 m\n🔹 Batería recargable\n🔥 Ideal para camping, seguridad y uso diario",
+    "imageUrl": "/images/linternaRecargableP50.jfif"
+  },
+  {
+    "id": "410",
+    "name": "Organizador de baño 3 niveles",
+    "listPrice": 11400,
+    "price": 0,
+    "category": "hogar",
+    "description": "Práctico y resistente, ideal para productos de limpieza o baño\nInstalación sin perforar, soporta peso y resiste la humedad\nFabricado en PP + acero inoxidable, firme y estable\n📐 82cm alto x 30cm ancho\nPerfecto para optimizar espacio y mantener todo ordenado✨",
+    "imageUrl": "/images/organizadorDeBaño3Niveles.jfif"
+  },
+  {
+    "id": "411",
+    "name": "Auricular M25",
+    "listPrice": 7300,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Auriculares inalámbricos con Bluetooth 5.3, doble modo Game / Music, sonido HiFi y baja latencia para juegos sin delay.\nIncluyen pantalla LED en el estuche y sistema ENC para mejor calidad de audio",
+    "imageUrl": "/images/auricularM25.jfif"
+  },
+  {
+    "id": "412",
+    "name": "Sillon inflable doble",
+    "listPrice": 36900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Resistente y cómodo, con material reforzado, diseño respirable y sistema anti-vuelco\nIdeal para interior o exterior\n📏 Medidas: 135 × 62 × 84 cm",
+    "imageUrl": "/images/sillonInflableDoble.jfif"
+  },
+  {
+    "id": "413",
+    "name": "Set de 3 cajas organizadoras apilables",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Mantén todo ordenado y a la vista\n✔️ Transparente para fácil identificación\n✔️ Tapa hermética para proteger del polvo\n✔️ Apilables para ahorrar espacio\n📐 Medidas: 40x30x20 cm c/u",
+    "imageUrl": "/images/setDe3CajasOrganizadorasApilables.jfif"
   }
 ]
