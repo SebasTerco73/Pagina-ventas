@@ -3724,5 +3724,14 @@
     "category": "tecnologia",
     "description": "Compacto y súper práctico, limpia solo con doble disco giratorio para un resultado parejo y efectivo\n🔋 Batería recargable | 🤫 Bajo ruido | 🧠 Un solo botón\nIdeal para mantener tus pisos limpios sin esfuerzo . ¡ Lo prendés y listo ! ✨",
     "imageUrl": "/images/trapeadorDualInteligente.jfif"
+  },
+  {
+    "id": "415",
+    "name": "Set de organizadores para maleta",
+    "listPrice": 8900,
+    "price": 15000,
+    "category": "hogar",
+    "description": "Mantén todo ordenado y a la vista\n✔️ Transparente para fácil identificación\n✔️ Tapa hermética para proteger del polvo\n✔️ Apilables para ahorrar espacio\n📐 Medidas: 40x30x20 cm c/u",
+    "imageUrl": "/images/setDe3CajasOrganizadorasApilables.jfif"
   }
 ]
