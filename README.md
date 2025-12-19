@@ -10,6 +10,8 @@ Una aplicación web moderna de comercio electrónico desarrollada con React y Vi
 
 Elektro Ventas es el proyecto final del curso de React en Talento Tech. Es una plataforma de ventas en línea que ofrece una experiencia de usuario fluida y moderna. El proyecto está construido con las últimas tecnologías de desarrollo web frontend.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/36d69c11-5842-43cb-8de9-606aad1a1f81" />
+
 ## 🚀 Demo
 
 Visita la aplicación en vivo: [https://elektro-ventas.vercel.app](https://elektro-ventas.vercel.app)
