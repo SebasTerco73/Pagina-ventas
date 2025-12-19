@@ -2658,7 +2658,7 @@
     "id": "297",
     "name": "Plancha Liliana",
     "listPrice": 23800,
-    "price": 35000,
+    "price": 33000,
     "category": "hogar",
     "description": "Plancha seca ALIZZA",
     "imageUrl": "/images/planchaLiliana.jfif"
@@ -2846,8 +2846,8 @@
   {
     "id": "320",
     "name": "Bata secado rápido talle XL",
-    "listPrice": 0,
-    "price": 0,
+    "listPrice": 32400,
+    "price": 42400,
     "category": "hogar",
     "description": "Verde agua",
     "imageUrl": "/images/bataSecadoRapidoTalleXL.jfif"
@@ -3727,11 +3727,110 @@
   },
   {
     "id": "415",
-    "name": "Set de organizadores para maleta",
-    "listPrice": 8900,
-    "price": 15000,
+    "name": "Bicicleta playera Corvo R27",
+    "listPrice": 174900,
+    "price": 0,
     "category": "hogar",
-    "description": "Mantén todo ordenado y a la vista\n✔️ Transparente para fácil identificación\n✔️ Tapa hermética para proteger del polvo\n✔️ Apilables para ahorrar espacio\n📐 Medidas: 40x30x20 cm c/u",
-    "imageUrl": "/images/setDe3CajasOrganizadorasApilables.jfif"
+    "description": "Diseño playero clásico, súper liviana y confortable para el uso diario\nManubrio alto y asiento amplio para una postura relajada y suave al andar\n🎨 Colores disponibles: Verde, Negro y Rojo",
+    "imageUrl": "/images/bicicletaPlayeraCorvoR27.jfif"
+  },
+  {
+    "id": "416",
+    "name": "Carrito de compras reforzado",
+    "listPrice": 13500,
+    "price": 0,
+    "category": "hogar",
+    "description": "El infaltable para tus compras\nCargá TODO sin esfuerzo: regalos, bebidas, comida\n💪 Súper resistente • liviano • cómodo\n🛞 Ruedas firmes y bolsa amplia",
+    "imageUrl": "/images/carritoDeComprasReforzado.jfif"
+  },
+  {
+    "id": "417",
+    "name": "Desmalezadora Konan Profesional",
+    "listPrice": 103700,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente y confiable para trabajos exigentes. Motor 2 tiempos de alto rendimiento, ideal para maleza dura y uso intensivo\nCuenta con tanque de 1200 ml, arranque manual fácil y doble eje para mayor estabilidad\nIncluye cuchilla 3T, cabezal de nylon, arnés de seguridad, bidón para mezcla y kit de herramientas",
+    "imageUrl": "/images/desmalezadoraKonanProfesional.jfif"
+  },
+  {
+    "id": "418",
+    "name": "Rack para zapatos plegable 4 niveles",
+    "listPrice": 5900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideal para dormitorio, vestidor o entrada\nFácil de armar y súper práctico\n📏 Medidas: 49,5 cm alto x 42cm ancho",
+    "imageUrl": "/images/rackParaZapatosPlegable4Niveles.jfif"
+  },
+  {
+    "id": "419",
+    "name": "Tender retráctil",
+    "listPrice": 9900,
+    "price": 0,
+    "category": "hogar",
+    "description": "- Se estira y retrae automáticamente\n- 4 cuerdas de 3,2 m (gran capacidad de colgado)\n- Ideal para baño, lavadero o balcón\n- Práctico, resistente y fácil de instalar",
+    "imageUrl": "/images/tenderRetractil.jfif"
+  },
+  {
+    "id": "420",
+    "name": "Tender de soga extendible",
+    "listPrice": 12500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Retráctil y ahorra espacio\nUso interior y exterior\nResistente y fácil de instalar\n📏 Largo del cable: hasta 12 metros de secado\n📦 Incluye: soporte + tornillos de instalación",
+    "imageUrl": "/images/tenderDeSogaExtendible.jfif"
+  },
+  {
+    "id": "421",
+    "name": "Linterna portatil solar",
+    "listPrice": 9200,
+    "price": 0,
+    "category": "hogar",
+    "description": "☀️ Lámpara solar portátiln\n🔌Carga por USB\n🔘 3 modos de luz",
+    "imageUrl": "/images/linternaPortatilSolar.jfif"
+  },
+  {
+    "id": "422",
+    "name": "Parlante inalambrico Dinax 3x8",
+    "listPrice": 115000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "💣 2500W PMPO de pura potencia sonora\n🎶 Triple woofer de 8” — sonido fuerte y nítido\n💡 Luces LED multicolor al ritmo de la música\n🎧 Bluetooth / USB / SD / FM / Control remoto\n🔋 Batería recargable – listo para moverse con vos",
+    "imageUrl": "/images/parlanteInalambricoDinax3x8.jfif"
+  },
+  {
+    "id": "423",
+    "name": "Torre de sonido parlante Suono",
+    "listPrice": 215000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": " 2 X 10 LUZ RGB 14.500 W\n* Bluetooth: Conectividad inalámbrica\nTWS (True Wireless Stereo): Permite conectar dos parlantes idénticos de forma inalámbrica para duplicar la potencia\nAlimentación: Funciona directamente conectada a 220V, no incluye batería recargable",
+    "imageUrl": "/images/torreDeSonidoParlanteSuono.jfif"
+  },
+  {
+    "id": "424",
+    "name": "Bicicleta infantil R12",
+    "listPrice": 60000,
+    "price": 0,
+    "category": "hogar",
+    "description": "¡ La más buscada para los más peques!\n✨ Súper resistente\n✨ Diseño colorido que enamora\n✨ Ideal para aprender y divertirse",
+    "imageUrl": "/images/bicicletaInfantilR12.jfif"
+  },
+  {
+    "id": "425",
+    "name": "Sandwichera Liliana",
+    "listPrice": 18500,
+    "price": 28500,
+    "category": "cocina",
+    "description": "Superficie antiadherente\nControl automatico de temperatura",
+    "imageUrl": "/images/sandwicheraLiliana.jfif"
+  },
+  {
+    "id": "426",
+    "name": "Protector de colchon 2 1/2 plazas",
+    "listPrice": 24500,
+    "price": 35000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/protectorDeColchon2y1_2Plazas.jfif"
   }
 ]

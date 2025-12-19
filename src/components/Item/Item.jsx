@@ -17,7 +17,9 @@ export const Item = ({ name, price, description, imageUrl, children }) => {
                 }}
                 className="item-img" />
             <h2 className="product-title">{name}</h2>
-            <p className="product-price">$ {price}</p>
+            <p className="product-price">
+                {price > 0 ? `$ ${price}` : "Consultar precio"}
+            </p>
             {children && <div className="item-actions">{children}</div>}
         </div>
     </article>;
