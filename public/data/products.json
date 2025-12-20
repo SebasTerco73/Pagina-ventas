@@ -3832,5 +3832,59 @@
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/protectorDeColchon2y1_2Plazas.jfif"
+  },
+  {
+    "id": "427",
+    "name": "Ventilador turbo Liliana",
+    "listPrice": 31500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente y compacto, 35W\n- 2 velocidades\n- Cabezal reclinable\n- Piso / mesa o pared",
+    "imageUrl": "/images/ventiladorTurboLiliana.jfif"
+  },
+  {
+    "id": "428",
+    "name": "Bicicleta Vex aluminio R20 Niño/a",
+    "listPrice": 184999,
+    "price": 0,
+    "category": "infantil",
+    "description": "Cuadro de aluminio liviano y reforzado\nCuenta con ruedas de 48 rayos que brindan mayor estabilidad y durabilidad en cada recorrido\nIncorpora guardabarros plásticos tipo aleta, pensados para proteger de salpicaduras y mejorar la experiencia de uso",
+    "imageUrl": "/images/bicicletaVexAluminioR20Ninioa.jfif"
+  },
+  {
+    "id": "429",
+    "name": "Triciclo guiado bebesit",
+    "listPrice": 64999,
+    "price": 0,
+    "category": "infantil",
+    "description": "- Cuadro de acero reforzado\n- Manija de empuje direccional y desmontable\n- Cinturón de seguridad\n- Canastos delantero y trasero\n🎨 Rojo · Verde · Rosa",
+    "imageUrl": "/images/tricicloGuiadoBebesit.jfif"
+  },
+  {
+    "id": "430",
+    "name": "Bicicleta Vex aluminio R16 Niño/a",
+    "listPrice": 179999,
+    "price": 0,
+    "category": "infantil",
+    "description": "- Cuadro de aluminio liviano y reforzado\n- Componentes de primer nivel\n- Ideal para uso diario, súper resistente y cómoda",   
+    "imageUrl": "/images/bicicletaVexAluminioR16Ninioa.jfif"
+  },
+  {
+    "id": "431",
+    "name": "Alfombras Shaggy combo navideño x6",
+    "listPrice": 23400,
+    "price": 0,
+    "category": "hogar",
+    "description": "3900 c/u llevando 6\n✔ Antideslizantes\n✔ Calidad premium\n✔ Amplia variedad de colores",   
+    "imageUrl": "/images/alfombrasShaggyComboNavidenoX6.jfif"
+  },
+  {
+    "id": "432",
+    "name": "Caminos de mesa Tusor Blanco Paris",
+    "listPrice": 0,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ideales para decorar tu mesa en estas fiestas\nBeige - Gris - Verde\n1,5 mts\n2 mts\n2,5 mts",
+    "imageUrl": "/images/caminosDeMesaTusorBlancoParis.jfif"
   }
 ]
