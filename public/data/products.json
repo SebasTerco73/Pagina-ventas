@@ -3886,5 +3886,32 @@
     "category": "hogar",
     "description": "Ideales para decorar tu mesa en estas fiestas\nBeige - Gris - Verde\n1,5 mts\n2 mts\n2,5 mts",
     "imageUrl": "/images/caminosDeMesaTusorBlancoParis.jfif"
+  },
+  {
+    "id": "433",
+    "name": "Compresor de aire digital",
+    "listPrice": 25500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Inflá tus ruedas en minutos y sin esfuerzo . Pantalla digital con medición precisa, apagado automático y luz LED incorporada para emergencias\nIdeal para autos, motos, bicicletas y más. Compacto, práctico y listo para llevar siempre en el vehículo",
+    "imageUrl": "/images/compresorDeAireDigital.jfif"
+  },
+  {
+    "id": "434",
+    "name": "Ventilador Liliana 20'' con control remoto",
+    "listPrice": 82900,
+    "price": 99000,
+    "category": "hogar",
+    "description": "🎛️ 3 velocidades, 5 aspas\n🔄 altura regulable hasta 1.70m\n📲 Comando digital + Control remoto\n⏱️ Timer programable hasta 7,5 hs\n🌬️ Modos Brisa y Sleep",
+    "imageUrl": "/images/ventiladorLiliana20ConControlRemoto.jfif"
+  },
+  {
+    "id": "435",
+    "name": "Set de cuchillos x5 piezas Kunsion",
+    "listPrice": 14900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Incluye cuchillos, tijera y pelador\nDiseño moderno, mangos símil madera y corte preciso",
+    "imageUrl": "/images/setDeCuchillosx5PiezasKunsion.jfif"
   }
 ]
