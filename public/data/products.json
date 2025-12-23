@@ -3323,7 +3323,7 @@
   {
     "id": "371",
     "name": "Ventilador Tower 20'' Metal",
-    "listPrice": 42000,
+    "listPrice": 57000,
     "price": 0,
     "category": "hogar",
     "description": "🚀 Potencia + caudal + resistencia\n✔️ Aspas metálicas 20”\n✔️ Motor reforzado\n✔️ Altura regulable\n✔️ Base pesada súper estable",
@@ -3913,5 +3913,113 @@
     "category": "cocina",
     "description": "Incluye cuchillos, tijera y pelador\nDiseño moderno, mangos símil madera y corte preciso",
     "imageUrl": "/images/setDeCuchillosx5PiezasKunsion.jfif"
+  },
+  {
+    "id": "436",
+    "name": "Turboventilador Liliana 16'' reclinable",
+    "listPrice": 38900,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔥 Potente y silencioso\n6 aspas • 3 velocidades • Cabezal reclinable\nPiso o pared — ¡rendimiento asegurado! 💨💣",
+    "imageUrl": "/images/turboventiladorLiliana16Reclinable.jfif"
+  },
+  {
+    "id": "437",
+    "name": "Escalera Omaha 4x4",
+    "listPrice": 136500,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Súper resistente, versátil y segura para uso profesional o del hogar\n* 4x4 posiciones\n* Altura extendida: 4,7 mts\n* Plegada: 123,5 cm\n* Peso: 15 kg",
+    "imageUrl": "/images/escaleraOmaha4x4.jfif"
+  },
+  {
+    "id": "438",
+    "name": "Caja de herramientas 108 piezas Dinax",
+    "listPrice": 52000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Juego de tubos completo en CR-V, súper resistente y listo para todo trabajo\nIncluye puntas, tubos, extensiones y trinquete rápido .\n¡ Ideal para mecánica y uso diario ! ",
+    "imageUrl": "/images/cajaDeHerramientas108PiezasDinax.jfif"
+  },
+  {
+    "id": "439",
+    "name": "Set de ollas Tramontina 12 PCZ",
+    "listPrice": 110000,
+    "price": 0,
+    "category": "cocina",
+    "description": "El set de 12 piezas es un completo y versátil conjunto para tu cocina! Con materiales durareros y antihaderentes que facilitan la cocción y limpieza",
+    "imageUrl": "/images/setDeOllasTramontina12PCZ.jfif"
+  },
+  {
+    "id": "440",
+    "name": "Set de sartenes Tramontina 3 PCZ",
+    "listPrice": 45000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Set de 3 sartenes antiadherentes de aluminio con revestimiento interno y externo Starflon Max, que facilita la cocción y limpieza. Mangos ergonómicos y resistentes al calor",
+    "imageUrl": "/images/setDeSartenesTramontina3PCZ.jfif"
+  },
+  {
+    "id": "441",
+    "name": "Teclado y mouse",
+    "listPrice": 10100,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "TOTO",
+    "imageUrl": "/images/tecladoYMouse.jfif"
+  },
+  {
+    "id": "442",
+    "name": "Auriculares Bluetooth",
+    "listPrice": 8850,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "TOTO",
+    "imageUrl": "/images/auricularesBluetooth.jfif"
+  },
+  {
+    "id": "443",
+    "name": "Auriculares Labubu",
+    "listPrice": 15990,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "TOTO",
+    "imageUrl": "/images/auricularesLabubu.jfif"
+  },
+  {
+    "id": "444",
+    "name": "Monopatin Pirueta",
+    "listPrice": 56700,
+    "price": 0,
+    "category": "infantil",
+    "description": "TOTO",
+    "imageUrl": "/images/monopatinPirueta.jfif"
+  },
+  {
+    "id": "445",
+    "name": "Monopatin Freno de disco",
+    "listPrice": 77700,
+    "price": 0,
+    "category": "infantil",
+    "description": "TOTO",
+    "imageUrl": "/images/monopatinFrenoDeDisco.jfif"
+  },
+  {
+    "id": "446",
+    "name": "Termo acero inoxidable 2L",
+    "listPrice": 31000,
+    "price": 0,
+    "category": "cocina",
+    "description": "TOTO",
+    "imageUrl": "/images/termoAceroInoxidable2L.jfif"
+  },
+  {
+    "id": "447",
+    "name": "Ajustable Galant 1 1/2 Plaza",
+    "listPrice": 18000,
+    "price": 0,
+    "category": "hogar",
+    "description": "144hilos 55% Poliester 45% Algodón Percal, Para Colchón de 90x190x30cm de Alto",
+    "imageUrl": "/images/ajustableGalant1_2Plaza.jfif"
   }
 ]
