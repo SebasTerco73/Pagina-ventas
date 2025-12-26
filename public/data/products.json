@@ -4021,5 +4021,86 @@
     "category": "hogar",
     "description": "144hilos 55% Poliester 45% Algodón Percal, Para Colchón de 90x190x30cm de Alto",
     "imageUrl": "/images/ajustableGalant1_2Plaza.jfif"
+  },
+  {
+    "id": "448",
+    "name": "Ventilador Startrak 20'' Metal",
+    "listPrice": 42000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Potente, resistente y 3 en 1. Ideal para cualquier ambiente\n* Motor 120W\n* 3 niveles de potencia\n* Aspas metálicas\n* Pie / Turbo / Pared",
+    "imageUrl": "/images/ventiladorStartrak20Metal.jfif"
+  },
+  {
+    "id": "449",
+    "name": "Almacenamiento de maquillaje",
+    "listPrice": 28350,
+    "price": 0,
+    "category": "TOTO",
+    "description": "Sin detalle",
+    "imageUrl": "/images/almacenamientoDeMaquillaje.jfif"
+  },
+  {
+    "id": "450",
+    "name": "Lampara mata mosquitos OM",
+    "listPrice": 7900,
+    "price": 0,
+    "category": "hogar",
+    "description": "TOTO",
+    "imageUrl": "/images/lamparaMataMosquitos.jfif"
+  },
+  {
+    "id": "451",
+    "name": "Pista de auto con lanzador y autos",
+    "listPrice": 27500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Pista flexible con luces que brillan en la oscuridad\n🔄 Loop 360° para acrobacias increíbles\n🧩 Armado fácil – sistema encastre rápido\n✨ Estimula la creatividad y la imaginación",
+    "imageUrl": "/images/pistaDeAutoConLanzadorYAutos.jfif"
+  },
+  {
+    "id": "452",
+    "name": "Barra de sonido",
+    "listPrice": 15200,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "TOTO",
+    "imageUrl": "/images/barraDeSonido.jfif"
+  },
+  {
+    "id": "453",
+    "name": "Depiladora para mujer",
+    "listPrice": 15750,
+    "price": 0,
+    "category": "hogar",
+    "description": "TOTO",
+    "imageUrl": "/images/depiladoraParaMujer.jfif"
+  },
+  {
+    "id": "454",
+    "name": "Lampara Astronauta",
+    "listPrice": 33200,
+    "price": 0,
+    "category": "infantil",
+    "description": "TOTO",
+    "imageUrl": "/images/lamparaAstronauta.jfif"
+  },
+  {
+    "id": "455",
+    "name": "Termo acero inoxidable 1L",
+    "listPrice": 25200,
+    "price": 0,
+    "category": "cocina",
+    "description": "TOTO",
+    "imageUrl": "/images/termoAceroInoxidable1L.jfif"
+  },
+  {
+    "id": "456",
+    "name": "Plumones Torch doble punta 1680",
+    "listPrice": 42500,
+    "price": 0,
+    "category": "hogar",
+    "description": "TOTO",
+    "imageUrl": "/images/plumonesTorchDoblePunta1680.jfif"
   }
 ]
