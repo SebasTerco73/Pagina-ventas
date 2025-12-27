@@ -1333,7 +1333,7 @@
   },
   {
     "id": "152",
-    "name": "Set de cubierto Barrichelo",
+    "name": "Set de cubiertos Barrichelo",
     "listPrice": 8400,
     "price": 15000,
     "category": "cocina",
@@ -4102,5 +4102,77 @@
     "category": "hogar",
     "description": "TOTO",
     "imageUrl": "/images/plumonesTorchDoblePunta1680.jfif"
+  },
+  {
+    "id": "457",
+    "name": "Triciclo guiador Bebesit con paragua",
+    "listPrice": 94900,
+    "price": 0,
+    "category": "hogar",
+    "description": "💥 Máxima comodidad y seguridad\n🔄 Asiento giratorio 360°\n🧢 Capota rebatible\nBarral de seguridad\n🧺 2 canastos + luces\n👶 Hasta 25 kg",
+    "imageUrl": "/images/tricicloGuiadorBebesitConParagua.jfif"
+  },
+  {
+    "id": "458",
+    "name": "Metralladora burbujera bubble rocket",
+    "listPrice": 11900,
+    "price": 0,
+    "category": "infantil",
+    "description": "🫧 Lanza cientos de burbujas al instante\n🔫 Diseño tipo bazooka\n⚡ Funcionamiento automático\n🎉 Ideal para fiestas y juegos al aire libre",
+    "imageUrl": "/images/metralladoraBurbujeraBubbleRocket.jfif"
+  },
+  {
+    "id": "459",
+    "name": "Play Station 5 Digital",
+    "listPrice": 868000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Sin detalle",
+    "imageUrl": "/images/playStation5Digital.jfif"
+  },
+  {
+    "id": "460",
+    "name": "Monopatin doble asiento",
+    "listPrice": 20000,
+    "price": 0,
+    "category": "infantil",
+    "description": "SÚPER REFORZADO para máxima diversión y seguridad\nSoporta hasta 50 kg\n✨ Luces en las ruedas\n👶 Edad aprox. 2 a 4 años",
+    "imageUrl": "/images/monopatinDobleAsiento.jfif"
+  },
+  {
+    "id": "461",
+    "name": "Monopatin reforzado con luz",
+    "listPrice": 16500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Ideal para que los más chicos se diviertan sin parar\n✨ Ruedas con luz LED\n Base flexible y resistente\n🎨 variedad de colores y modelos",
+    "imageUrl": "/images/monopatinReforzadoConLuz.jfif"
+  },
+  {
+    "id": "462",
+    "name": "Jarra térmica 1L",
+    "listPrice": 15500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Elegí diseño y elegancia para tu mesa.\nMantiene tus bebidas calientes o frías por horas\nPráctico sistema de botón vertedor, sin derrames y sin perder temperatura\nDisponible en varios colores",
+    "imageUrl": "/images/jarraTermica1L.jfif"
+  },
+  {
+    "id": "463",
+    "name": "Pimentero electrico",
+    "listPrice": 9900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Elegante, práctico y automático. Ideal para pimienta, sal gruesa y especias\n✔ Molido parejo para potenciar el sabor de tus comidas\n✔ Perfecto para mesa, cocina y restaurantes",
+    "imageUrl": "/images/pimenteroElectrico.jfif"
+  },
+  {
+    "id": "464",
+    "name": "Ventilador industrial Liliana 32''",
+    "listPrice": 189900,
+    "price": 0,
+    "category": "cocina",
+    "description": "De pie - 280 W\nCabezal oscilante y reclinable\nParrilla metalica negra\nPalas tipo avion de 2 aspas",
+    "imageUrl": "/images/ventiladorIndustrialLiliana32.jfif"
   }
 ]
