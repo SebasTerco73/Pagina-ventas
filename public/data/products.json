@@ -3171,7 +3171,7 @@
     "id": "356",
     "name": "Dispensador giratorio de alimentos",
     "listPrice": 30000,
-    "price": 0,
+    "price": 37000,
     "category": "cocina",
     "description": "6 compartimientos, rotacion 360°\nBandeja extraible\ntapa hermetica para mantener el grano fresco",
     "imageUrl": "/images/dispensadorGiratorioDeAlimentos.jfif"
@@ -3906,15 +3906,6 @@
     "imageUrl": "/images/ventiladorLiliana20ConControlRemoto.jfif"
   },
   {
-    "id": "435",
-    "name": "Set de cuchillos x5 piezas Kunsion",
-    "listPrice": 14900,
-    "price": 0,
-    "category": "cocina",
-    "description": "Incluye cuchillos, tijera y pelador\nDiseño moderno, mangos símil madera y corte preciso",
-    "imageUrl": "/images/setDeCuchillosx5PiezasKunsion.jfif"
-  },
-  {
     "id": "436",
     "name": "Turboventilador Liliana 16'' reclinable",
     "listPrice": 38900,
@@ -4174,5 +4165,32 @@
     "category": "cocina",
     "description": "De pie - 280 W\nCabezal oscilante y reclinable\nParrilla metalica negra\nPalas tipo avion de 2 aspas",
     "imageUrl": "/images/ventiladorIndustrialLiliana32.jfif"
+  },
+  {
+    "id": "465",
+    "name": "Set de cuchillos x3 para parrilla",
+    "listPrice": 9800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Ideal para parrilla y asado🥩\nIncluye pinza, cuchillo y tenedor, con mangos de madera\nViene en estuche con cierre, práctico para llevar y guardar",
+    "imageUrl": "/images/setDeCuchillosx3ParaParrilla.jfif"
+  },
+  {
+    "id": "466",
+    "name": "Set parrillero 5 piezas + estuche",
+    "listPrice": 17499,
+    "price": 0,
+    "category": "cocina",
+    "description": "Kit Asador\nAcero Inox refor + Estuche",
+    "imageUrl": "/images/setParrillero5PiezasEstuche.jfif"
+  },
+  {
+    "id": "467",
+    "name": "Set de cuchillos x6 mango madera",
+    "listPrice": 14500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Súper filosos y resistentes\nMangos ergonómicos efecto madera\n🥩 Ideales para carne, verduras y uso diario",
+    "imageUrl": "/images/setDe6CuchillosMangoMadera.jfif"
   }
 ]
