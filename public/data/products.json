@@ -4192,5 +4192,32 @@
     "category": "cocina",
     "description": "Súper filosos y resistentes\nMangos ergonómicos efecto madera\n🥩 Ideales para carne, verduras y uso diario",
     "imageUrl": "/images/setDe6CuchillosMangoMadera.jfif"
+  },
+  {
+    "id": "468",
+    "name": "Pava electrica Dinax 1.8L con corte ",
+    "listPrice": 13800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Acero inoxidable, rápida y lista para el mate de todos los días\n💨 1500W – Hierve en minutos\n🛑 Corte mate automático",
+    "imageUrl": "/images/pavaElectricaDinaxConCorte.jfif"
+  },
+  {
+    "id": "469",
+    "name": "Pava hervidora Brilia 2Lts",
+    "listPrice": 10499,
+    "price": 0,
+    "category": "cocina",
+    "description": "Jarra eléctrica con pico y cuerpo de acero inoxidable .\n Base con control de temperatura .\n Mango antideslizante.\n Potencia de 1850/2200W",
+    "imageUrl": "/images/pavaHervidoraBrilia2Lts.jfif"
+  },
+  {
+    "id": "470",
+    "name": "Licuadora Peabody Roja y blanca",
+    "listPrice": 56900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Potencia y rendimiento para tus licuados, jugos y salsas en segundos\n- Motor 600W\n- 5 velocidades + Pulse\n- Cuchillas de acero inoxidable\n- Jarra plástica 1.5L",
+    "imageUrl": "/images/licuadoraPeabodyRojaBlanca.jfif"
   }
 ]
