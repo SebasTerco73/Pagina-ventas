@@ -3200,7 +3200,7 @@
     "listPrice": 7800,
     "price": 0,
     "category": "cocina",
-    "description": "Incluye 3 cuchillas de acero inoxidable: fina, gruesa y para rodajas\nIdeal para rallar verduras, queso, papas, pepinos y más en segundos\nBase con succión para que no se mueva y uso súper seguro",
+    "description": "Incluye 3 cuchillas de acero inoxidable: fina, gruesa y para rodajas\nIdeal para rallar verduras, queso, papas, pepinos y más en segundos\nBase con succión para que no se mueva y uso súper seguro\nVerde o Rosa",
     "imageUrl": "/images/ralladorManualMultiuso.jfif"
   },
   {
@@ -4219,5 +4219,77 @@
     "category": "cocina",
     "description": "Potencia y rendimiento para tus licuados, jugos y salsas en segundos\n- Motor 600W\n- 5 velocidades + Pulse\n- Cuchillas de acero inoxidable\n- Jarra plástica 1.5L",
     "imageUrl": "/images/licuadoraPeabodyRojaBlanca.jfif"
+  },
+  {
+    "id": "471",
+    "name": "Sandwichera Liliana Mastertost",
+    "listPrice": 26900,
+    "price": 0,
+    "category": "cocina",
+    "description": "🔥 Placas EXTRA grandes + antiadherentes\nAcero inoxidable • Luz indicadora • Cierre seguro\n¡ Para todo tipo de pan y tostados bien crujientes !🧀🥪💣",
+    "imageUrl": "/images/sandwicheraLilianaMastertost.jfif"
+  },
+  {
+    "id": "472",
+    "name": "Parlante 15'' Dinax",
+    "listPrice": 105000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": " Batería litio 🔋 \nControl remoto 🕹️ \nIncluye micrófono con cable micrófono 🎙️ \nPotencia de 1500W 💣",
+    "imageUrl": "/images/parlante15Dinax.jfif"
+  },
+  {
+    "id": "473",
+    "name": "Burbujero/Bubu",
+    "listPrice": 10000,
+    "price": 0,
+    "category": "infantil",
+    "description": "🐹 Diseño tierno y llamativo\n✨ Luces + burbujas automáticas\n🔄 Cabezal giratorio 180°",
+    "imageUrl": "/images/burbujeroBubu.jfif"
+  },
+  {
+    "id": "474",
+    "name": "Parlante camioneta",
+    "listPrice": 19500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Sonido potente 8W, conexión inalámbrica, USB/TF/AUX, 10m de alcance y batería 1200mAh\n🚗 Diseño en forma de auto, súper llamativo y práctico",
+    "imageUrl": "/images/parlanteCamioneta.jfif"
+  },
+  {
+    "id": "475",
+    "name": "Set de camaras de seguridad x4 full hd",
+    "listPrice": 120000,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "💡Mirá en vivo desde cualquier lugar y guardá todo en el DVR\nINCLUYE:\n4 cámaras AHD Full HD 1080P\nDVR grabador + visión múltiple\nMonitoreo remoto por app",
+    "imageUrl": "/images/setDeCamarasDeSeguridadX4FullHD.jfif"
+  },
+  {
+    "id": "476",
+    "name": "Proyector game 2 en 1 mas juegos",
+    "listPrice": 72800,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "proyector + 2 joysticks inalámbricos + control remoto\nMirá Netflix, YouTube, Prime Video, HBO Max y Spotify directamente desde el equipo 📺\nY además, jugá con los juegos integrados ¡ideal para chicos y grandes ! 🕹🔥",
+    "imageUrl": "/images/proyectorGame2en1MasJuegos.jfif"
+  },
+  {
+    "id": "477",
+    "name": "Soporte movil 14'' a 55''",
+    "listPrice": 7800,
+    "price": 0,
+    "category": "hogar",
+    "description": "🔄 Giro | Inclinación | Extensión\n💪 Soporta hasta 50 kg",
+    "imageUrl": "/images/soporteMovil14a55.jfif"
+  },
+  {
+    "id": "478",
+    "name": "Soporte fijo 26'' a 63''",
+    "listPrice": 4300,
+    "price": 0,
+    "category": "hogar",
+    "description": "✔️ LED / LCD / PDP\n✔️ Sistema VESA + tornillería",
+    "imageUrl": "/images/soporteFijo26a63.jfif"
   }
 ]
