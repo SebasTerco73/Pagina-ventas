@@ -4291,5 +4291,23 @@
     "category": "hogar",
     "description": "✔️ LED / LCD / PDP\n✔️ Sistema VESA + tornillería",
     "imageUrl": "/images/soporteFijo26a63.jfif"
+  },
+  {
+    "id": "479",
+    "name": "Aspiradora inalambrica Dinx",
+    "listPrice": 17900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ligera, potente y práctica para el hogar 🌪️✨\n- Alta succión\n- Diseño compacto\n- Carga por USB\nIdeal para autos, rincones y limpieza diaria💥🏠",
+    "imageUrl": "/images/aspiradoraInalambricaDinx.jfif"
+  },
+  {
+    "id": "480",
+    "name": "Luz de emer",
+    "listPrice": 12500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Compacta, resistente y fácil de mover. Ideal para cocina, baño, oficina o dormitorio.\n📏 Medidas: 43 x 34 x 23 cm\nOcupa poco espacio y mantiene todo siempre ordenado ✨",
+    "imageUrl": "/images/organizadorMultifuncion2Niveles.jfif"
   }
 ]
