@@ -3323,7 +3323,7 @@
   {
     "id": "371",
     "name": "Ventilador Tower 20'' Metal",
-    "listPrice": 57000,
+    "listPrice": 42000,
     "price": 0,
     "category": "hogar",
     "description": "🚀 Potencia + caudal + resistencia\n✔️ Aspas metálicas 20”\n✔️ Motor reforzado\n✔️ Altura regulable\n✔️ Base pesada súper estable",
@@ -4300,5 +4300,122 @@
     "category": "hogar",
     "description": "Ligera, potente y práctica para el hogar 🌪️✨\n- Alta succión\n- Diseño compacto\n- Carga por USB\nIdeal para autos, rincones y limpieza diaria💥🏠",
     "imageUrl": "/images/aspiradoraInalambricaDinx.jfif"
+  },
+  {
+    "id": "480",
+    "name": "Reposera de niños con sombrilla",
+    "listPrice": 27500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Ideal para playa, pileta o patio. Súper liviana, cómoda y con diseños divertidos para los más peques\n✨ Práctica, resistente y fácil de transportar",
+    "imageUrl": "/images/reposeraDeNinosConSombrilla.jfif"
+  },
+  {
+    "id": "481",
+    "name": "Hidrolavadora Gama Pro Wash 2000L",
+    "listPrice": 125000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Hidrolavadora de alta presión, ideal para limpiar vehículos, máquinas, paredes ,pisos etc.\n Potencia de 1700 W. Y una presion máxima de 140 bar. Lo que permite una limpieza eficiente y eficaz 🙌🏾",
+    "imageUrl": "/images/hidrolavadoraGamaProWash2000L.jfif"
+  },
+  {
+    "id": "482",
+    "name": "Ventilador industrial Liliana 27''",
+    "listPrice": 169900,
+    "price": 0,
+    "category": "hogar",
+    "description": "✔️ Uso piso o pared\n✔️ Palas metálicas tipo avión\n✔️ Parrilla metálica\n✔️ 3 velocidades",
+    "imageUrl": "/images/ventiladorIndustrialLiliana27.jfif"
+  },
+  {
+    "id": "483",
+    "name": "Secador de pelo DFO 650W",
+    "listPrice": 8000,
+    "price": 0,
+    "category": "hogar",
+    "description": "💨 Secado rápido.\n🔥 Reduce el frizz y mantiene la hidratación del cabello\nIdeal para un look prolijo todos los días💁‍♀️",
+    "imageUrl": "/images/secadorDePeloDFO650W.jfif"
+  },
+  {
+    "id": "484",
+    "name": "Bidon termico 1.5L",
+    "listPrice": 15900,
+    "price": 0,
+    "category": "cocina",
+    "description": "fabricado en acero inoxidable, mantiene tus bebidas calientes o frias por 24hs\nresistente liviano y fácil de limpiar",
+    "imageUrl": "/images/bidonTermico1.5L.jfif"
+  },
+  {
+    "id": "485",
+    "name": "Bidon termico 1.9L",
+    "listPrice": 17800,
+    "price": 0,
+    "category": "cocina",
+    "description": "Gran capacidad de 1.9L\nApto frio y calor\nacero inoxidable",
+    "imageUrl": "/images/bidonTermico1.9L.jfif"
+  },
+  {
+    "id": "486",
+    "name": "Smartwatch T-Watch X Max - 7 Mallas",
+    "listPrice": 13200,
+    "price": 0,
+    "category": "hogar",
+    "description": "Reloj inteligente moderno y completo, compatible con Android y iOS\n✨ Pantalla 2.09” Infinite Display\n🔋 Batería recargable\n📱 Notificaciones y apps\n🖤 Incluye 7 correas intercambiables",
+    "imageUrl": "/images/smartwatchTWatchXMax7Mallas.jfif"
+  },
+  {
+    "id": "487",
+    "name": "Mopa con balde vertical",
+    "listPrice": 14700,
+    "price": 0,
+    "category": "hogar",
+    "description": "Limpiá sin mojarte las manos. Sistema práctico con tanque integrado, ideal para pisos húmedos o secos\nFácil de usar, rápida de secar y ocupa poco espacio\n✅ Uso con una sola mano\n✅ Función mojado y seco\n✅ Escurrido automático",
+    "imageUrl": "/images/mopaConBaldeVertical.jfif"
+  },
+  { 
+    "id": "488",
+    "name": "Hidrolavadora portatil inalambrica",
+    "listPrice": 38000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Lavá tu auto en cualquier lugar.\nFunciona con batería recargable y viene con maletín para transportar\nIncluye pico regulable y recipiente para espuma\n\n👉 Ideal para auto, moto y limpieza rápida donde estés",
+    "imageUrl": "/images/hidrolavadoraPortatilInalambrica.jfif"
+  },
+  {    
+    "id": "489",
+    "name": "Cabina para uñas Sun 120W",
+    "listPrice": 26900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Secado rápido y parejo para gel, semi y builder\nPotente 120W, con sensor automático y luz que no daña la vista\n✨ Doble luz UV/LED\n✨ Secado profesional en segundos",
+    "imageUrl": "/images/cabinaParaUnasSun120W.jfif"
+  },
+  {
+    "id": "490",
+    "name": "Smartwatch TK-58 Max - 10 Mallas",
+    "listPrice": 16200,
+    "price": 0,
+    "category": "hogar",
+    "description": "Reloj inteligente multifuncional con diseño moderno y pantalla grande\n✨ Pantalla amplia y táctil\n📱 Compatible con Android y iOS\n🔔 Notificaciones, llamadas y apps\n🖤 Incluye 10 correas intercambiables\n🔋 Batería recargable",
+    "imageUrl": "/images/smartwatchTK58Max10Mallas.jfif"
+  },
+  {
+    "id": "491",
+    "name": "Kit de presion arterial",
+    "listPrice": 11900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Medí tu presión de forma precisa y rápida\n✔️ Manómetro de alta exactitud\n✔️ Brazalete resistente\n✔️ Uso profesional y domiciliario\n✨ Práctico, confiable y fácil de usar",
+    "imageUrl": "/images/kitDePresionArterial.jfif"
+  },
+  {
+    "id": "492",
+    "name": "Funda para bicicleta",
+    "listPrice": 3900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/fundaParaBicicleta.jfif"
   }
 ]
