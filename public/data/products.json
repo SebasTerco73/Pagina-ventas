@@ -1586,7 +1586,7 @@
   {
     "id": "179",
     "name": "Luz de emergencia 60 Led",
-    "listPrice": 10000,
+    "listPrice": 10200,
     "price": 20000,
     "category": "hogar",
     "description": "! máxima potencia y duración !\nideal para el hogar, comercio o depósito\nBatería recargable de larga duración",
@@ -4377,7 +4377,7 @@
     "id": "488",
     "name": "Hidrolavadora portatil inalambrica",
     "listPrice": 38000,
-    "price": 0,
+    "price": 48000,
     "category": "hogar",
     "description": "Lavá tu auto en cualquier lugar.\nFunciona con batería recargable y viene con maletín para transportar\nIncluye pico regulable y recipiente para espuma\n\n👉 Ideal para auto, moto y limpieza rápida donde estés",
     "imageUrl": "/images/hidrolavadoraPortatilInalambrica.jfif"
@@ -4417,5 +4417,158 @@
     "category": "hogar",
     "description": "Sin detalle",
     "imageUrl": "/images/fundaParaBicicleta.jfif"
+  },
+  {
+    "id": "493",
+    "name": "Griferia monocomando flex negro",
+    "listPrice": 17800,
+    "price": 0,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/griferiaMonocomandoFlexNegro.jfif"
+  },
+  {
+    "id": "494",
+    "name": "oximetro de pulso digital",
+    "listPrice": 3900,
+    "price": 10000,
+    "category": "hogar",
+      "description": "✔️_Mide oxígeno en sangre (SpO₂) y frecuencia cardíaca\n✔️_Pantalla LED fácil de leer\n✔️_Compacto, liviano y portátil\n✔️_Alarma de baja saturación y pulso",
+    "imageUrl": "/images/oximetroDePulsoDigital.jfif"
+  },
+  {
+    "id": "495",
+    "name": "Convertidor Tv Stick",
+    "listPrice": 22800,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "TV BOX FUNCIONA CON EL ÚLTIMO SISTEMA DE ANDROID TV\nAsistente de Google tv, Transmite tus programas de tv favoritos, descarga aplicaciones y juegos de Google Play",
+    "imageUrl": "/images/convertidorTvStick.jfif"
+  },
+  {
+    "id": "496",
+    "name": "Auriculares inalambricos osito",
+    "listPrice": 8900,
+    "price": 0,
+    "category": "tecnologia",
+    "description": "Wireless 5.49 | Modelo X88 Pro\n📶 Conexión rápida\n🔋Estuche cargador\n🎨 Varios colores",
+    "imageUrl": "/images/auricularesInalambricosOsito.jfif"
+  },
+  {    
+    "id": "497",
+    "name": "Horno Air fryer Lusqtoff 10L Cream digital",
+    "listPrice": 98900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Capacidad de 10 litros, panel táctil y 8 programas automáticos la hacen ideal para toda la familia\nCon 1400W de potencia, luz interna y puerta con visor, controlás todo sin abrirla\nTimer y temperatura regulable",
+    "imageUrl": "/images/airFryerLusqtoff10LCreamDigital.jfif"
+  },
+  {
+    "id": "498",
+    "name": "Horno de pan Lusqtoff 1kg",
+    "listPrice": 129900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Pan casero fácil y perfecto todos los días 🥖\nCon 600W de potencia, capacidad de 1 kg y 19 programas automáticos, amasa, fermenta y hornea por vos\nCuenta con panel digital, temporizador, control de corteza y molde antiadherente con asa",
+    "imageUrl": "/images/hornoDePanLusqtoff1kg.jfif"
+  },
+  {
+    "id": "499",
+    "name": "Yogurtera Lusqtoff 7 frascos de vidrio",
+    "listPrice": 32000,
+    "price": 0,
+    "category": "cocina",
+    "description": "1,4 litros de capacidad e incluye 7 frascos de vidrio con tapa, ideal para porciones individuales\nDe bajo consumo energético, funcionamiento práctico con botón ON/OFF y diseño moderno para tu cocina",
+    "imageUrl": "/images/yogurteraLusqtoff7FrascosDeVidrio.jfif"
+  },
+  {
+    "id": "500",
+    "name": "Extractor de jugo Lusqtoff 600W",
+    "listPrice": 69900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Cuenta con motor de 600W, boca ancha de 65 mm para frutas y verduras enteras, y cuchilla + filtro de acero inoxidable para una extracción rápida y eficiente\nIncluye jarra de 350 ml, 2 velocidades y pico vertedor para servir sin derrames",
+    "imageUrl": "/images/extractorDeJugoLusqtoff600W.jfif"
+  },
+  {
+    "id": "501",
+    "name": "Freidora industrial Morelli",
+    "listPrice": 251999,
+    "price": 0,
+    "category": "cocina",
+    "description": "Freidora para coccion con aceite y agua .\nCon válvula de desagüe\n Incluye 1 canasto \n Paredes y mango resistentes al calor . 15 litros.🔥",   
+    "imageUrl": "/images/freidoraIndustrialMorelli.jfif"
+  },
+  {
+    "id": "502",
+    "name": "Botella termia Sport 500 ml",
+    "listPrice": 8900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",
+    "imageUrl": "/images/botellaTermiaSport500ml.jfif"
+  },
+  {   
+    "id": "503",
+    "name": "Foco led para espejo x10",
+    "listPrice": 7400,
+    "price": 0,
+    "category": "hogar",
+    "description": "Iluminación tipo camarín para tu espejo. Ideal para maquillaje, skincare y peinado\nLuz potente y uniforme, fácil de instalar y usar\n✨ Estilo Hollywood\n🔌 Conexión USB (enchufás a cargador, PC o power bank)\n🪞 Se adapta a cualquier espejo",
+    "imageUrl": "/images/focoLedParaEspejoX10.jfif"
+  },
+  {
+    "id": "504",
+    "name": "Bicicleta Vex aluminio R16 Niña",
+    "listPrice": 179999,
+    "price": 0,
+    "category": "hogar",
+    "description": "- Cuadro de aluminio liviano y reforzado\n- Componentes de primer nivel\n- Ideal para uso diario, súper resistente y cómoda",
+    "imageUrl": "/images/bicicletaVexAluminioR16Nina.jfif"
+  },
+  {
+    "id": "505",
+    "name": "Pava vintage Lusqtoff 1.7L Negra",
+    "listPrice": 47900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Elegancia y potencia para tu cocina☕\nCon 1,7 L de capacidad, 2200 W de potencia y cuerpo de acero inoxidable, hierve el agua rápido y de forma eficiente\nIncluye base giratoria 360°, apagado automático y visor de nivel de agua para un uso cómodo y seguro",
+    "imageUrl": "/images/pavaVintageLusqtoff1.7LNegra.jfif"
+  },
+  {
+    "id": "506",
+    "name": "Comprensor de aire con medidor",
+    "listPrice": 18500,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Inflá ruedas rápido y fácil. Ideal para auto, moto, bici y pelotas\nCon pantalla digital, diseño tipo pistola, salida USB y conexión 12V",
+    "imageUrl": "/images/comprensorDeAireConMedidor.jfif"
+  },
+  {
+    "id": "507",
+    "name": "Conservadora Gemplas 34L",
+    "listPrice": 16000,
+    "price": 0,
+    "category": "hogar",
+    "description": "⚡ Ideal para playa, picnic y tus viajes\n💥 Conserva  tus bebidas y alimentos con frescura hasta por 24hs .\n🌀 Plástico resistente y duradero, facil de limpiar .",
+    "imageUrl": "/images/conservadoraGemplas34L.jfif"
+  },
+  {
+    "id": "508",
+    "name": "Repasadores Cuchuflito",
+    "listPrice": 3500,
+    "price": 5000,
+    "category": "hogar",
+    "description": "Sin detalle",
+    "imageUrl": "/images/repasadoresCuchuflito.jfif"
+  },
+  {
+    "id": "509",
+    "name": "Batidora de mano - 7 velocidades",
+    "listPrice": 11900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Práctica y liviana, ideal para batir, mezclar y amasar sin esfuerzo\nCuenta con 7 velocidades, 260W de potencia y 4 accesorios intercambiables\n✅ Fácil de usar\n✅ Botón de expulsión segura\n✅ Ideal para tortas, cremas y masas",
+    "imageUrl": "/images/batidoraDeMano7Velocidades.jfif"
   }
 ]
