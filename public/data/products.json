@@ -4350,7 +4350,7 @@
     "id": "485",
     "name": "Bidon termico 1.9L",
     "listPrice": 17800,
-    "price": 0,
+    "price": 28000,
     "category": "cocina",
     "description": "Gran capacidad de 1.9L\nApto frio y calor\nacero inoxidable",
     "imageUrl": "/images/bidonTermico1.9L.jfif"
@@ -4548,7 +4548,7 @@
     "id": "507",
     "name": "Conservadora Gemplas 34L",
     "listPrice": 16000,
-    "price": 0,
+    "price": 28000,
     "category": "hogar",
     "description": "⚡ Ideal para playa, picnic y tus viajes\n💥 Conserva  tus bebidas y alimentos con frescura hasta por 24hs .\n🌀 Plástico resistente y duradero, facil de limpiar .",
     "imageUrl": "/images/conservadoraGemplas34L.jfif"
@@ -4566,9 +4566,27 @@
     "id": "509",
     "name": "Batidora de mano - 7 velocidades",
     "listPrice": 11900,
-    "price": 0,
+    "price": 23000,
     "category": "cocina",
     "description": "Práctica y liviana, ideal para batir, mezclar y amasar sin esfuerzo\nCuenta con 7 velocidades, 260W de potencia y 4 accesorios intercambiables\n✅ Fácil de usar\n✅ Botón de expulsión segura\n✅ Ideal para tortas, cremas y masas",
     "imageUrl": "/images/batidoraDeMano7Velocidades.jfif"
+  },
+  {
+    "id": "510",
+    "name": "Tender extendible de pared Dinax",
+    "listPrice": 28500,
+    "price": 39000,
+    "category": "hogar",
+    "description": "- 5 varillas de 80 cm\n5 metros de capacidad\nSe pliega contra la pared\nMaterial: hierro resistente\nPráctico y fácil de instalar",
+    "imageUrl": "/images/tenderExtendibleDeParedDinax.jfif"
+  },
+  {
+    "id": "511",
+    "name": "Waflera Liliana Crunchywaf - 900W",
+    "listPrice": 17500,
+    "price": 30000,
+    "category": "cocina",
+    "description": "Prepará waffles dorados por fuera y esponjosos por dentro en minutos 😍\n✔️ Superficie antiadherente\n✔️ Temperatura automática\n✔️ Manija Cool Touch (no quema)",
+    "imageUrl": "/images/wafleraLilianaCrunchywaf900W.jfif"
   }
 ]
