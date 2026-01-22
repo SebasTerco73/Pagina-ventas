@@ -3360,7 +3360,7 @@
     "id": "375",
     "name": "Maquina de pelo WAHL Profesional",
     "listPrice": 30000,
-    "price": 0,
+    "price": 41000,
     "category": "hogar",
     "description": "Varios modelos",
     "imageUrl": "/images/maquinaDePeloWahlProfesional.jfif"
@@ -3558,7 +3558,7 @@
     "id": "116",
     "name": "Planchita Suono Profesional",
     "listPrice": 14800,
-    "price":26000,
+    "price": 26000,
     "category": "hogar",
     "description": "Protege tu cabello desde la raíz hasta las puntas\n 4 escalas de temperatura y potencia ajustable!.\n Luz indicadora de encendido",
     "imageUrl": "/images/planchitaSuonoProfesional.jfif"
@@ -3866,7 +3866,7 @@
     "listPrice": 179999,
     "price": 0,
     "category": "infantil",
-    "description": "- Cuadro de aluminio liviano y reforzado\n- Componentes de primer nivel\n- Ideal para uso diario, súper resistente y cómoda",   
+    "description": "- Cuadro de aluminio liviano y reforzado\n- Componentes de primer nivel\n- Ideal para uso diario, súper resistente y cómoda",
     "imageUrl": "/images/bicicletaVexAluminioR16Ninioa.jfif"
   },
   {
@@ -3875,7 +3875,7 @@
     "listPrice": 23400,
     "price": 0,
     "category": "hogar",
-    "description": "3900 c/u llevando 6\n✔ Antideslizantes\n✔ Calidad premium\n✔ Amplia variedad de colores",   
+    "description": "3900 c/u llevando 6\n✔ Antideslizantes\n✔ Calidad premium\n✔ Amplia variedad de colores",
     "imageUrl": "/images/alfombrasShaggyComboNavidenoX6.jfif"
   },
   {
@@ -4373,7 +4373,7 @@
     "description": "Limpiá sin mojarte las manos. Sistema práctico con tanque integrado, ideal para pisos húmedos o secos\nFácil de usar, rápida de secar y ocupa poco espacio\n✅ Uso con una sola mano\n✅ Función mojado y seco\n✅ Escurrido automático",
     "imageUrl": "/images/mopaConBaldeVertical.jfif"
   },
-  { 
+  {
     "id": "488",
     "name": "Hidrolavadora portatil inalambrica",
     "listPrice": 38000,
@@ -4382,7 +4382,7 @@
     "description": "Lavá tu auto en cualquier lugar.\nFunciona con batería recargable y viene con maletín para transportar\nIncluye pico regulable y recipiente para espuma\n\n👉 Ideal para auto, moto y limpieza rápida donde estés",
     "imageUrl": "/images/hidrolavadoraPortatilInalambrica.jfif"
   },
-  {    
+  {
     "id": "489",
     "name": "Cabina para uñas Sun 120W",
     "listPrice": 26900,
@@ -4433,7 +4433,7 @@
     "listPrice": 3900,
     "price": 10000,
     "category": "hogar",
-      "description": "✔️_Mide oxígeno en sangre (SpO₂) y frecuencia cardíaca\n✔️_Pantalla LED fácil de leer\n✔️_Compacto, liviano y portátil\n✔️_Alarma de baja saturación y pulso",
+    "description": "✔️_Mide oxígeno en sangre (SpO₂) y frecuencia cardíaca\n✔️_Pantalla LED fácil de leer\n✔️_Compacto, liviano y portátil\n✔️_Alarma de baja saturación y pulso",
     "imageUrl": "/images/oximetroDePulsoDigital.jfif"
   },
   {
@@ -4454,7 +4454,7 @@
     "description": "Wireless 5.49 | Modelo X88 Pro\n📶 Conexión rápida\n🔋Estuche cargador\n🎨 Varios colores",
     "imageUrl": "/images/auricularesInalambricosOsito.jfif"
   },
-  {    
+  {
     "id": "497",
     "name": "Horno Air fryer Lusqtoff 10L Cream digital",
     "listPrice": 98900,
@@ -4496,7 +4496,7 @@
     "listPrice": 251999,
     "price": 0,
     "category": "cocina",
-    "description": "Freidora para coccion con aceite y agua .\nCon válvula de desagüe\n Incluye 1 canasto \n Paredes y mango resistentes al calor . 15 litros.🔥",   
+    "description": "Freidora para coccion con aceite y agua .\nCon válvula de desagüe\n Incluye 1 canasto \n Paredes y mango resistentes al calor . 15 litros.🔥",
     "imageUrl": "/images/freidoraIndustrialMorelli.jfif"
   },
   {
@@ -4508,7 +4508,7 @@
     "description": "Mantiene la temperatura por horas\nPico levantable con sorbete, acero inox\nTapa reforzada, anti-derrame",
     "imageUrl": "/images/botellaTermiaSport500ml.jfif"
   },
-  {   
+  {
     "id": "503",
     "name": "Foco led para espejo x10",
     "listPrice": 7400,
@@ -4588,5 +4588,41 @@
     "category": "cocina",
     "description": "Prepará waffles dorados por fuera y esponjosos por dentro en minutos 😍\n✔️ Superficie antiadherente\n✔️ Temperatura automática\n✔️ Manija Cool Touch (no quema)",
     "imageUrl": "/images/wafleraLilianaCrunchywaf900W.jfif"
+  },
+  {
+    "id": "512",
+    "name": "Batidora planetaria Lusqtoff 1000W",
+    "listPrice": 119900,
+    "price": 134900,
+    "category": "cocina",
+    "description": "- Motor potente de 1000W\n- Bowl de acero inoxidable\n- Múltiples velocidades\n- Incluye accesorios: gancho amasador, batidor y mezclador\n🍞 Perfecta para masas, cremas, tortas, panificados y mucho más\n3 colores disponibles",
+    "imageUrl": "/images/batidoraPlanetariaLusqtoff1000W.jfif"
+  },
+  {
+    "id": "513",
+    "name": "Plumones Torch doble punta 36 PCZ",
+    "listPrice": 6500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Rotuladores de doble punta ✓\n Calidad Extraordinario ✓\n Fibrones de excelente calidad ✓",
+    "imageUrl": "/images/plumonesTorchDoblePunta36PCZ.jfif"
+  },
+  {
+    "id": "513",
+    "name": "Secarropas a calor Axel 4.5 KL",
+    "listPrice": 104900,
+    "price": 117000,
+    "category": "hogar",
+    "description": "Seca tu Ropa de manera segura y eficaz en tiempo récord sin dañar tus prendas !\nBajo consumo, con tres programas de secado .\nPráctico para espacios pequeños .🫵🏼",
+    "imageUrl": "/images/secarropasACalorAxel4.5KL.jfif"
+  },
+  {
+    "id": "514",
+    "name": "Reposera 5 posiciones Star Trak",
+    "listPrice": 26900,
+    "price": 38000,
+    "category": "hogar",
+    "description": "- Estructura de tubo de acero, firme y resistente\n- 5 posiciones regulables para mayor confort\n- Apoyabrazos de madera\n- Tela reforzada, cómoda y durable\n📏 57 cm x 56 cm x 90 cm",
+    "imageUrl": "/images/reposera5PosicionesStarTrak.jfif"
   }
 ]
