@@ -4622,7 +4622,79 @@
     "listPrice": 26900,
     "price": 38000,
     "category": "hogar",
-    "description": "- Estructura de tubo de acero, firme y resistente\n- 5 posiciones regulables para mayor confort\n- Apoyabrazos de madera\n- Tela reforzada, cómoda y durable\n📏 57 cm x 56 cm x 90 cm",
+    "description": "Estructura de tubo de acero, firme y resistente\n- 5 posiciones regulables para mayor confort\n- Apoyabrazos de madera\n- Tela reforzada, cómoda y durable\n📏 57 cm x 56 cm x 90 cm",
     "imageUrl": "/images/reposera5PosicionesStarTrak.jfif"
+  },
+  {
+    "id": "515",
+    "name": "HIDROLAVADORA GAMA PRO WASH  2000L",
+    "listPrice": 125000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Hidrolavadora de alta presión, ideal para limpiar vehículos, máquinas, paredes ,pisos etc.\n Potencia de 1700 W. Y una presion máxima de 140 bar. Lo que permite una limpieza eficiente y eficaz 🙌🏾",
+    "imageUrl": "/images/hidrolavadoraGamaProWash2000L.jfif"
+  },
+  {
+    "id": "516",
+    "name": "Arrocera electrica 2lts Dinax",
+    "listPrice": 33999,
+    "price": 0,
+    "category": "cocina",
+    "description": "Es una olla eléctrica de 2 litros que ofrece cocción automática con apagado y funcion de mantenimiento de calor. Ideal para el arroz y otras preparaciónes de forma práctica y segura~ 🤗",
+    "imageUrl": "/images/arroceraElectrica2lts.jfif"
+  },
+  {
+    "id": "517",
+    "name": "Combo Wanke secarropas + lavarropas",
+    "listPrice": 230000,
+    "price": 26000,
+    "category": "hogar",
+    "description": "Lavarropas Wanke 6K\n- Sistema semi-automático\n- Carga superior\n- Bajo consumo de agua y energía\nSecarropas Wanke 10KG\n- Alta velocidad de centrifugado\n- Reduce notablemente el tiempo de secado",
+    "imageUrl": "/images/comboWankeSecarropasLavarropas.jfif"
+  },
+  {
+    "id": "518",
+    "name": "Cargador de baterias automovil",
+    "listPrice": 30000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Cargador automático 12V 8A / 24V 4A con pantalla LCD y modo reparación por pulsos\nCompatible con baterías AGM, GEL, SLA y plomo-ácido\nIncluye protecciones completas y detección de temperatura para una carga segura y eficiente\n⚡ Práctico, potente y listo para usar. Ideal auto y moto",
+    "imageUrl": "/images/cargadorDeBateriasAutomovil.jfif"
+  },
+  {
+    "id": "519",
+    "name": "Tostadora con display digital Lusqtoff blanca",
+    "listPrice": 43900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Con pantalla digital y control táctil, ofrece 6 niveles de tostado para lograr el punto justo\nFunciona con 2 rebanadas, tiene 930W de potencia y funciones de descongelar y recalentar para mayor practicidad",
+    "imageUrl": "/images/tostadoraConDisplayDigitalLusqtoffBlanca.jfif"
+  },
+  {
+    "id": "520",
+    "name": "Mountain bike Rodado 29",
+    "listPrice": 225000,
+    "price": 0,
+    "category": "hogar",
+    "description": "✔️ Rodado: 29 pulgadas\n✔️ 21 velocidades\n✔️ Frenos de disco mecánicos (delantero y trasero)\n✔️ Cuadro de aluminio\nIdeal para ciudad, tierra y uso diario\nEstable, cómoda y lista para usar",
+    "imageUrl": "/images/mountainBikeRodado29.jfif"
+  },
+  {
+    "id": "521",
+    "name": "Camara smart a wifi 5 antenas" ,
+    "listPrice": 13500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Ángulo de giro/inclinación: Horizontal 355° y Vertical 120\nLuz infrarroja: 11 LED IR, visibilidad nocturna de hasta 10 metros",
+    "imageUrl": "/images/camaraSmartAWifi5Antenas.jfif"
+  },
+  {
+    "id": "522",
+    "name": "Plumones doble punta 120 pcz",
+    "listPrice": 19900,
+    "price": 0,
+    "category": "hogar",
+    "description": "❎ Incluye punta fina para detalles y punta biselada para trazos amplios\n ❎Estuche con cierre ideal para transportar",
+    "imageUrl": "/images/plumonesDoblePunta120Pcz.jfif"
   }
 ]
