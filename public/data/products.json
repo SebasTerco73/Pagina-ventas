@@ -4696,5 +4696,86 @@
     "category": "hogar",
     "description": "❎ Incluye punta fina para detalles y punta biselada para trazos amplios\n ❎Estuche con cierre ideal para transportar",
     "imageUrl": "/images/plumonesDoblePunta120Pcz.jfif"
+  },
+  {
+    "id": "523",
+    "name": "TRICICLO BEBESIT 3 EN 1",
+    "listPrice": 49500,
+    "price": 0,
+    "category": "infantil",
+    "description": "✔️ 3 modos de uso: empuje, pedales y camicleta\n👶 De 2 a 5 años\n🛠️ Acero reforzado\n🔧 Asiento y manubrio regulables",
+    "imageUrl": "/images/tricicloBebesit3En1.jfif"
+  },
+  {
+    "id": "524",
+    "name": "SECADOR DE ROPA SÚPER EFICIENTE",
+    "listPrice": 29900,
+    "price": 0,
+    "category": "hogar",
+    "description": "Este secador genera un flujo de aire caliente ♨️, que permite secar ropa de forma uniforme y rápida . Incluso en ambientes húmedos .\n SECADO: PRENDAS LIVIANAS EN 30 Min OTRAS EN 60 MIN Y PRENDAS GRUESAS EN UN POCO MAS\nValor en mercado libre entre 55.000 y 70.000✨",
+    "imageUrl": "/images/secadorDeRopaSuperEficiente.jfif"
+  },
+  {
+    "id": "525",
+    "name": "LAMPARA DE MESA TÁCTIL",
+    "listPrice": 8500,
+    "price": 0,
+    "category": "hogar",
+    "description": "Iluminación práctica y moderna para estudiar o trabajar. Batería de litio recargable por USB, diseño flexible y luz clara que no cansa la vista. Ideal para escritorio, mesa de noche o estudio. ",
+    "imageUrl": "/images/lamparaDeMesaTactil.jfif"
+  },
+  {
+    "id": "526",
+    "name": "DESPERTADOR Y RELOJ ESPEJO LED",
+    "listPrice": 13500,
+    "price": 0,
+    "category": "hogar",
+    "description": "✨ Diseño moderno tipo espejo\n⏰ Alarma + reloj digital\n💡 Luz LED clara y elegante",
+    "imageUrl": "/images/relojEspejoLED.jfif"
+  },
+  {
+    "id": "527",
+    "name": "MICROONDAS OM 22L",
+    "listPrice": 137500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Potente y moderno. Capacidad de 22 litros, panel digital, función descongelar por peso y bloqueo para niños. Ideal para un uso práctico y seguro en la cocina",
+    "imageUrl": "/images/microondasOM22L.jfif"
+  },
+  {
+    "id": "528",
+    "name": "TAZA CAFE 600ML CON MESCLADOR A PILA",
+    "listPrice": 8500,
+    "price": 0,
+    "category": "cocina",
+    "description": "Diseñadas para mezclar bebidas como café, té, chocolate caliente o batidos de proteínas de forma automática con solo presionar un botón",
+    "imageUrl": "/images/tazaCafe600MlConMescladorAPila.jfif"
+  },
+  {
+    "id": "529",
+    "name": "VAPORERA ELECTRICA 3 PISOS",
+    "listPrice": 31499,
+    "price": 0,
+    "category": "cocina",
+    "description": " 3 CESTAS DE COCCIÓN✓ \n CAPACIDAD 8,5 LITROS ✓\n COMIDAS SALUDABLES Y SABROSAS✓",
+    "imageUrl": "/images/vaporeraElectrica3Pisos.jfif"
+  },
+  {
+    "id": "530",
+    "name": "Caja de herramientas de juguete",
+    "listPrice": 38000,
+    "price": 0,
+    "category": "infantil",
+    "description": "Mesa de trabajo que se transforma en valija portátil\nIncluye herramientas, es fácil de armar y tiene espacio para guardar todo.\nIdeal para niños +3 años\n✨Práctica, divertida y perfecta para jugar en casa o llevar a todos lados.",
+    "imageUrl": "/images/cajaDeHerramientasDeJuguete.jfif"
+  },
+  {
+    "id": "531",
+    "name": "Mini pizarra de tizas",
+    "listPrice": 22500,
+    "price": 0,
+    "category": "hogar",
+    "description": "✏️ Pizarrón negro para tiza\n🖊️ Pizarra blanca para fibrones\n✔️ Estructura de madera resistente\n✔️ Altura ideal para chicos\n✔️ Incluye bandeja porta útiles, tizas, fibra y borrador\n✔️ Estimula la creatividad, escritura y dibujo",
+    "imageUrl": "/images/miniPizarraDeTizas.jfif"
   }
 ]
