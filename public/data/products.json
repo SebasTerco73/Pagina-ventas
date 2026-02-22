@@ -1200,7 +1200,7 @@
     "id": "136",
     "name": "Vaporera electrica Dinax",
     "listPrice": 31499,
-    "price": 44000,
+    "price": 41500,
     "category": "cocina",
     "description": "3 pisos\n 3 CESTAS DE COCCIÓN✓\nCAPACIDAD 8,5 LITROS ✓\nCOMIDAS SALUDABLES Y SABROSAS✓",
     "imageUrl": "/images/vaporeraDinax.jfif"
@@ -2998,7 +2998,7 @@
   },
   {
     "id": "337",
-    "name": "Maquna de donas profesiona",
+    "name": "Maquina de donas profesiona",
     "listPrice": 30000,
     "price": 0,
     "category": "cocina",
@@ -3360,7 +3360,7 @@
     "id": "375",
     "name": "Maquina de pelo WAHL Profesional",
     "listPrice": 30000,
-    "price": 41000,
+    "price": 42000,
     "category": "hogar",
     "description": "Varios modelos",
     "imageUrl": "/images/maquinaDePeloWahlProfesional.jfif"
@@ -4752,15 +4752,6 @@
     "imageUrl": "/images/tazaCafe600MlConMescladorAPila.jfif"
   },
   {
-    "id": "529",
-    "name": "VAPORERA ELECTRICA 3 PISOS",
-    "listPrice": 31499,
-    "price": 0,
-    "category": "cocina",
-    "description": " 3 CESTAS DE COCCIÓN✓ \n CAPACIDAD 8,5 LITROS ✓\n COMIDAS SALUDABLES Y SABROSAS✓",
-    "imageUrl": "/images/vaporeraElectrica3Pisos.jfif"
-  },
-  {
     "id": "530",
     "name": "Caja de herramientas de juguete",
     "listPrice": 38000,
@@ -4777,5 +4768,104 @@
     "category": "hogar",
     "description": "✏️ Pizarrón negro para tiza\n🖊️ Pizarra blanca para fibrones\n✔️ Estructura de madera resistente\n✔️ Altura ideal para chicos\n✔️ Incluye bandeja porta útiles, tizas, fibra y borrador\n✔️ Estimula la creatividad, escritura y dibujo",
     "imageUrl": "/images/miniPizarraDeTizas.jfif"
+  },
+  {
+    "id": "532",
+    "name": "Rack doble para ropa",
+    "listPrice": 18500,
+    "price": 25500,
+    "category": "hogar",
+    "description": "👗 Espacio para colgar ropa\n👟 Varios estantes para calzado y cajas\n👜 Laterales para carteras y accesorios\nLiviano, práctico y fácil de mover\n📏 Medidas: 166 cm alto · 56 cm ancho ·",
+    "imageUrl": "/images/rackDobleParaRopa.jfif"
+  },
+  {
+    "id": "533",
+    "name": "Mochila 3d Premium",
+    "listPrice": 8500,
+    "price": 0,
+    "category": "infantil",
+    "description": "Diseño relieve 3D, 12 pulgadas\nTamaño ideal para jardin y primaria\nLivianas,comodas y resistentes",
+    "imageUrl": "/images/mochila3dPremium.jfif"
+  },
+  {
+    "id": "534",
+    "name": "MOCHILA MATERNAL CON CAMBIADOR",
+    "listPrice": 22000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Incluye cambiador portátil para mayor comodidad\nAmplio espacio interior para pañales, ropa, mamaderas y accesorios\nSe puede usar como mochila o bolso, ideal para el día a día✨️",
+    "imageUrl": "/images/mochilaMaternalConCambiador.jfif"
+  },
+  {
+    "id": "535",
+    "name": "ARRANCADOR DE AUTO CON BATERIA PORTÁTIL",
+    "listPrice": 70000,
+    "price": 0,
+    "category": "hogar",
+    "description": "Arrancá tu auto en segundos, inflá neumáticos y cargá tus dispositivos.\nIncluye compresor, luz LED de emergencia , función power bank Y accesorios.\nCompacto, práctico y fácil de transportar. Ideal para auto, moto y lancha\n6000mah 220V",
+    "imageUrl": "/images/arrancadorAutoConBateriaPortatil.jfif"
+  },
+  {
+    "id": "536",
+    "name": "Afeitadora femenina 4 en 1",
+    "listPrice": 15000,
+    "price": 0,
+    "category": "hogar",
+    "description": " 5V - 3W\nUn solo equipo para depilación y retoques en todo el cuerpo\n- Cabezal para nariz y orejas\n- Cabezal para cuerpo\n- Cabezal facial\n- Cabezal para cejas\nRecargable, práctico y fácil de usar",
+    "imageUrl": "/images/afeitadoraFemenina4En1.jfif"
+  },
+  {
+    "id": "537",
+    "name": "JUEGO DE OLLAS MAS CUCHILLOS",
+    "listPrice": 105900,
+    "price": 0,
+    "category": "cocina",
+    "description": "Incluye ollas y sartenes antiadherentes + set de cuchillos con soporte para que cocines cómodo, rápido y sin que nada se pegue\nCuchillos para todo uso (pan, carne, chef, santoku + tijeras)\nSartenes de 20cm, 22cm y 32cm",
+    "imageUrl": "/images/juegoDeOllasMasCuchillos.jfif"
+  },
+  {
+    "id": "538",
+    "name": "GRIFO DE COCINA ACERO INOX",
+    "listPrice": 12800,
+    "price": 0,
+    "category": "cocina",
+    "description": "grifo de acero inoxidable, resistente y moderno. Tiene doble comando para regular frío y caliente y pico giratorio 360° para mayor comodidad\nIncluye kit de instalación",
+    "imageUrl": "/images/grifoDeCocinaAceroInox.jfif"
+  },
+  {
+    "id": "539",
+    "name": "JUEGO DE OLLAS DE 7 PIEZAS OM ALUMINIO",
+    "listPrice": 72000,
+    "price": 0,
+    "category": "cocina",
+    "description": "Set de ollas antiadherentes ideal para cocinar todos los días\n18/20/24/24cm\n- Aluminio con recubrimiento antiadherente\n- Mangos ergonómicos antitérmicos\n- Apta para cocinas a gas, eléctricas y vitroceramicas",
+    "imageUrl": "/images/juegoDeOllasDe7PiezasOmAluminio.jfif"
+  },
+  {
+    "id": "540",
+    "name": "CAJA DE HERRAMIENTAS 108 PIEZAS",
+    "listPrice": 48000,
+    "price": 0,
+    "category": "herramientas",
+    "description": "Kit completo en valija rígida, ideal para el hogar, taller o auto. Incluye destornilladores, llaves, pinzas, tubos, cinta métrica, martillo y mucho más. Todo organizado, resistente y listo para cualquier reparación o mantenimiento.",
+    "imageUrl": "/images/cajaDeHerramientas108Piezas.jfif"
+  }
+  {
+    "id": "541",
+    "name": "SECADOR DE PELO PROFESIONAL  3500W ",
+    "listPrice": 16900,
+    "price": 27000,
+    "category": "hogar",
+    "description": "Potencia extrema para un secado rápido y resultados de salón en casa\n-  Control de temperatura constante\n- Regulación de velocidad y temperatura",
+    "imageUrl": "/images/secadorPeloProfesional3500W.jfif"
+  },
+  {
+    "id": "542",
+    "name": "SECADOR DE PELO PROFESIONAL 2000W ESTILO DYSON",
+    "listPrice": 12900,
+    "price": 23000,
+    "category": "hogar",
+    "description": " eficiente para un secado rápido y cuidado del cabello\n- Control de temperatura constante\n- Ajuste de velocidad y temperatura\n- Diseño cómodo y fácil de maneja",
+    "imageUrl": "/images/secadorPeloProfesional2000WEstiloDyson.jfif"
   }
 ]
