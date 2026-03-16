@@ -51,13 +51,9 @@ export const ItemDetail = ({ detail, onUpdate }) => {
             const yaExiste = archivosExistentes?.some(f => f.name === imagen.name);
 
             if (yaExiste) {
-                const confirmar = window.confirm(
-                    `Ya existe una imagen llamada "${imagen.name}". ¿Querés reemplazarla?`
-                );
-                if (!confirmar) {
-                    setLoading(false);
-                    return;
-                }
+                alert(`Ya existe una imagen llamada "${imagen.name}". Cambiá el nombre del archivo e intentá de nuevo.`);
+                setLoading(false);
+                return;
             }
 
             // Borrar imagen vieja SOLO si es distinta a la nueva
