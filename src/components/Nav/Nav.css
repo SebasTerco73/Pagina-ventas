@@ -89,6 +89,8 @@ nav {
   border-radius: 6px;
 }
 
+
+
 .buscador input {
   padding: 0.45rem 0.85rem;
   border-radius: 6px;
@@ -110,6 +112,16 @@ nav {
   outline: none;
   border-color: #0077cc; 
   box-shadow: 0 0 6px rgba(0, 119, 204, 0.3);
+}
+
+.nav-admin-link {
+  font-size: 0.85em;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.nav-admin-link:hover {
+  opacity: 1;
 }
 
 /* ---------- RESPONSIVE (mobile behavior) ---------- */

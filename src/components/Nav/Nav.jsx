@@ -11,19 +11,19 @@ export const Nav = () => {
 
 
   useEffect(() => {
-  // Si estás en detalle, no cambies el navActivo
+    // Si estás en detalle, no cambies el navActivo
     if (location.pathname.startsWith("/detail")) return;
 
-     // Actualizar el navActivo según la ruta actual
+    // Actualizar el navActivo según la ruta actual
     if (location.pathname === "/") {
       setNavActivo("/");
       // Cada vez que cambia la ruta, actualizamos la pestaña activa
-      } else if (location.pathname.startsWith("/category/")) {
-        const categoryPath = location.pathname;
-        setNavActivo(categoryPath);
-      }
-    }, [location.pathname, setNavActivo]);
-    
+    } else if (location.pathname.startsWith("/category/")) {
+      const categoryPath = location.pathname;
+      setNavActivo(categoryPath);
+    }
+  }, [location.pathname, setNavActivo]);
+
   // Cierra el menú cuando se hace clic en un link (opcional, mejora UX móvil)
   const handleLinkClick = () => setMenuAbierto(false);
 
@@ -32,7 +32,7 @@ export const Nav = () => {
     handleLinkClick();
   };
 
-  
+
   return (
     <nav>
       {/* ---------- LOGO ---------- */}
@@ -59,15 +59,15 @@ export const Nav = () => {
       <ul className={`categorias ${menuAbierto ? "abierto" : ""}`}>
         <li>
           <Link to={"/"}
-          onClick={() => { handleLogoClick(); setNavActivo("/"); irAPrimeraPagina("home");}}
-          className={navActivo === "/" ? "activo" : ""}>
+            onClick={() => { handleLogoClick(); setNavActivo("/"); irAPrimeraPagina("home"); }}
+            className={navActivo === "/" ? "activo" : ""}>
             Catálogo
           </Link>
         </li>
         <li>
           <Link to={"/category/hogar"}
-          onClick={() => { handleLinkClick(); setNavActivo("/category/hogar"); irAPrimeraPagina("hogar"); }}
-          className={navActivo  === "/category/hogar" ? "activo" : ""}>
+            onClick={() => { handleLinkClick(); setNavActivo("/category/hogar"); irAPrimeraPagina("hogar"); }}
+            className={navActivo === "/category/hogar" ? "activo" : ""}>
             Hogar
           </Link>
         </li>
@@ -100,9 +100,19 @@ export const Nav = () => {
         </li>
         <li>
           <Link to={"/category/infantil"}
-          onClick={() => { handleLinkClick(); setNavActivo("/category/infantil"); irAPrimeraPagina("infantil"); }}
-          className={navActivo  === "/category/infantil" ? "activo" : ""}>
+            onClick={() => { handleLinkClick(); setNavActivo("/category/infantil"); irAPrimeraPagina("infantil"); }}
+            className={navActivo === "/category/infantil" ? "activo" : ""}>
             Infantil
+          </Link>
+        </li>
+
+        <li>
+          <Link
+            to="/admin"
+            onClick={handleLinkClick}
+            className="nav-admin-link"
+          >
+            🔒 Admin
           </Link>
         </li>
       </ul>

@@ -3,6 +3,7 @@ import { ProductContext } from "../../context/ProductContext";
 import { useParams } from "react-router-dom";
 import { ItemList } from "../ItemList/ItemList";
 import "./ItemListContainer.css";
+import { supabase } from '../../supabaseClient' 
 
 export const ItemListContainer = () => {
   const [products, setProducts] = useState([]);
@@ -18,11 +19,15 @@ export const ItemListContainer = () => {
   const productosPorPagina = 30;
 
   useEffect(() => {
-    fetch("/data/products.json")
-      .then((res) => res.json())
-      .then((data) => setProducts(data))
-      .finally(() => setLoading(false));
-  }, []);
+  supabase
+    .from('productos')
+    .select('*')
+    .then(({ data, error }) => {
+      if (error) console.error(error)
+      else setProducts(data)
+    })
+    .finally(() => setLoading(false))
+}, [])
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });

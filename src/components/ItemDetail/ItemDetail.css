@@ -1,7 +1,93 @@
 /* ---------- RESPONSIVE ---------- */
 
-.btn-volver{
-  margin-top: 20px;
+.form-editar {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 480px;
+    margin: 20px auto 0;
+}
+
+.form-editar h3 {
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.botones-detalle {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+    justify-content: center;
+}
+
+.form-editar input,
+.form-editar textarea,
+.form-editar select {
+    padding: 10px 14px;
+    font-size: 15px;
+    border: 1px solid #344a5e;
+    border-radius: 6px;
+    background-color: #162330;
+    color: rgba(255, 255, 255, 0.92);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-editar textarea {
+    resize: vertical;
+}
+
+.admin-acciones {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+    justify-content: center;
+}
+
+.btn-eliminar {
+    background-color: #c0392b !important;
+}
+
+.btn-eliminar:hover {
+    background-color: #a93226 !important;
+    border-color: #a93226 !important;
+}
+
+.btn-eliminar:disabled {
+    background-color: #555 !important;
+    cursor: not-allowed;
+}
+
+.confirm-eliminar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 480px;
+    margin-top: 16px;
+    padding: 16px;
+    border: 1px solid #c0392b;
+    border-radius: 8px;
+    background-color: #1e0f0f;
+}
+
+.confirm-eliminar p {
+    margin: 0;
+    font-size: 15px;
+}
+
+.item-detail-container > button {
+    margin-top: 12px;
+}
+
+.confirm-eliminar input {
+    padding: 10px 14px;
+    font-size: 15px;
+    border: 1px solid #c0392b;
+    border-radius: 6px;
+    background-color: #162330;
+    color: rgba(255, 255, 255, 0.92);
+    box-sizing: border-box;
 }
 
 /* Tablets horizontales (~≤992px) */
@@ -33,16 +119,18 @@
 .download-btn {
     background-color: #4CAF50;
     color: white;
-    border: 2px solid transparent; /* borde invisible por defecto */
-    padding: 8px 12px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
     border-radius: 8px;
     cursor: pointer;
-    margin: 8px;
-    transition: all 0.2s ease-in-out; /* animación suave */
+    transition: border-color 0.25s, background-color 0.25s;
+    margin: 0;
 }
 
 .download-btn:hover {
     background-color: #35a03a;
-    transform: scale(1.2);
-    border-color: white;
+    border-color: #ffaa33;
 }

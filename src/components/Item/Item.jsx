@@ -3,9 +3,9 @@
 
 import "./Item.css";
 
-export const Item = ({ name, price, description, imageUrl, children }) => {
+export const Item = ({ name, price, description, image_url, children }) => {
     const imagenPorDefecto = "/images/default.png"; // ruta de tu imagen default
-    const imagenFinal = imageUrl || imagenPorDefecto;
+    const imagenFinal = image_url || imagenPorDefecto;
     return <article className="item-card">
         <div className="item-info">
             <img
