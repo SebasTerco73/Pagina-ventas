@@ -60,10 +60,12 @@ export const ItemDetail = ({ detail, onUpdate }) => {
                 }
             }
 
-            // Borrar imagen vieja si es de supabase
+            // Borrar imagen vieja SOLO si es distinta a la nueva
             if (detail.image_url && detail.image_url.includes("supabase")) {
                 const nombreViejo = detail.image_url.split("/public/").pop();
-                await supabase.storage.from("productos").remove([`public/${nombreViejo}`]);
+                if (nombreViejo !== imagen.name) {
+                    await supabase.storage.from("productos").remove([`public/${nombreViejo}`]);
+                }
             }
 
             const { error: uploadError } = await supabase.storage
