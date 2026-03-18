@@ -180,7 +180,7 @@ export const ItemDetail = ({ detail, onUpdate }) => {
                         <button
                             className="btn-eliminar"
                             onClick={handleEliminar}
-                            disabled={textoConfirm !== "eliminar" || loading}
+                            disabled={textoConfirm.toLowerCase() !== "eliminar" || loading}
                         >
                             {loading ? "Eliminando..." : "Confirmar eliminación"}
                         </button>
