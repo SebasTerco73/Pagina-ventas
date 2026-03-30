@@ -23,7 +23,7 @@ Visita la aplicación en vivo: [https://elektro-ventas.vercel.app](https://elekt
 - 🔄 Navegación fluida con React Router
 - 📱 Diseño adaptable a diferentes dispositivos
 - 🎯 Gestión de estado con Context API
-- 🔒 Login para datos sensibles
+- 🔒 Login para CRUD de datos
 
 ## 🛠️ Tecnologías
 
